@@ -5,7 +5,7 @@
 struct manufacturer {
     int id;
     std::string name;
-    std::string country;
+    std::string country; // DE, RU, US
 };
 
 #endif//DB_WORKSHOP_MANUFACTURER_H

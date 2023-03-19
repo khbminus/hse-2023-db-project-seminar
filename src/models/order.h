@@ -4,6 +4,7 @@
 #include "item.h"
 #include <vector>
 struct order {
+    int id;
     user customer;
     std::vector<item> items;
     std::string delivery_address;

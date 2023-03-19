@@ -3,9 +3,10 @@
 
 
 #include <string>
+
 struct user {
     int id;
     std::string name;
     std::string surname;
 };
-#endif//DB_WORKSHOP_ORDER_H
+#endif//DB_WORKSHOP_USER_H

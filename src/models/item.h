@@ -3,6 +3,7 @@
 #include "manufacturer.h"
 struct item {
     int id;
+    std::string name;
     int price;
     double rating;
     manufacturer manufacturer;

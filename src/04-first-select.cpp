@@ -37,7 +37,7 @@ int main() {
             users.push_back(construct_user(row));
         }
 
-        for (const auto& row : tx.stream<int, std::string, std::string>("SELECT * FROM USERS")) {
+        for (const auto& [id, name, surname] : tx.stream<int, std::string, std::string>("SELECT * FROM USERS")) {
             // blazing fast
         }
 

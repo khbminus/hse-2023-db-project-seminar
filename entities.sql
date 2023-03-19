@@ -1998,3003 +1998,3003 @@ INSERT INTO manufacturers(id, name, country) VALUES(DEFAULT, 'Lopez, Kramer and 
 INSERT INTO manufacturers(id, name, country) VALUES(DEFAULT, 'Martin, Robertson and Howard', 'ES');
 INSERT INTO manufacturers(id, name, country) VALUES(DEFAULT, 'Jones-Williams', 'SI');
 INSERT INTO manufacturers(id, name, country) VALUES(DEFAULT, 'Wilson PLC', 'IQ');
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'old hit appear', 3978, 0.557, 814);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'commercial home father', 2531, 0.909, 1000);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'clear seat five', 1043, 0.432, 407);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'blue determine marriage', 482, 0.512, 781);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'tell recognize return', 3005, 0.340, 101);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'rise area all', 2971, 0.198, 667);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'two phone control', 906, 0.293, 469);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'lay film let', 1446, 0.149, 669);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'lay bad measure', 1684, 0.379, 826);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'drop leader send', 2618, 0.465, 681);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'often senior continue', 4316, 0.044, 197);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'direction goal despite', 4328, 0.646, 877);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'activity decade appear', 2377, 0.086, 382);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'simple dog decade', 1862, 0.409, 529);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'word miss seek', 3025, 0.741, 940);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'back just military', 1915, 0.946, 695);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'full our budget', 3071, 0.185, 566);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'treatment happen degree', 4265, 0.994, 899);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'enjoy hard mouth', 4757, 0.919, 103);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'start trip present', 1627, 0.193, 321);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'rest foreign teach', 4557, 0.260, 26);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'carry whole no', 4866, 0.547, 957);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'tend idea cup', 4949, 0.209, 141);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'keep maybe avoid', 658, 0.262, 272);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'five generation instead', 4052, 0.517, 793);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'American strategy back', 426, 0.456, 732);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'one new hundred', 3529, 0.708, 473);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'general toward lead', 4517, 0.444, 870);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'player stock rate', 4120, 0.321, 48);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'add movement nearly', 3709, 0.435, 329);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'carry check other', 4101, 0.344, 365);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'picture part sort', 4367, 0.914, 998);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'buy finish without', 793, 0.692, 44);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'keep without buy', 4956, 0.398, 483);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'matter your cause', 1749, 0.199, 77);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'person production simply', 26, 0.450, 558);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'imagine seven garden', 2954, 0.730, 560);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'must future firm', 873, 0.514, 541);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'eat large carry', 1971, 0.844, 17);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'make rate ago', 3639, 0.186, 469);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'coach true within', 3301, 0.524, 277);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'main different describe', 2149, 0.622, 933);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'between late need', 2053, 0.863, 260);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'throughout and support', 1049, 0.150, 523);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'tax turn two', 4072, 0.344, 136);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'act everyone stage', 1318, 0.971, 999);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'save hold believe', 3218, 0.711, 711);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'stand really remain', 4314, 0.232, 297);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'own shoulder quite', 154, 0.840, 5);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'official wait stock', 2971, 0.782, 827);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'until threat media', 2416, 0.126, 885);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'as serve race', 1756, 0.762, 162);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'discover glass carry', 4836, 0.066, 621);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'because off admit', 2511, 0.103, 139);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'newspaper help our', 802, 0.821, 341);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'wear than bill', 1458, 0.466, 635);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'such four each', 1612, 0.193, 909);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'on stop eye', 3751, 0.694, 972);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'front soldier window', 3667, 0.504, 729);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'most house both', 2219, 0.651, 313);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'law condition throughout', 4149, 0.064, 682);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'style manage step', 4131, 0.860, 371);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'investment plant address', 520, 0.186, 332);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'important reality order', 3526, 0.955, 289);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'reality everybody agent', 1780, 0.508, 79);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'poor worker remember', 4130, 0.583, 660);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'black find challenge', 1988, 0.242, 267);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'compare fish movement', 4571, 0.484, 10);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'manager central however', 3591, 0.825, 953);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'music market military', 4844, 0.205, 312);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'wait office personal', 3034, 0.310, 215);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'political large explain', 3479, 0.921, 468);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'choose everyone piece', 1643, 0.316, 609);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'push watch their', 3913, 0.658, 536);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'seat add while', 441, 0.540, 521);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'same laugh any', 3672, 0.309, 4);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'conference to artist', 2379, 0.381, 937);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'born different able', 2456, 0.589, 830);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'mission thought important', 40, 0.602, 916);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'future fight wear', 4311, 0.348, 116);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'quickly person example', 2789, 0.560, 744);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'expect language my', 2510, 0.407, 812);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'sound represent check', 2004, 0.250, 725);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'sort week point', 1762, 0.103, 852);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'young party guy', 1430, 0.130, 113);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'someone pick five', 4858, 0.627, 645);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'exist owner culture', 1680, 0.065, 250);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'cost newspaper bed', 4442, 0.968, 72);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'spring win whose', 126, 0.449, 310);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'close camera run', 2098, 0.286, 871);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'teacher read audience', 4498, 0.713, 320);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'day run budget', 468, 0.313, 901);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'member crime nearly', 3903, 0.201, 262);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'physical customer apply', 3322, 0.382, 85);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'history majority population', 2415, 0.333, 751);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'simply north even', 2368, 0.045, 945);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'less television year', 2258, 0.774, 752);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'stop these center', 2881, 0.563, 738);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'picture instead cut', 1611, 0.154, 197);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'when case pass', 2859, 0.353, 496);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'role develop matter', 4042, 0.401, 410);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'expect true other', 4659, 0.277, 639);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'tax hospital fund', 763, 0.409, 207);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'easy partner world', 4586, 0.849, 675);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'case road site', 297, 0.897, 234);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'vote seat sing', 1939, 0.516, 634);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'give increase guess', 4162, 0.953, 752);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'fast attorney whatever', 4467, 0.207, 455);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'almost little image', 164, 0.011, 30);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'seven from reason', 756, 0.593, 857);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'five candidate feeling', 2499, 0.242, 176);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'exist challenge government', 1658, 0.829, 312);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'include Mr before', 2405, 0.504, 999);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'trade live western', 2854, 0.572, 569);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'reason resource cut', 2874, 0.647, 982);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'single fish dream', 3773, 0.425, 7);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'expert parent beyond', 1720, 0.415, 609);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'leave others officer', 396, 0.939, 414);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'book early he', 1632, 0.814, 33);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'wrong clear without', 3403, 0.254, 556);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'film feel water', 1286, 0.554, 919);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'explain tree see', 617, 0.831, 566);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'peace community available', 3209, 0.546, 118);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'teacher ever like', 4414, 0.319, 657);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'form fear because', 3264, 0.431, 358);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'account fire good', 4966, 0.545, 740);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'bank ground couple', 4399, 0.521, 542);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'character election song', 4918, 0.158, 767);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'standard into consider', 2246, 0.807, 861);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'recognize certain front', 3588, 0.675, 318);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'would serious fact', 1315, 0.367, 290);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'behavior job development', 347, 0.030, 79);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'local baby why', 2837, 0.147, 789);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'four good light', 1054, 0.562, 4);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'feeling develop prevent', 583, 0.221, 955);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'yourself budget start', 1253, 0.077, 226);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'team happy pass', 1495, 0.537, 252);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'prove new collection', 462, 0.155, 794);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'deep involve where', 2171, 0.296, 889);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'development maintain care', 665, 0.625, 456);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'they suffer man', 3170, 0.616, 193);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'coach well prevent', 4582, 0.940, 501);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'trial cut reflect', 392, 0.343, 48);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'wonder would find', 2783, 0.516, 903);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'arrive smile you', 3856, 0.724, 93);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'ahead save think', 3890, 0.879, 660);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'race dream morning', 1847, 0.675, 487);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'season positive my', 531, 0.567, 670);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'who quite defense', 2138, 0.544, 836);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'lose attack bring', 4541, 0.132, 815);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'sign might movie', 1940, 0.537, 522);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'turn cut lose', 4071, 0.997, 712);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'crime voice expect', 730, 0.230, 860);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'marriage ground name', 1855, 0.546, 555);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'artist party pretty', 4067, 0.874, 183);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'mind sea market', 183, 0.419, 735);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'note up six', 1930, 0.190, 536);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'door floor article', 4426, 0.948, 972);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'during already tree', 3860, 0.198, 44);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'project very movement', 811, 0.285, 416);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'rather hair fear', 1151, 0.894, 996);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'detail east Mrs', 2993, 0.712, 172);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'color economic I', 1868, 0.738, 269);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'stand few not', 4916, 0.317, 792);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'decade ball trouble', 4590, 0.720, 804);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'eat wrong way', 413, 0.284, 479);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'everybody face every', 4936, 0.473, 432);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'continue public major', 3119, 0.706, 929);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'because card financial', 3719, 0.620, 586);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'former charge without', 2196, 0.503, 984);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'item ever want', 3916, 0.981, 643);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'bill join fast', 1196, 0.923, 858);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'rather right field', 1300, 0.298, 183);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'bit alone factor', 3077, 0.160, 418);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'million executive modern', 4107, 0.549, 411);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'own might decade', 807, 0.820, 477);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'particular bank cold', 4337, 0.421, 871);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'guy economy believe', 2720, 0.946, 162);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'continue hold like', 2349, 0.336, 556);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'business important guy', 3275, 0.006, 945);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'today draw garden', 4193, 0.494, 935);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'between close bad', 1261, 0.784, 328);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'specific character money', 403, 0.793, 501);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'sport show certainly', 1335, 0.286, 182);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'include size relationship', 1139, 0.916, 87);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'site my several', 2045, 0.281, 919);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'per total listen', 253, 0.593, 774);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'together if from', 3587, 0.403, 855);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'city though debate', 61, 0.418, 294);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'official produce stop', 3318, 0.468, 867);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'because near leg', 2939, 0.371, 378);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'arm city government', 1565, 0.920, 396);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'follow old charge', 2121, 0.921, 994);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'truth race since', 2082, 0.336, 573);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'fast us skill', 205, 0.607, 168);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'return form environment', 4503, 0.338, 787);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'deep majority bank', 2954, 0.367, 70);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'hour each rest', 2720, 0.043, 357);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'economy bad exactly', 4075, 0.902, 96);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'traditional owner visit', 3989, 0.011, 773);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'shake many identify', 1685, 0.324, 159);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'choose some mean', 2778, 0.886, 10);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'six base full', 3881, 0.378, 272);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'defense trip gas', 1631, 0.799, 349);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'office almost behind', 1881, 0.940, 531);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'friend population Mr', 2086, 0.805, 466);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'almost thank official', 2529, 0.974, 996);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'stay analysis trade', 3873, 0.932, 994);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'Congress summer focus', 4557, 0.650, 735);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'type network place', 3577, 0.843, 903);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'career million find', 787, 0.891, 734);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'fear mention score', 1856, 0.194, 172);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'create evidence far', 2088, 0.989, 690);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'magazine drive learn', 45, 0.530, 380);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'tell me manage', 2407, 0.387, 79);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'foreign economy fine', 582, 0.657, 17);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'certainly quickly product', 2414, 0.141, 301);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'media child gun', 2230, 0.052, 100);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'least I middle', 88, 0.141, 647);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'wrong argue some', 4652, 0.425, 805);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'hear site myself', 2679, 0.822, 263);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'they magazine we', 1689, 0.762, 177);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'beautiful responsibility hope', 687, 0.139, 672);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'sing election rest', 4208, 0.400, 85);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'catch second moment', 4616, 0.273, 351);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'should team claim', 1979, 0.220, 141);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'others couple community', 4422, 0.911, 817);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'really money pay', 80, 0.759, 986);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'PM start Mr', 2016, 0.900, 758);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'window practice out', 4631, 0.528, 425);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'machine decade industry', 3175, 0.842, 885);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'agent large collection', 4633, 0.144, 559);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'movement action wife', 2924, 0.861, 525);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'performance others dark', 4679, 0.092, 389);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'medical tough important', 484, 0.054, 626);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'according weight both', 1379, 0.343, 465);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'respond herself church', 3115, 0.890, 125);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'force policy continue', 4493, 0.468, 70);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'again difficult effect', 506, 0.733, 605);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'physical agree available', 3162, 0.210, 295);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'break court grow', 3409, 0.571, 240);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'wide themselves those', 249, 0.934, 549);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'share husband fast', 4383, 0.108, 322);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'sense part camera', 795, 0.679, 320);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'record record woman', 1211, 0.004, 753);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'show across specific', 382, 0.338, 713);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'our walk tonight', 509, 0.832, 352);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'standard rise price', 3067, 0.268, 295);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'quality instead argue', 3631, 0.444, 588);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'author daughter fall', 1831, 0.850, 304);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'base check often', 3640, 0.313, 990);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'which job beyond', 2292, 0.754, 372);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'find present case', 689, 0.024, 65);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'instead some together', 210, 0.057, 718);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'how break end', 846, 0.181, 5);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'scene remain agree', 1655, 0.139, 70);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'home age get', 3361, 0.151, 571);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'enter quite prevent', 583, 0.557, 308);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'research reflect how', 1249, 0.039, 402);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'think raise deep', 2161, 0.220, 464);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'administration best save', 648, 0.903, 204);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'war expect involve', 3123, 0.747, 974);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'anyone hard hair', 4449, 0.926, 507);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'environmental call including', 2018, 0.006, 546);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'ground participant company', 4489, 0.599, 972);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'action physical heart', 298, 0.011, 150);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'person alone win', 2465, 0.934, 570);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'even your already', 4788, 0.045, 800);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'interview dark sit', 3069, 0.135, 431);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'wall side technology', 569, 0.052, 80);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'old station outside', 2568, 0.175, 103);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'control exactly protect', 463, 0.689, 115);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'population question because', 1024, 0.690, 701);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'power course magazine', 860, 0.565, 296);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'detail response two', 1693, 0.930, 770);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'appear team local', 1526, 0.739, 108);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'black appear set', 2967, 0.373, 341);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'money lot speech', 1189, 0.827, 203);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'see wait explain', 4913, 0.871, 797);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'simple argue drug', 1398, 0.313, 270);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'question door per', 1822, 0.589, 795);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'protect purpose good', 821, 0.550, 1000);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'federal watch modern', 386, 0.139, 910);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'part ball official', 1793, 0.998, 464);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'somebody agent bad', 642, 0.010, 317);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'knowledge provide kind', 1444, 0.552, 748);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'body defense performance', 1885, 0.315, 282);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'between size western', 208, 0.389, 120);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'model prove somebody', 3535, 0.976, 531);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'recent section firm', 2161, 0.895, 247);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'suddenly statement billion', 877, 0.643, 183);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'kitchen rate local', 4803, 0.371, 644);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'me still card', 4157, 0.734, 91);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'hold main head', 1350, 0.962, 394);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'raise them we', 496, 0.390, 640);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'actually decade imagine', 4023, 0.913, 346);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'ask challenge suddenly', 237, 0.601, 346);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'receive avoid yard', 1209, 0.006, 625);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'really religious few', 1280, 0.623, 783);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'carry exactly thank', 4009, 0.928, 324);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'natural door management', 2364, 0.924, 860);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'teacher customer now', 1973, 0.581, 648);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'value front fine', 3351, 0.190, 710);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'station ask government', 188, 0.853, 377);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'against today call', 234, 0.186, 390);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'concern weight draw', 2905, 0.728, 802);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'region also until', 4505, 0.442, 246);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'Congress Mrs money', 2662, 0.552, 799);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'chair page police', 3590, 0.203, 722);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'special however program', 4041, 0.559, 486);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'seem important time', 1037, 0.253, 837);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'whom born whatever', 274, 0.893, 233);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'environmental its writer', 998, 0.595, 127);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'including star past', 2694, 0.536, 665);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'sort fly range', 3815, 0.615, 937);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'much relationship mean', 440, 0.323, 260);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'away free president', 2278, 0.100, 494);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'movement against pick', 2554, 0.966, 112);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'check writer poor', 1899, 0.716, 912);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'notice radio rate', 4322, 0.430, 386);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'ball down officer', 247, 0.394, 62);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'girl writer member', 1230, 0.889, 562);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'old avoid big', 3012, 0.281, 699);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'base game difference', 3429, 0.229, 207);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'including foreign data', 967, 0.868, 383);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'company painting network', 2724, 0.547, 20);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'majority statement anyone', 574, 0.346, 728);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'audience song security', 3108, 0.000, 992);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'pay where position', 1596, 0.634, 373);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'catch seek sell', 94, 0.091, 614);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'leg pass group', 555, 0.109, 218);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'his beautiful because', 1905, 0.318, 88);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'let maybe right', 3396, 0.799, 493);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'happy win result', 4424, 0.262, 627);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'future reflect almost', 4045, 0.459, 844);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'police social person', 296, 0.419, 206);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'hour from property', 292, 0.422, 436);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'special box friend', 3580, 0.117, 783);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'energy I none', 2026, 0.126, 759);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'tend song industry', 2889, 0.215, 717);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'another form money', 3706, 0.965, 505);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'onto recently prove', 2514, 0.112, 394);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'bed listen thank', 3203, 0.117, 224);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'near man moment', 85, 0.273, 600);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'last film investment', 1196, 0.694, 508);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'cost popular firm', 901, 0.592, 896);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'enter in hair', 450, 0.308, 736);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'here idea number', 1299, 0.942, 885);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'article role white', 1695, 0.176, 22);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'life sign figure', 572, 0.877, 614);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'modern reality four', 4688, 0.991, 654);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'each include open', 1068, 0.551, 310);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'section property agree', 174, 0.062, 285);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'method between finish', 3302, 0.485, 596);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'three continue major', 2821, 0.779, 632);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'although reveal outside', 77, 0.090, 993);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'stock anyone decade', 2299, 0.430, 932);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'check fill campaign', 1273, 0.707, 328);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'case cup cause', 1429, 0.819, 587);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'baby its single', 4335, 0.060, 102);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'theory eye training', 136, 0.563, 161);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'laugh resource political', 2581, 0.793, 404);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'performance health along', 10, 0.649, 935);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'while man on', 255, 0.170, 66);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'indicate home development', 631, 0.279, 441);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'interesting lot start', 433, 0.833, 332);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'also pick religious', 931, 0.362, 528);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'thus chance good', 2119, 0.285, 195);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'degree prove lay', 3963, 0.031, 398);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'gun improve quite', 4853, 0.075, 340);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'friend return present', 704, 0.905, 625);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'throughout Republican by', 1511, 0.855, 812);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'east center suddenly', 2056, 0.392, 414);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'stay concern return', 3538, 0.449, 261);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'sound training spend', 1905, 0.492, 952);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'they here base', 4567, 0.619, 11);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'hospital in international', 1585, 0.527, 778);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'peace first local', 1010, 0.445, 266);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'customer occur mind', 536, 0.457, 920);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'approach yeah especially', 4081, 0.529, 890);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'mother television deep', 4306, 0.550, 801);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'line behavior defense', 3333, 0.703, 741);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'lose beyond stand', 4067, 0.911, 873);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'future house high', 3511, 0.550, 843);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'manage business think', 2724, 0.972, 313);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'country approach much', 1026, 0.379, 643);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'attorney sing keep', 4749, 0.111, 915);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'yet sing event', 3253, 0.218, 723);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'account which key', 4100, 0.127, 934);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'really arrive attorney', 4650, 0.031, 226);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'force walk during', 4191, 0.503, 433);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'physical story with', 1144, 0.574, 792);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'dinner billion stuff', 693, 0.423, 49);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'edge fine none', 188, 0.326, 762);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'apply improve brother', 1512, 0.546, 791);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'professional action time', 1974, 0.796, 990);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'seem tax in', 1803, 0.416, 803);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'step speech two', 1383, 0.108, 269);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'central statement can', 2037, 0.044, 563);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'resource price agreement', 62, 0.999, 250);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'blue hard over', 1230, 0.634, 396);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'southern much position', 4029, 0.241, 876);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'player help wide', 2354, 0.538, 728);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'possible heavy follow', 4437, 0.868, 877);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'two agree draw', 160, 0.178, 217);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'deal much next', 4158, 0.258, 175);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'great pay everybody', 932, 0.760, 411);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'power huge want', 1026, 0.799, 525);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'ever enter two', 2156, 0.050, 579);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'can area trade', 2059, 0.860, 933);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'why modern us', 2329, 0.312, 142);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'view story appear', 3966, 0.634, 559);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'value here opportunity', 1525, 0.898, 462);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'traditional require material', 341, 0.176, 736);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'first ok some', 1749, 0.676, 314);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'commercial nothing land', 3598, 0.784, 632);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'we will language', 4499, 0.276, 669);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'what big happen', 559, 0.870, 558);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'seven design half', 689, 0.981, 980);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'concern successful write', 4731, 0.581, 116);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'population another partner', 861, 0.201, 66);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'ability along rate', 2936, 0.281, 948);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'technology customer network', 602, 0.918, 32);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'ago set firm', 2165, 0.567, 16);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'task despite save', 3311, 0.916, 192);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'center similar model', 3371, 0.887, 432);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'food stage suddenly', 4412, 0.981, 446);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'every culture so', 4260, 0.891, 38);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'early day politics', 3541, 0.846, 141);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'know tend few', 1739, 0.237, 473);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'should unit always', 948, 0.257, 635);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'material truth now', 3754, 0.689, 992);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'support official remember', 1722, 0.309, 842);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'stand pass close', 707, 0.974, 804);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'since quite tonight', 2574, 0.581, 535);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'sound level final', 2478, 0.736, 799);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'every and learn', 1253, 0.374, 5);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'husband respond wrong', 1965, 0.021, 127);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'moment factor middle', 1076, 0.046, 957);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'high anything record', 713, 0.913, 846);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'drop call girl', 4058, 0.713, 481);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'deal listen identify', 1294, 0.612, 86);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'image major book', 1351, 0.911, 359);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'range alone detail', 3708, 0.117, 400);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'such family before', 2493, 0.067, 125);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'listen note present', 4395, 0.842, 100);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'major message onto', 4705, 0.252, 275);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'nor reality direction', 1541, 0.454, 244);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'less different ask', 1425, 0.407, 658);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'through all whether', 229, 0.343, 505);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'believe pick view', 4400, 0.294, 484);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'structure decade building', 1659, 0.121, 581);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'commercial partner culture', 761, 0.724, 606);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'reach do rule', 62, 0.614, 355);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'return writer bar', 1717, 0.457, 441);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'require task environment', 4967, 0.230, 284);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'standard letter feeling', 2113, 0.006, 461);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'discuss head check', 209, 0.487, 364);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'remain positive simply', 4375, 0.102, 517);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'life note card', 1275, 0.992, 897);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'well despite four', 2712, 0.090, 155);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'can including garden', 2773, 0.661, 622);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'if easy machine', 1268, 0.031, 172);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'foreign pick every', 3011, 0.964, 858);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'ground street sort', 4636, 0.582, 977);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'small dream hot', 3149, 0.946, 532);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'leave improve recent', 2713, 0.130, 581);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'science win cell', 449, 0.615, 115);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'dinner now focus', 4605, 0.584, 85);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'customer once interest', 2998, 0.393, 568);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'politics serve out', 4562, 0.437, 10);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'street finally support', 182, 0.018, 581);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'certain unit still', 2314, 0.164, 667);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'itself either brother', 1934, 0.698, 218);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'care fast soldier', 4967, 0.269, 205);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'level behind shoulder', 219, 0.195, 853);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'charge task phone', 1579, 0.106, 144);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'sell same outside', 384, 0.337, 559);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'land range reflect', 2326, 0.039, 409);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'whose recent individual', 3013, 0.261, 424);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'building skin no', 1220, 0.315, 520);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'industry still world', 4626, 0.064, 585);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'reality picture out', 761, 0.043, 886);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'edge eat accept', 3358, 0.190, 941);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'hear laugh ready', 4557, 0.901, 540);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'plan final way', 4848, 0.185, 608);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'do executive even', 1464, 0.545, 820);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'much then sense', 728, 0.161, 839);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'herself know local', 1381, 0.323, 16);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'treatment until guy', 2939, 0.740, 606);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'recognize establish administration', 1443, 0.130, 201);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'fly so month', 265, 0.103, 424);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'example quickly measure', 1229, 0.754, 881);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'store do issue', 4122, 0.049, 446);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'today senior move', 4245, 0.249, 131);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'production write computer', 4016, 0.514, 161);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'simple imagine remember', 4932, 0.333, 966);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'safe consider finally', 4456, 0.060, 747);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'speak another listen', 509, 0.298, 519);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'health marriage maybe', 1418, 0.785, 759);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'common lawyer attention', 2161, 0.246, 13);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'rise window off', 2229, 0.214, 354);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'her able real', 2348, 0.649, 362);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'end environment forward', 3523, 0.537, 7);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'impact team let', 4659, 0.575, 2);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'my case bill', 2507, 0.896, 271);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'true be remember', 4271, 0.130, 987);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'two author heart', 430, 0.554, 927);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'college accept look', 1203, 0.206, 191);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'relate quite stop', 1550, 0.560, 939);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'report reach feeling', 626, 0.942, 752);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'mission success nice', 167, 0.442, 219);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'budget once remain', 229, 0.665, 769);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'skill real beyond', 2591, 0.310, 416);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'whether what political', 1397, 0.059, 93);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'buy single product', 559, 0.740, 857);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'country real good', 2855, 0.184, 816);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'growth heart down', 1653, 0.259, 211);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'always role story', 991, 0.324, 777);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'quality try possible', 4769, 0.369, 875);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'structure type thought', 3335, 0.208, 221);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'artist away station', 443, 0.713, 233);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'crime one one', 4680, 0.177, 184);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'material chair instead', 301, 0.809, 747);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'factor wish consumer', 1457, 0.956, 339);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'allow town rest', 4305, 0.672, 419);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'feel leader consumer', 2570, 0.134, 516);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'increase seek raise', 2429, 0.499, 353);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'avoid participant daughter', 1219, 0.286, 596);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'speak miss I', 677, 0.278, 48);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'our never up', 3765, 0.443, 753);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'control test first', 4213, 0.632, 633);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'class throw check', 4526, 0.205, 408);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'price play recent', 2845, 0.463, 544);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'news follow activity', 476, 0.283, 452);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'factor long prevent', 2823, 0.623, 20);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'both painting record', 1338, 0.678, 341);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'Republican product direction', 3987, 0.984, 963);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'five base may', 1018, 0.815, 431);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'room same child', 3810, 0.168, 346);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'none family thought', 1537, 0.262, 853);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'apply down force', 1987, 0.366, 977);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'town discover ball', 4483, 0.732, 818);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'leader vote citizen', 2477, 0.607, 469);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'show painting those', 2885, 0.833, 28);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'public his finish', 3165, 0.994, 738);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'plan teach bar', 290, 0.819, 699);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'leader away degree', 4265, 0.965, 452);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'company forget walk', 1395, 0.406, 183);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'cost run president', 1395, 0.231, 66);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'Democrat guy set', 3814, 0.628, 136);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'attention house moment', 1342, 0.507, 99);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'at style significant', 3421, 0.378, 649);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'figure side professor', 3051, 0.785, 399);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'would challenge exactly', 4646, 0.945, 329);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'attack although rise', 2326, 0.986, 125);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'blue suddenly measure', 2938, 0.544, 436);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'class entire guy', 2378, 0.162, 613);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'imagine growth measure', 3647, 0.774, 47);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'parent contain indeed', 1015, 0.414, 763);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'store any blood', 429, 0.938, 701);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'yeah over today', 378, 0.888, 102);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'thus between see', 2169, 0.103, 800);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'nor lose cut', 3789, 0.062, 412);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'opportunity old outside', 1086, 0.900, 591);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'road he resource', 1318, 0.079, 116);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'mouth include surface', 527, 0.213, 106);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'police easy reveal', 3420, 0.770, 313);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'create soldier age', 3596, 0.429, 835);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'put eat woman', 1786, 0.145, 618);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'fear me plan', 2014, 0.444, 865);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'crime hear answer', 4198, 0.179, 177);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'sell yourself do', 4347, 0.797, 744);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'option be thousand', 2500, 0.031, 95);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'relationship since star', 3379, 0.954, 717);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'culture ability hold', 2472, 0.750, 601);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'four someone send', 2020, 0.654, 841);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'start everyone evidence', 1809, 0.436, 914);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'rate after will', 4287, 0.620, 435);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'full theory great', 2576, 0.516, 213);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'help attack total', 3537, 0.121, 535);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'me western either', 3558, 0.313, 222);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'detail room long', 2424, 0.489, 267);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'personal however participant', 3289, 0.588, 186);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'once church guy', 4528, 0.686, 291);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'small another kind', 2123, 0.686, 164);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'stand best director', 1278, 0.234, 925);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'speak arm simply', 1140, 0.023, 234);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'health professor position', 1812, 0.315, 29);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'set together statement', 251, 0.676, 302);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'popular even money', 3505, 0.514, 551);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'take everybody report', 3680, 0.980, 988);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'hair position firm', 1984, 0.365, 36);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'voice become expert', 874, 0.950, 488);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'country suddenly rock', 978, 0.827, 701);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'assume physical activity', 3187, 0.246, 228);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'green size project', 3815, 0.069, 39);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'draw evening appear', 4163, 0.923, 635);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'meet service yard', 2646, 0.250, 659);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'case painting happen', 3342, 0.004, 420);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'world strong grow', 1913, 0.566, 52);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'spend accept it', 4172, 0.293, 208);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'it century note', 955, 0.569, 122);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'end close term', 1446, 0.455, 121);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'travel drive moment', 725, 0.194, 35);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'laugh fact yard', 1105, 0.121, 207);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'less detail machine', 1289, 0.514, 263);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'involve receive job', 3650, 0.932, 318);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'realize five when', 1811, 0.460, 262);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'morning trouble none', 4238, 0.980, 57);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'movement reduce father', 4293, 0.538, 726);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'anyone early light', 4598, 0.569, 712);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'near radio article', 3782, 0.457, 593);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'myself good quickly', 486, 0.114, 522);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'suddenly newspaper president', 1159, 0.803, 197);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'west thought the', 399, 0.777, 902);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'if court kind', 3385, 0.744, 361);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'step point break', 465, 0.162, 392);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'mention sport make', 3767, 0.123, 600);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'wonder technology these', 1640, 0.821, 891);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'positive interest board', 4725, 0.894, 170);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'social they floor', 2931, 0.585, 527);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'model evidence also', 4601, 0.668, 407);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'military thousand brother', 2373, 0.961, 201);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'three appear walk', 2863, 0.433, 30);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'brother indeed new', 1406, 0.681, 674);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'plan fast either', 2370, 0.114, 662);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'either rule bar', 3806, 0.217, 982);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'prevent on history', 2873, 0.503, 971);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'activity artist task', 819, 0.386, 271);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'call score fine', 765, 0.886, 629);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'customer money democratic', 4894, 0.236, 765);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'help focus personal', 2086, 0.986, 477);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'bring happen candidate', 2047, 0.234, 643);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'air more high', 2671, 0.395, 747);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'let finally return', 2460, 0.399, 422);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'team service pick', 690, 0.266, 821);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'these owner music', 3401, 0.896, 546);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'movie foot modern', 1039, 0.937, 381);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'growth beautiful worker', 732, 0.663, 511);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'election north where', 569, 0.418, 267);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'source letter call', 2198, 0.820, 855);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'write couple join', 131, 0.726, 924);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'assume cost reason', 1066, 0.417, 83);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'part concern green', 4188, 0.661, 934);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'purpose wind soldier', 2167, 0.275, 811);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'system economy ahead', 1439, 0.235, 330);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'strong choice apply', 4086, 0.628, 944);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'understand understand water', 607, 0.509, 154);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'finally real event', 2159, 0.833, 779);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'thus interest much', 2079, 0.697, 926);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'poor security worry', 2883, 0.819, 406);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'smile back question', 126, 0.998, 4);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'debate generation continue', 235, 0.595, 27);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'modern everybody but', 2935, 0.299, 831);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'drug crime bad', 1490, 0.886, 556);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'own among budget', 202, 0.942, 472);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'ago nice stand', 4250, 0.497, 749);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'serious including fall', 4331, 0.641, 971);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'list decision heart', 4479, 0.744, 15);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'partner rise explain', 3037, 0.141, 952);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'concern result break', 3784, 0.111, 845);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'determine could friend', 4591, 0.859, 215);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'follow enter level', 2435, 0.386, 458);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'color design dinner', 2755, 0.501, 970);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'ever once drug', 4938, 0.502, 201);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'general face vote', 103, 0.111, 113);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'collection case might', 2334, 0.348, 465);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'leg those according', 2203, 0.745, 750);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'for modern moment', 3890, 0.884, 219);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'hundred medical hundred', 2576, 0.831, 580);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'Democrat any do', 3747, 0.521, 210);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'see experience total', 1581, 0.279, 256);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'treat attorney adult', 4733, 0.438, 870);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'worry instead center', 4049, 0.226, 901);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'language table movie', 2707, 0.079, 424);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'job night director', 3412, 0.750, 562);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'industry tax edge', 2050, 0.249, 707);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'share it page', 3037, 0.609, 933);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'specific this fast', 752, 0.510, 851);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'state it foreign', 689, 0.928, 104);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'up second in', 1937, 0.429, 819);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'house skill half', 2520, 0.133, 50);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'whether probably activity', 1264, 0.119, 650);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'pass instead week', 2219, 0.219, 732);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'heart many next', 338, 0.310, 375);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'real once cover', 1376, 0.525, 888);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'similar big staff', 1120, 0.958, 410);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'nation family affect', 2178, 0.605, 678);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'write point standard', 100, 0.236, 173);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'student consumer way', 3593, 0.088, 78);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'though trial food', 3418, 0.570, 400);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'mention billion let', 4194, 0.269, 24);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'safe position can', 1944, 0.327, 965);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'he position newspaper', 3056, 0.345, 198);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'order program plan', 4713, 0.656, 348);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'myself article yourself', 2069, 0.714, 522);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'look firm trade', 857, 0.718, 659);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'memory more represent', 667, 0.760, 730);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'world fire force', 4929, 0.341, 193);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'east us to', 2615, 0.095, 51);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'close training outside', 2939, 0.123, 525);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'region almost everyone', 1397, 0.494, 912);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'table read wide', 485, 0.976, 632);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'guy edge per', 2087, 0.013, 201);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'film our short', 1940, 0.327, 474);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'expect degree yet', 1641, 0.903, 121);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'cultural art those', 710, 0.827, 819);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'true behavior music', 4902, 0.444, 130);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'develop question red', 4478, 0.842, 576);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'have board less', 150, 0.184, 319);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'subject security decide', 4402, 0.661, 403);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'kitchen support into', 2924, 0.120, 523);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'let subject save', 3911, 0.231, 782);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'car final and', 186, 0.777, 791);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'foreign change physical', 4672, 0.584, 114);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'beautiful positive situation', 811, 0.267, 3);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'member task case', 449, 0.034, 26);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'of company consider', 177, 0.668, 80);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'wife give agree', 4502, 0.606, 945);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'medical guess when', 381, 0.206, 374);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'system year see', 4632, 0.232, 336);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'along our young', 728, 0.805, 587);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'black today order', 3834, 0.216, 963);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'than actually road', 142, 0.987, 78);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'official create floor', 148, 0.813, 874);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'popular trouble better', 1994, 0.313, 346);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'Mr their loss', 77, 0.713, 236);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'you change standard', 2704, 0.651, 438);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'public manage prove', 2001, 0.571, 315);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'senior argue fast', 1688, 0.779, 191);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'debate help price', 1478, 0.591, 471);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'former treat by', 30, 0.061, 449);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'down Mr back', 3746, 0.065, 983);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'shoulder hotel stand', 4282, 0.876, 922);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'hospital employee level', 4122, 0.029, 34);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'exactly their prevent', 4330, 0.071, 187);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'into pick especially', 4872, 0.631, 260);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'bag condition skill', 3771, 0.088, 918);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'another wear staff', 2456, 0.887, 69);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'realize have more', 435, 0.816, 995);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'box candidate no', 2741, 0.133, 7);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'sure do receive', 2082, 0.489, 634);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'increase vote power', 4100, 0.379, 867);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'team through protect', 3428, 0.916, 856);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'behind over none', 485, 0.319, 650);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'both PM summer', 194, 0.245, 185);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'heavy bag everyone', 518, 0.013, 793);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'your war sometimes', 2485, 0.123, 883);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'laugh information teacher', 4031, 0.285, 949);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'national worker wonder', 3056, 0.759, 959);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'receive light so', 4655, 0.469, 275);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'catch grow all', 4972, 0.368, 729);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'civil effect think', 886, 0.787, 784);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'company bar huge', 3341, 0.265, 278);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'other north save', 4024, 0.151, 989);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'science throughout office', 3393, 0.157, 351);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'hotel hold model', 339, 0.652, 150);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'land major under', 1727, 0.559, 395);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'board wide Republican', 888, 0.426, 160);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'author onto chair', 4937, 0.627, 149);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'identify west school', 3360, 0.028, 515);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'thought physical turn', 2300, 0.195, 586);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'amount increase guy', 2160, 0.656, 67);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'source official just', 2483, 0.373, 405);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'force thing spend', 4184, 0.619, 337);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'anything room culture', 519, 0.256, 790);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'next nor expert', 820, 0.906, 983);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'rate window modern', 1654, 0.221, 412);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'green mother field', 203, 0.459, 474);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'response must power', 1615, 0.769, 224);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'their animal quite', 2680, 0.771, 908);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'finally cost during', 313, 0.913, 985);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'behind discover million', 2261, 0.969, 16);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'public participant rock', 3278, 0.206, 486);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'that year she', 2825, 0.199, 541);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'trouble allow become', 899, 0.766, 366);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'boy do ground', 610, 0.274, 725);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'set top have', 1698, 0.863, 935);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'art per though', 2802, 0.029, 961);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'term health likely', 396, 0.639, 868);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'require television perform', 2543, 0.100, 484);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'top check federal', 1611, 0.559, 540);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'heart we call', 1083, 0.710, 552);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'commercial single view', 3336, 0.044, 709);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'class network over', 4556, 0.946, 778);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'film be fear', 4950, 0.265, 462);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'it group affect', 4710, 0.568, 270);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'structure know interview', 4985, 0.314, 217);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'many door stay', 4358, 0.170, 234);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'three note election', 4659, 0.285, 84);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'letter cut anything', 2979, 0.464, 560);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'history yeah teach', 4870, 0.287, 761);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'meeting head box', 2794, 0.261, 40);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'myself hope father', 1478, 0.353, 418);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'news likely show', 1289, 0.495, 665);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'myself recognize city', 161, 0.406, 388);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'doctor local case', 3092, 0.851, 139);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'contain leave resource', 342, 0.260, 109);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'new throughout far', 1533, 0.990, 357);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'enjoy important discussion', 2270, 0.817, 418);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'newspaper not painting', 3023, 0.882, 403);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'all heavy the', 3955, 0.753, 853);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'play reason risk', 4992, 0.595, 188);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'glass leave family', 235, 0.717, 844);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'film contain fear', 4954, 0.342, 371);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'word Mr environmental', 2725, 0.525, 930);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'baby main really', 3086, 0.500, 902);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'explain red inside', 3707, 0.741, 46);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'sense bar real', 1113, 0.630, 20);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'rate part direction', 2347, 0.317, 691);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'growth culture area', 793, 0.497, 549);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'his class great', 847, 0.275, 390);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'hospital stop front', 4937, 0.862, 651);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'foot as company', 2127, 0.113, 825);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'war piece TV', 1289, 0.084, 359);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'agent old own', 105, 0.706, 345);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'clearly remember father', 3643, 0.378, 215);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'religious article yourself', 1885, 0.973, 940);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'plant protect building', 3176, 0.116, 272);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'late population ahead', 1260, 0.530, 928);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'Mr maintain agree', 618, 0.547, 467);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'civil face ground', 695, 0.841, 10);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'wrong difference maybe', 263, 0.303, 578);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'month series thousand', 1919, 0.028, 300);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'short environment hour', 3421, 0.771, 213);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'certainly move everything', 1095, 0.328, 330);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'where quite according', 142, 0.065, 221);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'wait seat time', 2410, 0.037, 447);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'civil ability many', 27, 0.236, 655);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'success those policy', 4302, 0.083, 568);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'per second show', 4831, 0.567, 120);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'though ok fish', 312, 0.153, 988);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'others school sound', 590, 0.478, 87);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'behind spring specific', 285, 0.642, 153);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'within attorney into', 516, 0.695, 983);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'fish artist meet', 2305, 0.700, 887);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'central itself share', 4137, 0.955, 447);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'reduce although rate', 3227, 0.693, 152);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'six civil about', 2550, 0.149, 161);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'for ability nearly', 1817, 0.370, 955);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'vote draw begin', 3282, 0.096, 887);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'north system particular', 2598, 0.337, 794);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'lay worry politics', 1100, 0.541, 469);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'everything threat show', 1912, 0.145, 277);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'never such PM', 2801, 0.789, 575);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'me large anyone', 1400, 0.403, 863);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'ball herself others', 685, 0.114, 269);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'nothing father road', 2282, 0.876, 750);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'item specific here', 3450, 0.047, 890);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'now commercial major', 3474, 0.435, 648);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'car society program', 873, 0.301, 576);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'wrong radio middle', 1854, 0.256, 791);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'young what continue', 1448, 0.997, 649);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'sell pretty think', 4946, 0.245, 737);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'process protect medical', 17, 0.694, 90);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'day military public', 1745, 0.051, 55);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'wife upon health', 4827, 0.795, 1000);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'few Mr music', 1424, 0.162, 638);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'rock region especially', 4233, 0.549, 680);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'matter name professional', 3498, 0.348, 968);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'drop perhaps black', 784, 0.405, 339);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'energy dark reflect', 2600, 0.604, 690);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'add myself television', 1014, 0.721, 384);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'may nothing quite', 265, 0.870, 309);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'million real officer', 1491, 0.475, 391);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'know claim trip', 828, 0.741, 902);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'make hear spring', 1061, 0.792, 830);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'thought almost world', 822, 0.551, 308);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'during us floor', 4416, 0.146, 21);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'near light high', 3212, 0.821, 991);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'build law onto', 3727, 0.570, 625);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'traditional president present', 1553, 0.742, 496);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'than agent yourself', 4427, 0.546, 520);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'month car risk', 2749, 0.924, 370);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'game population development', 3701, 0.501, 325);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'two improve position', 3823, 0.004, 775);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'system become if', 1722, 0.877, 443);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'control possible safe', 4709, 0.851, 187);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'American benefit chair', 4771, 0.365, 638);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'data community second', 3115, 0.977, 644);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'trial type though', 529, 0.908, 620);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'inside machine personal', 170, 0.977, 494);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'anyone drop generation', 2047, 0.217, 804);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'figure road week', 693, 0.420, 754);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'glass impact card', 4738, 0.017, 703);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'factor rock meeting', 584, 0.190, 224);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'single crime effect', 4547, 0.879, 19);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'clear tough dinner', 1525, 0.565, 231);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'we maybe say', 3676, 0.884, 620);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'hand no no', 619, 0.726, 918);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'practice water experience', 124, 0.747, 360);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'billion discover future', 2572, 0.516, 940);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'raise pressure keep', 750, 0.703, 46);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'remember close tax', 1550, 0.021, 813);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'catch region mouth', 4495, 0.726, 724);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'hotel simply you', 1599, 0.765, 991);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'office help seem', 4827, 0.638, 779);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'up true vote', 3395, 0.710, 637);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'similar some card', 3789, 0.095, 841);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'organization what value', 1246, 0.155, 413);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'dog community how', 1194, 0.197, 914);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'perform section able', 4471, 0.670, 968);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'pretty plant very', 2513, 0.784, 133);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'hold yard national', 3341, 0.373, 429);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'gas address south', 416, 0.316, 467);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'attack address everything', 1986, 0.208, 166);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'production himself total', 683, 0.423, 688);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'remain partner author', 2451, 0.266, 68);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'provide also off', 3667, 0.275, 839);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'teach represent thing', 214, 0.446, 769);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'sort guess purpose', 4081, 0.266, 15);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'stay democratic ten', 4480, 0.319, 294);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'probably him strategy', 604, 0.421, 397);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'boy modern listen', 387, 0.232, 354);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'reflect least many', 1130, 0.002, 285);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'whether she street', 3834, 0.118, 997);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'three through crime', 1017, 0.335, 752);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'lay society form', 1739, 0.725, 985);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'newspaper trip view', 1480, 0.138, 374);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'modern box hand', 744, 0.799, 463);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'he role world', 3587, 0.868, 701);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'require suddenly heavy', 1739, 0.558, 51);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'participant between message', 2146, 0.082, 770);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'day think strategy', 4888, 0.607, 828);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'lead final visit', 2196, 0.599, 167);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'new yes fact', 458, 0.020, 491);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'piece magazine either', 4604, 0.385, 336);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'opportunity above while', 2740, 0.861, 456);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'right picture staff', 1815, 0.254, 307);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'seem group present', 1930, 0.575, 429);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'raise space score', 4101, 0.440, 901);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'action along action', 4859, 0.094, 742);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'ready store field', 4389, 0.316, 432);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'behind information order', 3682, 0.951, 212);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'rock guy military', 3414, 0.450, 741);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'leader foot speak', 3684, 0.831, 17);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'sometimes appear fight', 4090, 0.889, 45);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'industry change time', 178, 0.903, 555);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'today road front', 2761, 0.323, 25);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'seek start sit', 577, 0.973, 255);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'measure meeting program', 3285, 0.215, 881);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'chance happy share', 3648, 0.885, 820);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'girl face pressure', 4354, 0.401, 569);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'no argue difference', 3453, 0.799, 95);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'design her star', 4450, 0.867, 941);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'street like bill', 2729, 0.806, 553);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'onto today wait', 2205, 0.239, 903);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'rest art worker', 4347, 0.161, 511);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'rock red TV', 3691, 0.124, 774);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'nor national there', 4764, 0.032, 555);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'husband media me', 1136, 0.507, 143);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'produce true seem', 4045, 0.498, 721);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'difficult kind truth', 4833, 0.356, 979);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'grow traditional building', 4550, 0.590, 278);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'success east less', 289, 0.821, 883);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'security customer top', 2262, 0.601, 583);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'story start author', 4873, 0.196, 890);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'might wrong hotel', 1002, 0.356, 815);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'five statement behavior', 5000, 0.388, 619);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'business marriage say', 3237, 0.742, 747);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'talk seven ok', 366, 0.151, 942);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'color entire visit', 3203, 0.548, 79);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'stage employee suggest', 4749, 0.302, 449);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'do issue medical', 973, 0.408, 791);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'decide air skill', 4657, 0.379, 204);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'add attorney our', 4364, 0.009, 550);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'get issue media', 3899, 0.419, 893);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'process along skin', 3379, 0.244, 797);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'still better allow', 2588, 0.669, 645);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'decide despite good', 4072, 0.625, 926);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'couple sing improve', 520, 0.547, 927);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'what several enough', 3388, 0.118, 724);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'live design partner', 451, 0.861, 491);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'other civil religious', 4842, 0.042, 730);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'win school free', 2608, 0.389, 185);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'plant old enter', 2788, 0.615, 268);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'should nothing often', 2953, 0.363, 153);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'factor style here', 2312, 0.037, 984);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'development father remain', 1233, 0.877, 652);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'accept field fast', 2976, 0.043, 810);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'may TV want', 4320, 0.995, 18);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'plant left kind', 4476, 0.139, 565);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'participant term article', 3792, 0.386, 778);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'let the suddenly', 2774, 0.552, 668);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'stand pretty enjoy', 1777, 0.395, 86);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'wide toward all', 2575, 0.740, 442);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'paper hand consumer', 3135, 0.031, 789);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'wind skill something', 126, 0.362, 224);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'add success our', 1386, 0.105, 36);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'back as later', 3332, 0.503, 824);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'easy player war', 2233, 0.620, 885);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'since available from', 4593, 0.152, 868);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'save say company', 3886, 0.165, 743);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'character language the', 1254, 0.483, 654);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'sing open speech', 2650, 0.146, 307);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'red some finally', 4429, 0.178, 525);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'senior clear space', 3091, 0.907, 735);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'follow fish laugh', 1824, 0.989, 778);
-INSERT INTO items(id, name, price, rating, manufacturer) VALUES(DEFAULT, 'single page without', 3121, 0.442, 343);
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '323 Rogers Island Suite 581
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'old hit appear', 3978, 0.557, 814);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'commercial home father', 2531, 0.909, 1000);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'clear seat five', 1043, 0.432, 407);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'blue determine marriage', 482, 0.512, 781);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'tell recognize return', 3005, 0.340, 101);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'rise area all', 2971, 0.198, 667);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'two phone control', 906, 0.293, 469);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'lay film let', 1446, 0.149, 669);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'lay bad measure', 1684, 0.379, 826);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'drop leader send', 2618, 0.465, 681);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'often senior continue', 4316, 0.044, 197);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'direction goal despite', 4328, 0.646, 877);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'activity decade appear', 2377, 0.086, 382);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'simple dog decade', 1862, 0.409, 529);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'word miss seek', 3025, 0.741, 940);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'back just military', 1915, 0.946, 695);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'full our budget', 3071, 0.185, 566);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'treatment happen degree', 4265, 0.994, 899);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'enjoy hard mouth', 4757, 0.919, 103);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'start trip present', 1627, 0.193, 321);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'rest foreign teach', 4557, 0.260, 26);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'carry whole no', 4866, 0.547, 957);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'tend idea cup', 4949, 0.209, 141);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'keep maybe avoid', 658, 0.262, 272);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'five generation instead', 4052, 0.517, 793);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'American strategy back', 426, 0.456, 732);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'one new hundred', 3529, 0.708, 473);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'general toward lead', 4517, 0.444, 870);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'player stock rate', 4120, 0.321, 48);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'add movement nearly', 3709, 0.435, 329);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'carry check other', 4101, 0.344, 365);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'picture part sort', 4367, 0.914, 998);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'buy finish without', 793, 0.692, 44);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'keep without buy', 4956, 0.398, 483);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'matter your cause', 1749, 0.199, 77);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'person production simply', 26, 0.450, 558);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'imagine seven garden', 2954, 0.730, 560);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'must future firm', 873, 0.514, 541);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'eat large carry', 1971, 0.844, 17);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'make rate ago', 3639, 0.186, 469);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'coach true within', 3301, 0.524, 277);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'main different describe', 2149, 0.622, 933);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'between late need', 2053, 0.863, 260);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'throughout and support', 1049, 0.150, 523);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'tax turn two', 4072, 0.344, 136);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'act everyone stage', 1318, 0.971, 999);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'save hold believe', 3218, 0.711, 711);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'stand really remain', 4314, 0.232, 297);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'own shoulder quite', 154, 0.840, 5);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'official wait stock', 2971, 0.782, 827);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'until threat media', 2416, 0.126, 885);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'as serve race', 1756, 0.762, 162);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'discover glass carry', 4836, 0.066, 621);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'because off admit', 2511, 0.103, 139);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'newspaper help our', 802, 0.821, 341);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'wear than bill', 1458, 0.466, 635);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'such four each', 1612, 0.193, 909);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'on stop eye', 3751, 0.694, 972);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'front soldier window', 3667, 0.504, 729);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'most house both', 2219, 0.651, 313);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'law condition throughout', 4149, 0.064, 682);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'style manage step', 4131, 0.860, 371);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'investment plant address', 520, 0.186, 332);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'important reality order', 3526, 0.955, 289);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'reality everybody agent', 1780, 0.508, 79);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'poor worker remember', 4130, 0.583, 660);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'black find challenge', 1988, 0.242, 267);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'compare fish movement', 4571, 0.484, 10);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'manager central however', 3591, 0.825, 953);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'music market military', 4844, 0.205, 312);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'wait office personal', 3034, 0.310, 215);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'political large explain', 3479, 0.921, 468);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'choose everyone piece', 1643, 0.316, 609);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'push watch their', 3913, 0.658, 536);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'seat add while', 441, 0.540, 521);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'same laugh any', 3672, 0.309, 4);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'conference to artist', 2379, 0.381, 937);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'born different able', 2456, 0.589, 830);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'mission thought important', 40, 0.602, 916);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'future fight wear', 4311, 0.348, 116);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'quickly person example', 2789, 0.560, 744);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'expect language my', 2510, 0.407, 812);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'sound represent check', 2004, 0.250, 725);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'sort week point', 1762, 0.103, 852);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'young party guy', 1430, 0.130, 113);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'someone pick five', 4858, 0.627, 645);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'exist owner culture', 1680, 0.065, 250);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'cost newspaper bed', 4442, 0.968, 72);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'spring win whose', 126, 0.449, 310);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'close camera run', 2098, 0.286, 871);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'teacher read audience', 4498, 0.713, 320);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'day run budget', 468, 0.313, 901);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'member crime nearly', 3903, 0.201, 262);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'physical customer apply', 3322, 0.382, 85);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'history majority population', 2415, 0.333, 751);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'simply north even', 2368, 0.045, 945);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'less television year', 2258, 0.774, 752);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'stop these center', 2881, 0.563, 738);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'picture instead cut', 1611, 0.154, 197);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'when case pass', 2859, 0.353, 496);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'role develop matter', 4042, 0.401, 410);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'expect true other', 4659, 0.277, 639);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'tax hospital fund', 763, 0.409, 207);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'easy partner world', 4586, 0.849, 675);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'case road site', 297, 0.897, 234);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'vote seat sing', 1939, 0.516, 634);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'give increase guess', 4162, 0.953, 752);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'fast attorney whatever', 4467, 0.207, 455);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'almost little image', 164, 0.011, 30);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'seven from reason', 756, 0.593, 857);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'five candidate feeling', 2499, 0.242, 176);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'exist challenge government', 1658, 0.829, 312);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'include Mr before', 2405, 0.504, 999);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'trade live western', 2854, 0.572, 569);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'reason resource cut', 2874, 0.647, 982);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'single fish dream', 3773, 0.425, 7);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'expert parent beyond', 1720, 0.415, 609);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'leave others officer', 396, 0.939, 414);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'book early he', 1632, 0.814, 33);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'wrong clear without', 3403, 0.254, 556);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'film feel water', 1286, 0.554, 919);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'explain tree see', 617, 0.831, 566);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'peace community available', 3209, 0.546, 118);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'teacher ever like', 4414, 0.319, 657);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'form fear because', 3264, 0.431, 358);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'account fire good', 4966, 0.545, 740);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'bank ground couple', 4399, 0.521, 542);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'character election song', 4918, 0.158, 767);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'standard into consider', 2246, 0.807, 861);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'recognize certain front', 3588, 0.675, 318);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'would serious fact', 1315, 0.367, 290);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'behavior job development', 347, 0.030, 79);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'local baby why', 2837, 0.147, 789);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'four good light', 1054, 0.562, 4);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'feeling develop prevent', 583, 0.221, 955);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'yourself budget start', 1253, 0.077, 226);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'team happy pass', 1495, 0.537, 252);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'prove new collection', 462, 0.155, 794);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'deep involve where', 2171, 0.296, 889);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'development maintain care', 665, 0.625, 456);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'they suffer man', 3170, 0.616, 193);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'coach well prevent', 4582, 0.940, 501);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'trial cut reflect', 392, 0.343, 48);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'wonder would find', 2783, 0.516, 903);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'arrive smile you', 3856, 0.724, 93);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'ahead save think', 3890, 0.879, 660);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'race dream morning', 1847, 0.675, 487);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'season positive my', 531, 0.567, 670);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'who quite defense', 2138, 0.544, 836);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'lose attack bring', 4541, 0.132, 815);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'sign might movie', 1940, 0.537, 522);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'turn cut lose', 4071, 0.997, 712);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'crime voice expect', 730, 0.230, 860);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'marriage ground name', 1855, 0.546, 555);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'artist party pretty', 4067, 0.874, 183);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'mind sea market', 183, 0.419, 735);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'note up six', 1930, 0.190, 536);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'door floor article', 4426, 0.948, 972);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'during already tree', 3860, 0.198, 44);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'project very movement', 811, 0.285, 416);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'rather hair fear', 1151, 0.894, 996);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'detail east Mrs', 2993, 0.712, 172);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'color economic I', 1868, 0.738, 269);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'stand few not', 4916, 0.317, 792);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'decade ball trouble', 4590, 0.720, 804);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'eat wrong way', 413, 0.284, 479);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'everybody face every', 4936, 0.473, 432);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'continue public major', 3119, 0.706, 929);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'because card financial', 3719, 0.620, 586);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'former charge without', 2196, 0.503, 984);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'item ever want', 3916, 0.981, 643);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'bill join fast', 1196, 0.923, 858);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'rather right field', 1300, 0.298, 183);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'bit alone factor', 3077, 0.160, 418);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'million executive modern', 4107, 0.549, 411);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'own might decade', 807, 0.820, 477);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'particular bank cold', 4337, 0.421, 871);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'guy economy believe', 2720, 0.946, 162);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'continue hold like', 2349, 0.336, 556);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'business important guy', 3275, 0.006, 945);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'today draw garden', 4193, 0.494, 935);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'between close bad', 1261, 0.784, 328);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'specific character money', 403, 0.793, 501);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'sport show certainly', 1335, 0.286, 182);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'include size relationship', 1139, 0.916, 87);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'site my several', 2045, 0.281, 919);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'per total listen', 253, 0.593, 774);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'together if from', 3587, 0.403, 855);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'city though debate', 61, 0.418, 294);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'official produce stop', 3318, 0.468, 867);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'because near leg', 2939, 0.371, 378);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'arm city government', 1565, 0.920, 396);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'follow old charge', 2121, 0.921, 994);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'truth race since', 2082, 0.336, 573);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'fast us skill', 205, 0.607, 168);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'return form environment', 4503, 0.338, 787);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'deep majority bank', 2954, 0.367, 70);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'hour each rest', 2720, 0.043, 357);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'economy bad exactly', 4075, 0.902, 96);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'traditional owner visit', 3989, 0.011, 773);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'shake many identify', 1685, 0.324, 159);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'choose some mean', 2778, 0.886, 10);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'six base full', 3881, 0.378, 272);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'defense trip gas', 1631, 0.799, 349);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'office almost behind', 1881, 0.940, 531);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'friend population Mr', 2086, 0.805, 466);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'almost thank official', 2529, 0.974, 996);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'stay analysis trade', 3873, 0.932, 994);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'Congress summer focus', 4557, 0.650, 735);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'type network place', 3577, 0.843, 903);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'career million find', 787, 0.891, 734);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'fear mention score', 1856, 0.194, 172);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'create evidence far', 2088, 0.989, 690);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'magazine drive learn', 45, 0.530, 380);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'tell me manage', 2407, 0.387, 79);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'foreign economy fine', 582, 0.657, 17);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'certainly quickly product', 2414, 0.141, 301);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'media child gun', 2230, 0.052, 100);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'least I middle', 88, 0.141, 647);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'wrong argue some', 4652, 0.425, 805);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'hear site myself', 2679, 0.822, 263);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'they magazine we', 1689, 0.762, 177);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'beautiful responsibility hope', 687, 0.139, 672);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'sing election rest', 4208, 0.400, 85);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'catch second moment', 4616, 0.273, 351);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'should team claim', 1979, 0.220, 141);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'others couple community', 4422, 0.911, 817);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'really money pay', 80, 0.759, 986);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'PM start Mr', 2016, 0.900, 758);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'window practice out', 4631, 0.528, 425);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'machine decade industry', 3175, 0.842, 885);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'agent large collection', 4633, 0.144, 559);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'movement action wife', 2924, 0.861, 525);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'performance others dark', 4679, 0.092, 389);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'medical tough important', 484, 0.054, 626);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'according weight both', 1379, 0.343, 465);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'respond herself church', 3115, 0.890, 125);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'force policy continue', 4493, 0.468, 70);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'again difficult effect', 506, 0.733, 605);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'physical agree available', 3162, 0.210, 295);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'break court grow', 3409, 0.571, 240);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'wide themselves those', 249, 0.934, 549);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'share husband fast', 4383, 0.108, 322);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'sense part camera', 795, 0.679, 320);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'record record woman', 1211, 0.004, 753);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'show across specific', 382, 0.338, 713);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'our walk tonight', 509, 0.832, 352);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'standard rise price', 3067, 0.268, 295);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'quality instead argue', 3631, 0.444, 588);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'author daughter fall', 1831, 0.850, 304);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'base check often', 3640, 0.313, 990);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'which job beyond', 2292, 0.754, 372);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'find present case', 689, 0.024, 65);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'instead some together', 210, 0.057, 718);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'how break end', 846, 0.181, 5);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'scene remain agree', 1655, 0.139, 70);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'home age get', 3361, 0.151, 571);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'enter quite prevent', 583, 0.557, 308);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'research reflect how', 1249, 0.039, 402);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'think raise deep', 2161, 0.220, 464);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'administration best save', 648, 0.903, 204);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'war expect involve', 3123, 0.747, 974);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'anyone hard hair', 4449, 0.926, 507);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'environmental call including', 2018, 0.006, 546);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'ground participant company', 4489, 0.599, 972);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'action physical heart', 298, 0.011, 150);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'person alone win', 2465, 0.934, 570);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'even your already', 4788, 0.045, 800);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'interview dark sit', 3069, 0.135, 431);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'wall side technology', 569, 0.052, 80);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'old station outside', 2568, 0.175, 103);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'control exactly protect', 463, 0.689, 115);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'population question because', 1024, 0.690, 701);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'power course magazine', 860, 0.565, 296);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'detail response two', 1693, 0.930, 770);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'appear team local', 1526, 0.739, 108);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'black appear set', 2967, 0.373, 341);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'money lot speech', 1189, 0.827, 203);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'see wait explain', 4913, 0.871, 797);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'simple argue drug', 1398, 0.313, 270);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'question door per', 1822, 0.589, 795);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'protect purpose good', 821, 0.550, 1000);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'federal watch modern', 386, 0.139, 910);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'part ball official', 1793, 0.998, 464);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'somebody agent bad', 642, 0.010, 317);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'knowledge provide kind', 1444, 0.552, 748);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'body defense performance', 1885, 0.315, 282);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'between size western', 208, 0.389, 120);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'model prove somebody', 3535, 0.976, 531);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'recent section firm', 2161, 0.895, 247);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'suddenly statement billion', 877, 0.643, 183);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'kitchen rate local', 4803, 0.371, 644);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'me still card', 4157, 0.734, 91);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'hold main head', 1350, 0.962, 394);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'raise them we', 496, 0.390, 640);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'actually decade imagine', 4023, 0.913, 346);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'ask challenge suddenly', 237, 0.601, 346);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'receive avoid yard', 1209, 0.006, 625);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'really religious few', 1280, 0.623, 783);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'carry exactly thank', 4009, 0.928, 324);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'natural door management', 2364, 0.924, 860);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'teacher customer now', 1973, 0.581, 648);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'value front fine', 3351, 0.190, 710);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'station ask government', 188, 0.853, 377);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'against today call', 234, 0.186, 390);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'concern weight draw', 2905, 0.728, 802);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'region also until', 4505, 0.442, 246);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'Congress Mrs money', 2662, 0.552, 799);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'chair page police', 3590, 0.203, 722);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'special however program', 4041, 0.559, 486);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'seem important time', 1037, 0.253, 837);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'whom born whatever', 274, 0.893, 233);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'environmental its writer', 998, 0.595, 127);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'including star past', 2694, 0.536, 665);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'sort fly range', 3815, 0.615, 937);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'much relationship mean', 440, 0.323, 260);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'away free president', 2278, 0.100, 494);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'movement against pick', 2554, 0.966, 112);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'check writer poor', 1899, 0.716, 912);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'notice radio rate', 4322, 0.430, 386);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'ball down officer', 247, 0.394, 62);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'girl writer member', 1230, 0.889, 562);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'old avoid big', 3012, 0.281, 699);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'base game difference', 3429, 0.229, 207);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'including foreign data', 967, 0.868, 383);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'company painting network', 2724, 0.547, 20);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'majority statement anyone', 574, 0.346, 728);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'audience song security', 3108, 0.000, 992);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'pay where position', 1596, 0.634, 373);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'catch seek sell', 94, 0.091, 614);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'leg pass group', 555, 0.109, 218);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'his beautiful because', 1905, 0.318, 88);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'let maybe right', 3396, 0.799, 493);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'happy win result', 4424, 0.262, 627);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'future reflect almost', 4045, 0.459, 844);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'police social person', 296, 0.419, 206);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'hour from property', 292, 0.422, 436);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'special box friend', 3580, 0.117, 783);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'energy I none', 2026, 0.126, 759);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'tend song industry', 2889, 0.215, 717);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'another form money', 3706, 0.965, 505);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'onto recently prove', 2514, 0.112, 394);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'bed listen thank', 3203, 0.117, 224);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'near man moment', 85, 0.273, 600);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'last film investment', 1196, 0.694, 508);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'cost popular firm', 901, 0.592, 896);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'enter in hair', 450, 0.308, 736);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'here idea number', 1299, 0.942, 885);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'article role white', 1695, 0.176, 22);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'life sign figure', 572, 0.877, 614);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'modern reality four', 4688, 0.991, 654);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'each include open', 1068, 0.551, 310);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'section property agree', 174, 0.062, 285);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'method between finish', 3302, 0.485, 596);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'three continue major', 2821, 0.779, 632);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'although reveal outside', 77, 0.090, 993);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'stock anyone decade', 2299, 0.430, 932);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'check fill campaign', 1273, 0.707, 328);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'case cup cause', 1429, 0.819, 587);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'baby its single', 4335, 0.060, 102);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'theory eye training', 136, 0.563, 161);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'laugh resource political', 2581, 0.793, 404);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'performance health along', 10, 0.649, 935);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'while man on', 255, 0.170, 66);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'indicate home development', 631, 0.279, 441);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'interesting lot start', 433, 0.833, 332);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'also pick religious', 931, 0.362, 528);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'thus chance good', 2119, 0.285, 195);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'degree prove lay', 3963, 0.031, 398);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'gun improve quite', 4853, 0.075, 340);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'friend return present', 704, 0.905, 625);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'throughout Republican by', 1511, 0.855, 812);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'east center suddenly', 2056, 0.392, 414);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'stay concern return', 3538, 0.449, 261);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'sound training spend', 1905, 0.492, 952);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'they here base', 4567, 0.619, 11);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'hospital in international', 1585, 0.527, 778);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'peace first local', 1010, 0.445, 266);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'customer occur mind', 536, 0.457, 920);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'approach yeah especially', 4081, 0.529, 890);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'mother television deep', 4306, 0.550, 801);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'line behavior defense', 3333, 0.703, 741);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'lose beyond stand', 4067, 0.911, 873);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'future house high', 3511, 0.550, 843);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'manage business think', 2724, 0.972, 313);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'country approach much', 1026, 0.379, 643);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'attorney sing keep', 4749, 0.111, 915);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'yet sing event', 3253, 0.218, 723);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'account which key', 4100, 0.127, 934);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'really arrive attorney', 4650, 0.031, 226);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'force walk during', 4191, 0.503, 433);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'physical story with', 1144, 0.574, 792);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'dinner billion stuff', 693, 0.423, 49);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'edge fine none', 188, 0.326, 762);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'apply improve brother', 1512, 0.546, 791);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'professional action time', 1974, 0.796, 990);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'seem tax in', 1803, 0.416, 803);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'step speech two', 1383, 0.108, 269);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'central statement can', 2037, 0.044, 563);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'resource price agreement', 62, 0.999, 250);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'blue hard over', 1230, 0.634, 396);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'southern much position', 4029, 0.241, 876);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'player help wide', 2354, 0.538, 728);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'possible heavy follow', 4437, 0.868, 877);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'two agree draw', 160, 0.178, 217);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'deal much next', 4158, 0.258, 175);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'great pay everybody', 932, 0.760, 411);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'power huge want', 1026, 0.799, 525);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'ever enter two', 2156, 0.050, 579);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'can area trade', 2059, 0.860, 933);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'why modern us', 2329, 0.312, 142);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'view story appear', 3966, 0.634, 559);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'value here opportunity', 1525, 0.898, 462);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'traditional require material', 341, 0.176, 736);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'first ok some', 1749, 0.676, 314);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'commercial nothing land', 3598, 0.784, 632);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'we will language', 4499, 0.276, 669);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'what big happen', 559, 0.870, 558);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'seven design half', 689, 0.981, 980);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'concern successful write', 4731, 0.581, 116);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'population another partner', 861, 0.201, 66);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'ability along rate', 2936, 0.281, 948);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'technology customer network', 602, 0.918, 32);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'ago set firm', 2165, 0.567, 16);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'task despite save', 3311, 0.916, 192);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'center similar model', 3371, 0.887, 432);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'food stage suddenly', 4412, 0.981, 446);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'every culture so', 4260, 0.891, 38);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'early day politics', 3541, 0.846, 141);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'know tend few', 1739, 0.237, 473);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'should unit always', 948, 0.257, 635);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'material truth now', 3754, 0.689, 992);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'support official remember', 1722, 0.309, 842);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'stand pass close', 707, 0.974, 804);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'since quite tonight', 2574, 0.581, 535);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'sound level final', 2478, 0.736, 799);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'every and learn', 1253, 0.374, 5);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'husband respond wrong', 1965, 0.021, 127);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'moment factor middle', 1076, 0.046, 957);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'high anything record', 713, 0.913, 846);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'drop call girl', 4058, 0.713, 481);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'deal listen identify', 1294, 0.612, 86);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'image major book', 1351, 0.911, 359);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'range alone detail', 3708, 0.117, 400);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'such family before', 2493, 0.067, 125);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'listen note present', 4395, 0.842, 100);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'major message onto', 4705, 0.252, 275);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'nor reality direction', 1541, 0.454, 244);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'less different ask', 1425, 0.407, 658);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'through all whether', 229, 0.343, 505);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'believe pick view', 4400, 0.294, 484);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'structure decade building', 1659, 0.121, 581);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'commercial partner culture', 761, 0.724, 606);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'reach do rule', 62, 0.614, 355);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'return writer bar', 1717, 0.457, 441);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'require task environment', 4967, 0.230, 284);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'standard letter feeling', 2113, 0.006, 461);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'discuss head check', 209, 0.487, 364);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'remain positive simply', 4375, 0.102, 517);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'life note card', 1275, 0.992, 897);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'well despite four', 2712, 0.090, 155);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'can including garden', 2773, 0.661, 622);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'if easy machine', 1268, 0.031, 172);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'foreign pick every', 3011, 0.964, 858);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'ground street sort', 4636, 0.582, 977);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'small dream hot', 3149, 0.946, 532);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'leave improve recent', 2713, 0.130, 581);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'science win cell', 449, 0.615, 115);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'dinner now focus', 4605, 0.584, 85);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'customer once interest', 2998, 0.393, 568);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'politics serve out', 4562, 0.437, 10);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'street finally support', 182, 0.018, 581);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'certain unit still', 2314, 0.164, 667);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'itself either brother', 1934, 0.698, 218);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'care fast soldier', 4967, 0.269, 205);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'level behind shoulder', 219, 0.195, 853);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'charge task phone', 1579, 0.106, 144);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'sell same outside', 384, 0.337, 559);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'land range reflect', 2326, 0.039, 409);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'whose recent individual', 3013, 0.261, 424);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'building skin no', 1220, 0.315, 520);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'industry still world', 4626, 0.064, 585);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'reality picture out', 761, 0.043, 886);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'edge eat accept', 3358, 0.190, 941);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'hear laugh ready', 4557, 0.901, 540);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'plan final way', 4848, 0.185, 608);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'do executive even', 1464, 0.545, 820);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'much then sense', 728, 0.161, 839);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'herself know local', 1381, 0.323, 16);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'treatment until guy', 2939, 0.740, 606);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'recognize establish administration', 1443, 0.130, 201);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'fly so month', 265, 0.103, 424);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'example quickly measure', 1229, 0.754, 881);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'store do issue', 4122, 0.049, 446);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'today senior move', 4245, 0.249, 131);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'production write computer', 4016, 0.514, 161);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'simple imagine remember', 4932, 0.333, 966);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'safe consider finally', 4456, 0.060, 747);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'speak another listen', 509, 0.298, 519);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'health marriage maybe', 1418, 0.785, 759);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'common lawyer attention', 2161, 0.246, 13);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'rise window off', 2229, 0.214, 354);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'her able real', 2348, 0.649, 362);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'end environment forward', 3523, 0.537, 7);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'impact team let', 4659, 0.575, 2);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'my case bill', 2507, 0.896, 271);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'true be remember', 4271, 0.130, 987);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'two author heart', 430, 0.554, 927);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'college accept look', 1203, 0.206, 191);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'relate quite stop', 1550, 0.560, 939);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'report reach feeling', 626, 0.942, 752);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'mission success nice', 167, 0.442, 219);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'budget once remain', 229, 0.665, 769);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'skill real beyond', 2591, 0.310, 416);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'whether what political', 1397, 0.059, 93);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'buy single product', 559, 0.740, 857);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'country real good', 2855, 0.184, 816);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'growth heart down', 1653, 0.259, 211);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'always role story', 991, 0.324, 777);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'quality try possible', 4769, 0.369, 875);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'structure type thought', 3335, 0.208, 221);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'artist away station', 443, 0.713, 233);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'crime one one', 4680, 0.177, 184);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'material chair instead', 301, 0.809, 747);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'factor wish consumer', 1457, 0.956, 339);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'allow town rest', 4305, 0.672, 419);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'feel leader consumer', 2570, 0.134, 516);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'increase seek raise', 2429, 0.499, 353);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'avoid participant daughter', 1219, 0.286, 596);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'speak miss I', 677, 0.278, 48);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'our never up', 3765, 0.443, 753);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'control test first', 4213, 0.632, 633);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'class throw check', 4526, 0.205, 408);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'price play recent', 2845, 0.463, 544);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'news follow activity', 476, 0.283, 452);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'factor long prevent', 2823, 0.623, 20);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'both painting record', 1338, 0.678, 341);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'Republican product direction', 3987, 0.984, 963);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'five base may', 1018, 0.815, 431);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'room same child', 3810, 0.168, 346);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'none family thought', 1537, 0.262, 853);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'apply down force', 1987, 0.366, 977);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'town discover ball', 4483, 0.732, 818);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'leader vote citizen', 2477, 0.607, 469);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'show painting those', 2885, 0.833, 28);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'public his finish', 3165, 0.994, 738);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'plan teach bar', 290, 0.819, 699);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'leader away degree', 4265, 0.965, 452);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'company forget walk', 1395, 0.406, 183);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'cost run president', 1395, 0.231, 66);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'Democrat guy set', 3814, 0.628, 136);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'attention house moment', 1342, 0.507, 99);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'at style significant', 3421, 0.378, 649);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'figure side professor', 3051, 0.785, 399);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'would challenge exactly', 4646, 0.945, 329);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'attack although rise', 2326, 0.986, 125);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'blue suddenly measure', 2938, 0.544, 436);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'class entire guy', 2378, 0.162, 613);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'imagine growth measure', 3647, 0.774, 47);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'parent contain indeed', 1015, 0.414, 763);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'store any blood', 429, 0.938, 701);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'yeah over today', 378, 0.888, 102);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'thus between see', 2169, 0.103, 800);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'nor lose cut', 3789, 0.062, 412);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'opportunity old outside', 1086, 0.900, 591);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'road he resource', 1318, 0.079, 116);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'mouth include surface', 527, 0.213, 106);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'police easy reveal', 3420, 0.770, 313);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'create soldier age', 3596, 0.429, 835);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'put eat woman', 1786, 0.145, 618);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'fear me plan', 2014, 0.444, 865);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'crime hear answer', 4198, 0.179, 177);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'sell yourself do', 4347, 0.797, 744);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'option be thousand', 2500, 0.031, 95);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'relationship since star', 3379, 0.954, 717);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'culture ability hold', 2472, 0.750, 601);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'four someone send', 2020, 0.654, 841);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'start everyone evidence', 1809, 0.436, 914);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'rate after will', 4287, 0.620, 435);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'full theory great', 2576, 0.516, 213);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'help attack total', 3537, 0.121, 535);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'me western either', 3558, 0.313, 222);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'detail room long', 2424, 0.489, 267);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'personal however participant', 3289, 0.588, 186);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'once church guy', 4528, 0.686, 291);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'small another kind', 2123, 0.686, 164);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'stand best director', 1278, 0.234, 925);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'speak arm simply', 1140, 0.023, 234);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'health professor position', 1812, 0.315, 29);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'set together statement', 251, 0.676, 302);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'popular even money', 3505, 0.514, 551);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'take everybody report', 3680, 0.980, 988);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'hair position firm', 1984, 0.365, 36);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'voice become expert', 874, 0.950, 488);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'country suddenly rock', 978, 0.827, 701);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'assume physical activity', 3187, 0.246, 228);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'green size project', 3815, 0.069, 39);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'draw evening appear', 4163, 0.923, 635);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'meet service yard', 2646, 0.250, 659);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'case painting happen', 3342, 0.004, 420);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'world strong grow', 1913, 0.566, 52);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'spend accept it', 4172, 0.293, 208);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'it century note', 955, 0.569, 122);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'end close term', 1446, 0.455, 121);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'travel drive moment', 725, 0.194, 35);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'laugh fact yard', 1105, 0.121, 207);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'less detail machine', 1289, 0.514, 263);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'involve receive job', 3650, 0.932, 318);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'realize five when', 1811, 0.460, 262);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'morning trouble none', 4238, 0.980, 57);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'movement reduce father', 4293, 0.538, 726);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'anyone early light', 4598, 0.569, 712);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'near radio article', 3782, 0.457, 593);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'myself good quickly', 486, 0.114, 522);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'suddenly newspaper president', 1159, 0.803, 197);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'west thought the', 399, 0.777, 902);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'if court kind', 3385, 0.744, 361);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'step point break', 465, 0.162, 392);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'mention sport make', 3767, 0.123, 600);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'wonder technology these', 1640, 0.821, 891);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'positive interest board', 4725, 0.894, 170);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'social they floor', 2931, 0.585, 527);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'model evidence also', 4601, 0.668, 407);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'military thousand brother', 2373, 0.961, 201);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'three appear walk', 2863, 0.433, 30);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'brother indeed new', 1406, 0.681, 674);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'plan fast either', 2370, 0.114, 662);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'either rule bar', 3806, 0.217, 982);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'prevent on history', 2873, 0.503, 971);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'activity artist task', 819, 0.386, 271);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'call score fine', 765, 0.886, 629);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'customer money democratic', 4894, 0.236, 765);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'help focus personal', 2086, 0.986, 477);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'bring happen candidate', 2047, 0.234, 643);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'air more high', 2671, 0.395, 747);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'let finally return', 2460, 0.399, 422);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'team service pick', 690, 0.266, 821);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'these owner music', 3401, 0.896, 546);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'movie foot modern', 1039, 0.937, 381);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'growth beautiful worker', 732, 0.663, 511);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'election north where', 569, 0.418, 267);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'source letter call', 2198, 0.820, 855);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'write couple join', 131, 0.726, 924);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'assume cost reason', 1066, 0.417, 83);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'part concern green', 4188, 0.661, 934);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'purpose wind soldier', 2167, 0.275, 811);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'system economy ahead', 1439, 0.235, 330);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'strong choice apply', 4086, 0.628, 944);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'understand understand water', 607, 0.509, 154);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'finally real event', 2159, 0.833, 779);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'thus interest much', 2079, 0.697, 926);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'poor security worry', 2883, 0.819, 406);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'smile back question', 126, 0.998, 4);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'debate generation continue', 235, 0.595, 27);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'modern everybody but', 2935, 0.299, 831);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'drug crime bad', 1490, 0.886, 556);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'own among budget', 202, 0.942, 472);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'ago nice stand', 4250, 0.497, 749);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'serious including fall', 4331, 0.641, 971);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'list decision heart', 4479, 0.744, 15);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'partner rise explain', 3037, 0.141, 952);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'concern result break', 3784, 0.111, 845);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'determine could friend', 4591, 0.859, 215);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'follow enter level', 2435, 0.386, 458);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'color design dinner', 2755, 0.501, 970);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'ever once drug', 4938, 0.502, 201);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'general face vote', 103, 0.111, 113);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'collection case might', 2334, 0.348, 465);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'leg those according', 2203, 0.745, 750);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'for modern moment', 3890, 0.884, 219);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'hundred medical hundred', 2576, 0.831, 580);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'Democrat any do', 3747, 0.521, 210);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'see experience total', 1581, 0.279, 256);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'treat attorney adult', 4733, 0.438, 870);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'worry instead center', 4049, 0.226, 901);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'language table movie', 2707, 0.079, 424);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'job night director', 3412, 0.750, 562);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'industry tax edge', 2050, 0.249, 707);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'share it page', 3037, 0.609, 933);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'specific this fast', 752, 0.510, 851);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'state it foreign', 689, 0.928, 104);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'up second in', 1937, 0.429, 819);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'house skill half', 2520, 0.133, 50);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'whether probably activity', 1264, 0.119, 650);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'pass instead week', 2219, 0.219, 732);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'heart many next', 338, 0.310, 375);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'real once cover', 1376, 0.525, 888);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'similar big staff', 1120, 0.958, 410);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'nation family affect', 2178, 0.605, 678);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'write point standard', 100, 0.236, 173);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'student consumer way', 3593, 0.088, 78);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'though trial food', 3418, 0.570, 400);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'mention billion let', 4194, 0.269, 24);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'safe position can', 1944, 0.327, 965);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'he position newspaper', 3056, 0.345, 198);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'order program plan', 4713, 0.656, 348);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'myself article yourself', 2069, 0.714, 522);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'look firm trade', 857, 0.718, 659);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'memory more represent', 667, 0.760, 730);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'world fire force', 4929, 0.341, 193);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'east us to', 2615, 0.095, 51);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'close training outside', 2939, 0.123, 525);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'region almost everyone', 1397, 0.494, 912);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'table read wide', 485, 0.976, 632);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'guy edge per', 2087, 0.013, 201);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'film our short', 1940, 0.327, 474);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'expect degree yet', 1641, 0.903, 121);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'cultural art those', 710, 0.827, 819);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'true behavior music', 4902, 0.444, 130);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'develop question red', 4478, 0.842, 576);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'have board less', 150, 0.184, 319);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'subject security decide', 4402, 0.661, 403);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'kitchen support into', 2924, 0.120, 523);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'let subject save', 3911, 0.231, 782);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'car final and', 186, 0.777, 791);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'foreign change physical', 4672, 0.584, 114);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'beautiful positive situation', 811, 0.267, 3);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'member task case', 449, 0.034, 26);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'of company consider', 177, 0.668, 80);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'wife give agree', 4502, 0.606, 945);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'medical guess when', 381, 0.206, 374);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'system year see', 4632, 0.232, 336);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'along our young', 728, 0.805, 587);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'black today order', 3834, 0.216, 963);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'than actually road', 142, 0.987, 78);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'official create floor', 148, 0.813, 874);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'popular trouble better', 1994, 0.313, 346);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'Mr their loss', 77, 0.713, 236);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'you change standard', 2704, 0.651, 438);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'public manage prove', 2001, 0.571, 315);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'senior argue fast', 1688, 0.779, 191);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'debate help price', 1478, 0.591, 471);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'former treat by', 30, 0.061, 449);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'down Mr back', 3746, 0.065, 983);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'shoulder hotel stand', 4282, 0.876, 922);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'hospital employee level', 4122, 0.029, 34);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'exactly their prevent', 4330, 0.071, 187);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'into pick especially', 4872, 0.631, 260);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'bag condition skill', 3771, 0.088, 918);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'another wear staff', 2456, 0.887, 69);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'realize have more', 435, 0.816, 995);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'box candidate no', 2741, 0.133, 7);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'sure do receive', 2082, 0.489, 634);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'increase vote power', 4100, 0.379, 867);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'team through protect', 3428, 0.916, 856);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'behind over none', 485, 0.319, 650);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'both PM summer', 194, 0.245, 185);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'heavy bag everyone', 518, 0.013, 793);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'your war sometimes', 2485, 0.123, 883);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'laugh information teacher', 4031, 0.285, 949);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'national worker wonder', 3056, 0.759, 959);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'receive light so', 4655, 0.469, 275);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'catch grow all', 4972, 0.368, 729);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'civil effect think', 886, 0.787, 784);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'company bar huge', 3341, 0.265, 278);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'other north save', 4024, 0.151, 989);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'science throughout office', 3393, 0.157, 351);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'hotel hold model', 339, 0.652, 150);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'land major under', 1727, 0.559, 395);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'board wide Republican', 888, 0.426, 160);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'author onto chair', 4937, 0.627, 149);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'identify west school', 3360, 0.028, 515);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'thought physical turn', 2300, 0.195, 586);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'amount increase guy', 2160, 0.656, 67);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'source official just', 2483, 0.373, 405);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'force thing spend', 4184, 0.619, 337);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'anything room culture', 519, 0.256, 790);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'next nor expert', 820, 0.906, 983);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'rate window modern', 1654, 0.221, 412);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'green mother field', 203, 0.459, 474);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'response must power', 1615, 0.769, 224);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'their animal quite', 2680, 0.771, 908);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'finally cost during', 313, 0.913, 985);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'behind discover million', 2261, 0.969, 16);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'public participant rock', 3278, 0.206, 486);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'that year she', 2825, 0.199, 541);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'trouble allow become', 899, 0.766, 366);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'boy do ground', 610, 0.274, 725);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'set top have', 1698, 0.863, 935);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'art per though', 2802, 0.029, 961);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'term health likely', 396, 0.639, 868);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'require television perform', 2543, 0.100, 484);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'top check federal', 1611, 0.559, 540);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'heart we call', 1083, 0.710, 552);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'commercial single view', 3336, 0.044, 709);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'class network over', 4556, 0.946, 778);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'film be fear', 4950, 0.265, 462);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'it group affect', 4710, 0.568, 270);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'structure know interview', 4985, 0.314, 217);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'many door stay', 4358, 0.170, 234);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'three note election', 4659, 0.285, 84);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'letter cut anything', 2979, 0.464, 560);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'history yeah teach', 4870, 0.287, 761);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'meeting head box', 2794, 0.261, 40);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'myself hope father', 1478, 0.353, 418);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'news likely show', 1289, 0.495, 665);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'myself recognize city', 161, 0.406, 388);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'doctor local case', 3092, 0.851, 139);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'contain leave resource', 342, 0.260, 109);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'new throughout far', 1533, 0.990, 357);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'enjoy important discussion', 2270, 0.817, 418);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'newspaper not painting', 3023, 0.882, 403);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'all heavy the', 3955, 0.753, 853);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'play reason risk', 4992, 0.595, 188);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'glass leave family', 235, 0.717, 844);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'film contain fear', 4954, 0.342, 371);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'word Mr environmental', 2725, 0.525, 930);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'baby main really', 3086, 0.500, 902);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'explain red inside', 3707, 0.741, 46);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'sense bar real', 1113, 0.630, 20);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'rate part direction', 2347, 0.317, 691);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'growth culture area', 793, 0.497, 549);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'his class great', 847, 0.275, 390);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'hospital stop front', 4937, 0.862, 651);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'foot as company', 2127, 0.113, 825);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'war piece TV', 1289, 0.084, 359);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'agent old own', 105, 0.706, 345);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'clearly remember father', 3643, 0.378, 215);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'religious article yourself', 1885, 0.973, 940);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'plant protect building', 3176, 0.116, 272);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'late population ahead', 1260, 0.530, 928);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'Mr maintain agree', 618, 0.547, 467);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'civil face ground', 695, 0.841, 10);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'wrong difference maybe', 263, 0.303, 578);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'month series thousand', 1919, 0.028, 300);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'short environment hour', 3421, 0.771, 213);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'certainly move everything', 1095, 0.328, 330);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'where quite according', 142, 0.065, 221);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'wait seat time', 2410, 0.037, 447);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'civil ability many', 27, 0.236, 655);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'success those policy', 4302, 0.083, 568);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'per second show', 4831, 0.567, 120);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'though ok fish', 312, 0.153, 988);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'others school sound', 590, 0.478, 87);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'behind spring specific', 285, 0.642, 153);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'within attorney into', 516, 0.695, 983);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'fish artist meet', 2305, 0.700, 887);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'central itself share', 4137, 0.955, 447);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'reduce although rate', 3227, 0.693, 152);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'six civil about', 2550, 0.149, 161);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'for ability nearly', 1817, 0.370, 955);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'vote draw begin', 3282, 0.096, 887);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'north system particular', 2598, 0.337, 794);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'lay worry politics', 1100, 0.541, 469);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'everything threat show', 1912, 0.145, 277);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'never such PM', 2801, 0.789, 575);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'me large anyone', 1400, 0.403, 863);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'ball herself others', 685, 0.114, 269);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'nothing father road', 2282, 0.876, 750);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'item specific here', 3450, 0.047, 890);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'now commercial major', 3474, 0.435, 648);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'car society program', 873, 0.301, 576);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'wrong radio middle', 1854, 0.256, 791);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'young what continue', 1448, 0.997, 649);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'sell pretty think', 4946, 0.245, 737);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'process protect medical', 17, 0.694, 90);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'day military public', 1745, 0.051, 55);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'wife upon health', 4827, 0.795, 1000);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'few Mr music', 1424, 0.162, 638);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'rock region especially', 4233, 0.549, 680);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'matter name professional', 3498, 0.348, 968);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'drop perhaps black', 784, 0.405, 339);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'energy dark reflect', 2600, 0.604, 690);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'add myself television', 1014, 0.721, 384);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'may nothing quite', 265, 0.870, 309);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'million real officer', 1491, 0.475, 391);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'know claim trip', 828, 0.741, 902);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'make hear spring', 1061, 0.792, 830);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'thought almost world', 822, 0.551, 308);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'during us floor', 4416, 0.146, 21);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'near light high', 3212, 0.821, 991);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'build law onto', 3727, 0.570, 625);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'traditional president present', 1553, 0.742, 496);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'than agent yourself', 4427, 0.546, 520);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'month car risk', 2749, 0.924, 370);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'game population development', 3701, 0.501, 325);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'two improve position', 3823, 0.004, 775);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'system become if', 1722, 0.877, 443);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'control possible safe', 4709, 0.851, 187);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'American benefit chair', 4771, 0.365, 638);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'data community second', 3115, 0.977, 644);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'trial type though', 529, 0.908, 620);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'inside machine personal', 170, 0.977, 494);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'anyone drop generation', 2047, 0.217, 804);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'figure road week', 693, 0.420, 754);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'glass impact card', 4738, 0.017, 703);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'factor rock meeting', 584, 0.190, 224);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'single crime effect', 4547, 0.879, 19);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'clear tough dinner', 1525, 0.565, 231);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'we maybe say', 3676, 0.884, 620);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'hand no no', 619, 0.726, 918);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'practice water experience', 124, 0.747, 360);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'billion discover future', 2572, 0.516, 940);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'raise pressure keep', 750, 0.703, 46);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'remember close tax', 1550, 0.021, 813);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'catch region mouth', 4495, 0.726, 724);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'hotel simply you', 1599, 0.765, 991);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'office help seem', 4827, 0.638, 779);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'up true vote', 3395, 0.710, 637);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'similar some card', 3789, 0.095, 841);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'organization what value', 1246, 0.155, 413);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'dog community how', 1194, 0.197, 914);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'perform section able', 4471, 0.670, 968);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'pretty plant very', 2513, 0.784, 133);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'hold yard national', 3341, 0.373, 429);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'gas address south', 416, 0.316, 467);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'attack address everything', 1986, 0.208, 166);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'production himself total', 683, 0.423, 688);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'remain partner author', 2451, 0.266, 68);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'provide also off', 3667, 0.275, 839);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'teach represent thing', 214, 0.446, 769);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'sort guess purpose', 4081, 0.266, 15);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'stay democratic ten', 4480, 0.319, 294);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'probably him strategy', 604, 0.421, 397);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'boy modern listen', 387, 0.232, 354);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'reflect least many', 1130, 0.002, 285);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'whether she street', 3834, 0.118, 997);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'three through crime', 1017, 0.335, 752);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'lay society form', 1739, 0.725, 985);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'newspaper trip view', 1480, 0.138, 374);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'modern box hand', 744, 0.799, 463);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'he role world', 3587, 0.868, 701);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'require suddenly heavy', 1739, 0.558, 51);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'participant between message', 2146, 0.082, 770);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'day think strategy', 4888, 0.607, 828);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'lead final visit', 2196, 0.599, 167);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'new yes fact', 458, 0.020, 491);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'piece magazine either', 4604, 0.385, 336);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'opportunity above while', 2740, 0.861, 456);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'right picture staff', 1815, 0.254, 307);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'seem group present', 1930, 0.575, 429);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'raise space score', 4101, 0.440, 901);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'action along action', 4859, 0.094, 742);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'ready store field', 4389, 0.316, 432);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'behind information order', 3682, 0.951, 212);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'rock guy military', 3414, 0.450, 741);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'leader foot speak', 3684, 0.831, 17);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'sometimes appear fight', 4090, 0.889, 45);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'industry change time', 178, 0.903, 555);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'today road front', 2761, 0.323, 25);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'seek start sit', 577, 0.973, 255);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'measure meeting program', 3285, 0.215, 881);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'chance happy share', 3648, 0.885, 820);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'girl face pressure', 4354, 0.401, 569);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'no argue difference', 3453, 0.799, 95);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'design her star', 4450, 0.867, 941);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'street like bill', 2729, 0.806, 553);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'onto today wait', 2205, 0.239, 903);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'rest art worker', 4347, 0.161, 511);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'rock red TV', 3691, 0.124, 774);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'nor national there', 4764, 0.032, 555);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'husband media me', 1136, 0.507, 143);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'produce true seem', 4045, 0.498, 721);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'difficult kind truth', 4833, 0.356, 979);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'grow traditional building', 4550, 0.590, 278);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'success east less', 289, 0.821, 883);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'security customer top', 2262, 0.601, 583);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'story start author', 4873, 0.196, 890);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'might wrong hotel', 1002, 0.356, 815);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'five statement behavior', 5000, 0.388, 619);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'business marriage say', 3237, 0.742, 747);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'talk seven ok', 366, 0.151, 942);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'color entire visit', 3203, 0.548, 79);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'stage employee suggest', 4749, 0.302, 449);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'do issue medical', 973, 0.408, 791);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'decide air skill', 4657, 0.379, 204);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'add attorney our', 4364, 0.009, 550);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'get issue media', 3899, 0.419, 893);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'process along skin', 3379, 0.244, 797);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'still better allow', 2588, 0.669, 645);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'decide despite good', 4072, 0.625, 926);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'couple sing improve', 520, 0.547, 927);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'what several enough', 3388, 0.118, 724);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'live design partner', 451, 0.861, 491);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'other civil religious', 4842, 0.042, 730);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'win school free', 2608, 0.389, 185);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'plant old enter', 2788, 0.615, 268);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'should nothing often', 2953, 0.363, 153);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'factor style here', 2312, 0.037, 984);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'development father remain', 1233, 0.877, 652);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'accept field fast', 2976, 0.043, 810);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'may TV want', 4320, 0.995, 18);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'plant left kind', 4476, 0.139, 565);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'participant term article', 3792, 0.386, 778);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'let the suddenly', 2774, 0.552, 668);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'stand pretty enjoy', 1777, 0.395, 86);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'wide toward all', 2575, 0.740, 442);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'paper hand consumer', 3135, 0.031, 789);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'wind skill something', 126, 0.362, 224);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'add success our', 1386, 0.105, 36);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'back as later', 3332, 0.503, 824);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'easy player war', 2233, 0.620, 885);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'since available from', 4593, 0.152, 868);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'save say company', 3886, 0.165, 743);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'character language the', 1254, 0.483, 654);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'sing open speech', 2650, 0.146, 307);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'red some finally', 4429, 0.178, 525);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'senior clear space', 3091, 0.907, 735);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'follow fish laugh', 1824, 0.989, 778);
+INSERT INTO items(id, name, price, rating, manufacturer_id) VALUES(DEFAULT, 'single page without', 3121, 0.442, 343);
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 853, '323 Rogers Island Suite 581
 Leemouth, OK 32905');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '086 Peters Greens
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 365, '086 Peters Greens
 West Ashley, WI 99458');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '10734 Coleman Stravenue Suite 699
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 177, '10734 Coleman Stravenue Suite 699
 Lake Stephaniechester, TX 06091');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '71105 Schmidt Fields
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 810, '71105 Schmidt Fields
 Kingport, AL 12591');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '57755 Peter Freeway Suite 284
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 830, '57755 Peter Freeway Suite 284
 New Jodi, SC 42538');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4790 Evans Knolls Suite 187
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 459, '4790 Evans Knolls Suite 187
 Port Amandamouth, AS 37492');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '1221 Snyder Divide
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 234, '1221 Snyder Divide
 Lake Darrellland, NC 26492');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '78649 Phillips Islands
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 472, '78649 Phillips Islands
 Miketown, AZ 08127');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '29721 Morrison Mountains Suite 160
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 9, '29721 Morrison Mountains Suite 160
 North Jeanne, VT 62775');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '175 Williams Squares Apt. 332
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 558, '175 Williams Squares Apt. 332
 Elliston, VI 65760');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '1447 Troy Island
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 546, '1447 Troy Island
 Davidview, MN 18467');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '13704 Walton Via
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 527, '13704 Walton Via
 New Destiny, NV 36280');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '484 Smith Shoal
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 865, '484 Smith Shoal
 Rodriguezbury, NM 49659');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '8887 Brian Squares Suite 976
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 199, '8887 Brian Squares Suite 976
 Adamsberg, MT 72361');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '157 Christina Fall
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 930, '157 Christina Fall
 Cynthiastad, OR 21442');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '119 Dennis Groves Apt. 691
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 23, '119 Dennis Groves Apt. 691
 East Melindafurt, GA 08997');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '65736 Stark Canyon
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 87, '65736 Stark Canyon
 Meganbury, MN 93665');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '53336 Krause Extension Suite 410
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 436, '53336 Krause Extension Suite 410
 West Rodneyburgh, UT 22369');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3807 Andrea Ridges Apt. 949
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 640, '3807 Andrea Ridges Apt. 949
 South Joelfurt, MH 05158');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '6615 Shawn Mills
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 169, '6615 Shawn Mills
 Chelseyfort, FL 92190');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '084 Wilson Harbors Apt. 228
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 684, '084 Wilson Harbors Apt. 228
 Port Julie, NH 55044');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '963 Mack Village Apt. 805
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 711, '963 Mack Village Apt. 805
 West Lindsayfort, OK 36022');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '11317 Chan Throughway
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 183, '11317 Chan Throughway
 West Jeffreyburgh, PW 48797');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4556 Keith Lake Apt. 697
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 502, '4556 Keith Lake Apt. 697
 Jenkinsland, MD 45950');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7128 Gonzalez Pike
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 864, '7128 Gonzalez Pike
 Clarkberg, GA 59314');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '1820 Janice Ways Apt. 168
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 243, '1820 Janice Ways Apt. 168
 South Christineview, WI 54643');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 3886 Box 7780
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 883, 'Unit 3886 Box 7780
 DPO AE 21535');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USCGC Young
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 637, 'USCGC Young
 FPO AA 88240');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '5885 Thompson Shore
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 16, '5885 Thompson Shore
 North Phyllismouth, CO 86607');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '583 Kelli Rue Apt. 847
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 754, '583 Kelli Rue Apt. 847
 South Josebury, MD 06760');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7258 Monica Walk
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 671, '7258 Monica Walk
 East Bradyview, CA 46331');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '20655 Melissa Parkways Suite 424
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 631, '20655 Melissa Parkways Suite 424
 North Ashleychester, MH 30194');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '232 Luna Valleys
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 885, '232 Luna Valleys
 Bradyland, VT 78855');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '819 Murray Pine
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 706, '819 Murray Pine
 South Courtney, FL 20918');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '6677 Cox Divide
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 896, '6677 Cox Divide
 Port Brandifurt, NJ 92716');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USS Wade
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 463, 'USS Wade
 FPO AA 63447');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4783 Compton Rest
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 409, '4783 Compton Rest
 East Traci, MA 41684');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '532 Lara Isle
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 495, '532 Lara Isle
 Elizabethville, ME 09947');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '79572 Murphy Walks
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 327, '79572 Murphy Walks
 East Lori, NH 65028');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '45814 Amy Forge Suite 048
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 5, '45814 Amy Forge Suite 048
 Hobbsmouth, AZ 77791');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '315 Everett Valleys
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 300, '315 Everett Valleys
 Leeberg, MT 76579');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '80768 Webb Ferry Suite 038
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 965, '80768 Webb Ferry Suite 038
 North Melissa, FM 13258');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '6913 Miles Plaza Apt. 778
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 221, '6913 Miles Plaza Apt. 778
 Thompsonbury, PW 79798');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '50108 Timothy Lake
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 756, '50108 Timothy Lake
 Rodriguezview, PR 65920');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '968 Michael Ranch Apt. 998
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 58, '968 Michael Ranch Apt. 998
 West Laurieville, ID 02845');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '13091 Ashley Island Suite 468
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 202, '13091 Ashley Island Suite 468
 Lake Brianberg, LA 17921');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '180 Guerra Vista
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 390, '180 Guerra Vista
 Perezport, MD 88634');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '5761 Miller Rapid Suite 266
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 846, '5761 Miller Rapid Suite 266
 New Joyceberg, HI 37507');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '359 Peter Locks Suite 975
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 246, '359 Peter Locks Suite 975
 West Allen, MP 68047');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '881 Hahn Ways Apt. 248
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 686, '881 Hahn Ways Apt. 248
 Kevinmouth, MN 53166');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '66306 Danielle Turnpike
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 872, '66306 Danielle Turnpike
 New Ericafurt, NV 78826');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '306 Deborah Union Suite 059
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 564, '306 Deborah Union Suite 059
 North Maryton, ID 96897');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '2989 Smith Stravenue Apt. 642
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 795, '2989 Smith Stravenue Apt. 642
 Flemingland, OR 82676');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '097 Kevin Vista Apt. 464
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 573, '097 Kevin Vista Apt. 464
 North Joshua, VI 30615');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 4635 Box 0926
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 841, 'Unit 4635 Box 0926
 DPO AA 18362');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '398 Mitchell Heights
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 858, '398 Mitchell Heights
 Johnview, MO 75368');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '104 Cochran Highway
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 814, '104 Cochran Highway
 Patrickside, TN 45366');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '136 William Brook
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 419, '136 William Brook
 Jonesfurt, NC 08080');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '062 Kennedy Dale Suite 813
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 25, '062 Kennedy Dale Suite 813
 Johnsonton, NE 90739');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '82414 Jenkins Circle Suite 424
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 275, '82414 Jenkins Circle Suite 424
 Bautistafurt, CT 37779');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '1975 Kenneth Islands Suite 009
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 133, '1975 Kenneth Islands Suite 009
 Hoganbury, AR 24416');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '69552 Savannah Ferry Apt. 180
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 643, '69552 Savannah Ferry Apt. 180
 West Stevenfort, CT 79760');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '28642 Fisher Burgs
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 899, '28642 Fisher Burgs
 North Christopher, HI 81100');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7456 Pollard Shoal
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 286, '7456 Pollard Shoal
 Jamesmouth, HI 22627');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '81512 Morales Camp
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 617, '81512 Morales Camp
 Floydville, TN 16227');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '405 Thomas Islands
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 830, '405 Thomas Islands
 Meaganberg, TN 54128');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '5327 Miller Drive Suite 585
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 341, '5327 Miller Drive Suite 585
 Port Kathyport, VT 40933');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '68165 Allen Viaduct
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 105, '68165 Allen Viaduct
 Greenborough, PA 05674');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '38572 Martinez Groves Suite 442
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 707, '38572 Martinez Groves Suite 442
 Annamouth, ND 36175');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '1917 Alicia Plain Suite 598
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 257, '1917 Alicia Plain Suite 598
 East Joannachester, SC 55003');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4469 Molina Hill Suite 961
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 184, '4469 Molina Hill Suite 961
 West Daniellemouth, NY 37273');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '672 Jennifer Camp
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 272, '672 Jennifer Camp
 East Lucas, PW 89943');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '62144 Ashley Fields Apt. 080
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 773, '62144 Ashley Fields Apt. 080
 Josephburgh, PW 66898');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '720 David Rue Apt. 756
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 883, '720 David Rue Apt. 756
 Williammouth, CO 08752');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 7174 Box 2805
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 7, 'Unit 7174 Box 2805
 DPO AP 32216');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '027 Leslie Vista
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 54, '027 Leslie Vista
 Port Scott, PR 92838');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '757 Jennifer Plaza Apt. 318
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 477, '757 Jennifer Plaza Apt. 318
 West Amy, NE 70842');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '5454 Howard Keys Apt. 768
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 460, '5454 Howard Keys Apt. 768
 Marthaside, ND 48456');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '966 Lisa Viaduct
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 19, '966 Lisa Viaduct
 Lake Brandi, FL 75830');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 6586 Box 0900
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 932, 'Unit 6586 Box 0900
 DPO AP 85799');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '0598 Michael Pine Suite 059
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 155, '0598 Michael Pine Suite 059
 Lake Jasmine, DE 78551');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '50028 Williams Hill Apt. 681
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 178, '50028 Williams Hill Apt. 681
 Coxhaven, MD 00642');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7660 Julie Square
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 644, '7660 Julie Square
 Aguilarborough, MS 03493');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '912 Margaret Mission Apt. 714
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 418, '912 Margaret Mission Apt. 714
 South Brendanstad, VI 44611');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '74273 Klein Parkways Suite 728
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 270, '74273 Klein Parkways Suite 728
 West Michele, DE 25506');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '86131 Andrew Terrace
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 186, '86131 Andrew Terrace
 South Amandaburgh, CT 16121');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4473 George Road
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 18, '4473 George Road
 Timothyshire, FM 80977');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USNS Holloway
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 753, 'USNS Holloway
 FPO AA 86755');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4135 Jerry Inlet Apt. 202
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 419, '4135 Jerry Inlet Apt. 202
 Orrport, AR 02132');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '19097 Hoffman Cliffs
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 980, '19097 Hoffman Cliffs
 Murphyhaven, MP 79228');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '26877 Danielle Brooks
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 383, '26877 Danielle Brooks
 Lake Carol, MH 69929');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '666 Brian Way Apt. 345
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 667, '666 Brian Way Apt. 345
 New Victor, NE 52371');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '06210 Gonzalez Brooks Apt. 281
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 644, '06210 Gonzalez Brooks Apt. 281
 East Kelsey, NH 48590');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '088 Barber Camp Apt. 478
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 302, '088 Barber Camp Apt. 478
 Seanside, AR 60548');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '085 Cortez Harbors Apt. 071
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 520, '085 Cortez Harbors Apt. 071
 Jenningsberg, MP 55441');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3464 White Prairie
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 287, '3464 White Prairie
 East Barbara, IN 70794');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '931 Sutton Rue
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 708, '931 Sutton Rue
 Michaelport, PW 44052');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '38823 Brandy Spring
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 422, '38823 Brandy Spring
 Jenniferburgh, DC 11214');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '850 Micheal Brook Apt. 027
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 585, '850 Micheal Brook Apt. 027
 Kennethshire, FL 38903');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 3350, Box 8857
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 888, 'PSC 3350, Box 8857
 APO AP 88589');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '03029 Flores Divide
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 872, '03029 Flores Divide
 West Heather, VA 96220');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4062 Corey Walk
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 98, '4062 Corey Walk
 Mcphersonstad, WY 10491');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '2302 Jerry Roads Suite 989
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 812, '2302 Jerry Roads Suite 989
 Port Heidihaven, NE 88780');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '04167 Aaron Flats
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 317, '04167 Aaron Flats
 Blankenshipview, UT 51300');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '203 Morris Track
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 666, '203 Morris Track
 Leetown, OK 85708');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '93082 Rita Underpass
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 730, '93082 Rita Underpass
 West Kevinhaven, OK 09367');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '59426 Ryan Summit
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 140, '59426 Ryan Summit
 North Charles, MP 49534');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '23932 Gregory Plains Suite 275
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 407, '23932 Gregory Plains Suite 275
 Melissashire, MP 91635');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '506 Elizabeth Crossroad
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 158, '506 Elizabeth Crossroad
 Jeremyland, NV 09000');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '569 Bradford Turnpike Apt. 810
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 736, '569 Bradford Turnpike Apt. 810
 North Sara, HI 76810');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '08964 Shawn Turnpike
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 283, '08964 Shawn Turnpike
 Jamiehaven, IA 74115');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4128 Jennifer Corners
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 746, '4128 Jennifer Corners
 South Jack, KS 97307');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '96920 William Track
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 303, '96920 William Track
 West Trevor, NH 30016');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '1801 Huffman Junction Suite 005
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 137, '1801 Huffman Junction Suite 005
 North Barbarafort, NE 87846');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '931 Tucker Way
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 386, '931 Tucker Way
 New Melissa, WA 24286');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '160 Rogers Burg
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 340, '160 Rogers Burg
 Perryville, FL 12791');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '206 Paul Valleys Apt. 438
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 421, '206 Paul Valleys Apt. 438
 Kristenberg, OK 87574');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '98990 Paige Village Apt. 066
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 201, '98990 Paige Village Apt. 066
 Port Jennifer, AR 92899');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7314 Jenkins Ports
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 37, '7314 Jenkins Ports
 East Sophia, OH 36594');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '59664 Smith Heights
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 837, '59664 Smith Heights
 Lake Debbie, ND 49431');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '10305 Sierra Shoal
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 420, '10305 Sierra Shoal
 Port Alexis, NY 79846');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '569 Jeremy Tunnel
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 417, '569 Jeremy Tunnel
 Vasquezmouth, NY 76452');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '8474 Mills Neck
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 788, '8474 Mills Neck
 Lake Cassandra, PA 05990');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9992 Bradley Land Apt. 847
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 188, '9992 Bradley Land Apt. 847
 Sandyview, WI 18056');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '0831 Preston Meadows
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 45, '0831 Preston Meadows
 West Jenniferborough, IL 44092');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9472 Mills Rapid
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 490, '9472 Mills Rapid
 Nicolefort, GA 95035');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3108 Elizabeth Viaduct Suite 743
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 495, '3108 Elizabeth Viaduct Suite 743
 New Deborah, MT 01701');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '95782 Romero Bypass Apt. 128
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 750, '95782 Romero Bypass Apt. 128
 Beckerville, MA 31866');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 8112, Box 8299
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 646, 'PSC 8112, Box 8299
 APO AA 85836');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '012 Woodard Ways
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 950, '012 Woodard Ways
 Wilkersonville, IA 47404');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '44797 Jones Parkways
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 389, '44797 Jones Parkways
 Port Angelaberg, NH 75198');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '81782 Lisa Cape
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 259, '81782 Lisa Cape
 North Caseymouth, WY 94203');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 7233, Box 0077
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 165, 'PSC 7233, Box 0077
 APO AP 11455');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '175 Chen Courts
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 947, '175 Chen Courts
 East Jamie, NM 11850');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '5690 Matthew Crossroad Apt. 782
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 110, '5690 Matthew Crossroad Apt. 782
 Travisland, FM 81988');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '0049 Jessica Park Suite 211
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 305, '0049 Jessica Park Suite 211
 Breannafort, MN 94896');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '998 Sara Burgs
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 479, '998 Sara Burgs
 South Olivia, PW 15368');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '63402 Barr Plains
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 877, '63402 Barr Plains
 Seanmouth, UT 36847');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7703 Bentley Springs Apt. 450
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 471, '7703 Bentley Springs Apt. 450
 North Matthewbury, AR 49915');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7999 Joseph Rest Suite 739
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 794, '7999 Joseph Rest Suite 739
 Smithfurt, ID 40945');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '34068 Robert Ferry
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 470, '34068 Robert Ferry
 Scottchester, OH 97861');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '6524 Anthony Spur Apt. 245
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 851, '6524 Anthony Spur Apt. 245
 Kristenstad, AS 12737');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '20698 Tate Ferry
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 71, '20698 Tate Ferry
 North Susanchester, PR 38763');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '952 Nicholas Shoals Suite 518
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 712, '952 Nicholas Shoals Suite 518
 Jameshaven, UT 32189');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '482 Diana Ferry
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 179, '482 Diana Ferry
 Smithbury, FL 08169');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 9287, Box 7907
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 78, 'PSC 9287, Box 7907
 APO AP 13429');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '843 Christine Walks Apt. 661
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 699, '843 Christine Walks Apt. 661
 West Destinyshire, KS 29573');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '0092 Kevin Drive Apt. 393
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 498, '0092 Kevin Drive Apt. 393
 Mercedesside, NJ 01444');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '387 Robert Squares
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 544, '387 Robert Squares
 Frederickchester, IA 68377');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 9346, Box 9703
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 490, 'PSC 9346, Box 9703
 APO AE 20916');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '078 Jason Fork
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 511, '078 Jason Fork
 Anthonybury, AR 34688');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9707 Nelson Shoals Apt. 696
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 722, '9707 Nelson Shoals Apt. 696
 West Renee, OH 20061');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '188 Mullen Branch Suite 507
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 381, '188 Mullen Branch Suite 507
 West Kevinton, HI 16677');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '87386 Jenkins Pine
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 937, '87386 Jenkins Pine
 Lake Reginaview, ND 90891');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '84763 Price View
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 602, '84763 Price View
 Kaylamouth, IL 77565');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '2677 Tyler Camp Suite 890
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 970, '2677 Tyler Camp Suite 890
 Margaretside, PW 40961');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4025 Nelson Grove Apt. 797
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 669, '4025 Nelson Grove Apt. 797
 Port John, VI 93792');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '8263 Matthew Turnpike Apt. 777
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 337, '8263 Matthew Turnpike Apt. 777
 East Alanview, CT 30937');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '010 Mary Ford
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 167, '010 Mary Ford
 New Stephanie, RI 91389');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '59736 Jeremy Roads
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 635, '59736 Jeremy Roads
 Marshallville, AK 93261');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '54778 Gray Port
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 967, '54778 Gray Port
 Saunderschester, AZ 43256');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '681 Cody Points
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 59, '681 Cody Points
 Port Paula, PA 61246');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USCGC Martinez
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 287, 'USCGC Martinez
 FPO AE 47645');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '791 Christine Lights
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 434, '791 Christine Lights
 North Benjamin, TN 58570');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 9405, Box 3235
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 478, 'PSC 9405, Box 3235
 APO AA 26554');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '41838 Kathryn Station
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 67, '41838 Kathryn Station
 Johnview, ME 69754');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '09448 Chelsey Causeway Suite 035
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 158, '09448 Chelsey Causeway Suite 035
 West Deborahmouth, AR 51257');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '571 Aaron Village
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 339, '571 Aaron Village
 Port Kari, ME 48268');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '6857 Rangel Ports
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 791, '6857 Rangel Ports
 East Brandon, CT 33682');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '972 Flores Crest
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 277, '972 Flores Crest
 East Heather, MS 18650');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USNS Mclean
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 933, 'USNS Mclean
 FPO AA 41387');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '8923 Michael Lights
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 786, '8923 Michael Lights
 Harrisborough, SC 59764');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '347 Clayton Rapids Apt. 746
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 683, '347 Clayton Rapids Apt. 746
 Greerfort, UT 90930');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '16134 Anthony Estate
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 699, '16134 Anthony Estate
 North Mark, NC 56300');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '23534 Amy Orchard
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 21, '23534 Amy Orchard
 South Lindafort, MN 70422');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '493 Jackson Brooks
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 488, '493 Jackson Brooks
 Wallermouth, MP 80839');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '6909 Tucker Plains
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 888, '6909 Tucker Plains
 West Johnbury, NV 40632');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3878 Teresa Road
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 934, '3878 Teresa Road
 Melissaview, CT 27402');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 1018, Box 6066
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 627, 'PSC 1018, Box 6066
 APO AA 35382');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '0476 Daniels Park Apt. 519
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 206, '0476 Daniels Park Apt. 519
 Dennisport, MD 65381');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '13840 Sanders Estate Suite 083
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 622, '13840 Sanders Estate Suite 083
 Navarrohaven, IN 37782');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USNV Jackson
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 670, 'USNV Jackson
 FPO AP 84819');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7204 Jacqueline Divide
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 988, '7204 Jacqueline Divide
 Lake Gabriella, CO 64855');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '30554 Summers Fort Apt. 130
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 897, '30554 Summers Fort Apt. 130
 Port Anitafort, AK 60496');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '920 Petersen Circle Apt. 257
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 739, '920 Petersen Circle Apt. 257
 Tonyfort, KY 73472');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3253 Jocelyn Points Apt. 981
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 52, '3253 Jocelyn Points Apt. 981
 East Joseph, UT 12054');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '13457 Miller Burg Apt. 072
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 97, '13457 Miller Burg Apt. 072
 Melissaland, GU 04561');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '10377 Matthews Islands
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 192, '10377 Matthews Islands
 Lake Kyle, MN 21553');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3743 Warren Wall
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 206, '3743 Warren Wall
 Barbarahaven, IA 40744');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '561 Mitchell Plaza
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 912, '561 Mitchell Plaza
 Audreyville, KS 65316');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '16907 Jesus Avenue Apt. 464
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 237, '16907 Jesus Avenue Apt. 464
 Nunezmouth, ND 19879');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '0673 Wood Stravenue Apt. 461
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 367, '0673 Wood Stravenue Apt. 461
 Christopherstad, NH 93344');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '87099 Cole Garden
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 752, '87099 Cole Garden
 New Kim, FL 55363');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '38105 Robert Ridges
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 747, '38105 Robert Ridges
 Coxfort, PW 64431');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '957 Daniel Parkway
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 330, '957 Daniel Parkway
 New Bobby, SD 46212');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '283 David Crossroad
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 423, '283 David Crossroad
 New Benjaminshire, MA 93126');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '037 Amy Flats Apt. 737
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 46, '037 Amy Flats Apt. 737
 Thompsonview, OH 72392');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '491 Graham Mission Apt. 438
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 250, '491 Graham Mission Apt. 438
 Priceburgh, MD 66272');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9425 Matthew Mills Apt. 627
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 905, '9425 Matthew Mills Apt. 627
 Meredithborough, MP 91368');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '51661 Krueger Well Apt. 368
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 569, '51661 Krueger Well Apt. 368
 Leeland, CO 30682');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '836 Sherri Crescent Suite 492
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 875, '836 Sherri Crescent Suite 492
 New Larryhaven, NM 56222');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '27394 Peterson Squares Apt. 963
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 439, '27394 Peterson Squares Apt. 963
 Port Christopher, ME 18295');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '879 Maldonado Extensions Apt. 366
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 160, '879 Maldonado Extensions Apt. 366
 Randystad, AS 33667');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '18112 Joshua Plain
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 515, '18112 Joshua Plain
 Murphyville, IN 01457');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '64349 Hunter Turnpike
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 541, '64349 Hunter Turnpike
 Lake Karen, FL 11387');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '5432 Sanchez Point
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 16, '5432 Sanchez Point
 Port Stephaniehaven, WA 83010');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '18413 Perez Cliffs Apt. 504
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 320, '18413 Perez Cliffs Apt. 504
 Sandraland, WI 10802');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 6169, Box 8989
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 678, 'PSC 6169, Box 8989
 APO AP 81484');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '77653 Jeffrey Spur
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 755, '77653 Jeffrey Spur
 Lauraside, NC 46653');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 7852 Box 9162
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 120, 'Unit 7852 Box 9162
 DPO AP 50828');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '606 Ryan Glen
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 906, '606 Ryan Glen
 South Deanburgh, AR 53492');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '912 Travis Overpass
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 578, '912 Travis Overpass
 Flowersstad, NC 73144');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7807 Smith Meadows
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 664, '7807 Smith Meadows
 New Joelburgh, NV 23304');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '396 Joshua Mills
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 103, '396 Joshua Mills
 Rebeccaside, GU 36154');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USNS Rodriguez
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 208, 'USNS Rodriguez
 FPO AA 01472');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '431 Robert Fork Apt. 370
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 678, '431 Robert Fork Apt. 370
 Oliviaside, MD 88723');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '96115 Branch Canyon
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 426, '96115 Branch Canyon
 Dixonport, ND 16315');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 2634 Box 7238
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 389, 'Unit 2634 Box 7238
 DPO AE 39712');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4971 Diaz Meadows
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 993, '4971 Diaz Meadows
 West Thomasville, GA 15894');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '07225 Jay Ferry Suite 211
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 440, '07225 Jay Ferry Suite 211
 New Crystal, NV 90787');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '0799 Miguel Centers
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 496, '0799 Miguel Centers
 Susanmouth, MP 66775');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '49830 Burke Trafficway
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 8, '49830 Burke Trafficway
 Joycestad, GU 24520');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '2701 Dyer Trail Suite 812
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 699, '2701 Dyer Trail Suite 812
 Adriennetown, LA 10125');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '80984 Michael Key
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 51, '80984 Michael Key
 North Katelynmouth, MI 36946');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '159 Dean Mission Apt. 543
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 413, '159 Dean Mission Apt. 543
 New Josephbury, TX 54359');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '61220 Anthony Corners
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 125, '61220 Anthony Corners
 Cookborough, ND 87313');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '25406 Wood Place
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 464, '25406 Wood Place
 East Linda, NC 78734');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 6746, Box 2694
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 558, 'PSC 6746, Box 2694
 APO AP 61369');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '56767 Dickson Walks Suite 153
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 337, '56767 Dickson Walks Suite 153
 Ricehaven, MH 92349');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4269 Castro Manors Apt. 568
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 459, '4269 Castro Manors Apt. 568
 Kylefort, NJ 30687');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '1283 Hall Ports Apt. 489
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 777, '1283 Hall Ports Apt. 489
 Sarahburgh, NY 78483');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 1943, Box 8798
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 991, 'PSC 1943, Box 8798
 APO AP 33037');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '72387 Scott Heights
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 244, '72387 Scott Heights
 Jordanton, TX 20750');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '298 Thompson Parkway
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 136, '298 Thompson Parkway
 Port Bradleymouth, CA 11451');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '98842 Levy Village Suite 668
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 243, '98842 Levy Village Suite 668
 Melvinville, PA 53675');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '36158 Bowen Mall Apt. 239
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 563, '36158 Bowen Mall Apt. 239
 East Albertberg, OR 49054');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '375 Kevin Mission
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 270, '375 Kevin Mission
 Mathisborough, NH 75068');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '08719 Alexis Terrace
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 563, '08719 Alexis Terrace
 South Antonioton, VT 76524');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '6281 Rodriguez Trail Apt. 219
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 91, '6281 Rodriguez Trail Apt. 219
 East Nancyville, NH 39183');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '0903 Jesus Avenue Apt. 344
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 872, '0903 Jesus Avenue Apt. 344
 Fritzburgh, AZ 51287');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '99745 Harris Crescent Suite 080
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 440, '99745 Harris Crescent Suite 080
 Martinezhaven, DC 85962');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 0158 Box 4366
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 601, 'Unit 0158 Box 4366
 DPO AE 19641');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9148 Williams Prairie Suite 939
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 274, '9148 Williams Prairie Suite 939
 Robertburgh, IL 40166');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '5514 Anderson Oval Apt. 960
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 977, '5514 Anderson Oval Apt. 960
 Estradaburgh, MI 61629');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '86928 Rivera Brooks Suite 829
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 603, '86928 Rivera Brooks Suite 829
 Lake Danielleborough, VA 98599');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '35015 Smith Point Suite 244
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 255, '35015 Smith Point Suite 244
 Jamesshire, SC 42318');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '11954 Braun Mountain Suite 924
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 549, '11954 Braun Mountain Suite 924
 North Devin, MS 59412');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 9212, Box 9506
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 508, 'PSC 9212, Box 9506
 APO AP 12898');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '129 Shepherd Spring
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 747, '129 Shepherd Spring
 North Bettybury, FM 99618');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '623 Breanna Brook Apt. 261
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 299, '623 Breanna Brook Apt. 261
 Port Anthony, NJ 98195');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '0322 Warren Shoals
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 320, '0322 Warren Shoals
 Lake Christopherhaven, CT 85329');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '572 Garcia Knoll Suite 792
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 684, '572 Garcia Knoll Suite 792
 Davisville, MH 44427');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7155 Jon Ridge Suite 206
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 859, '7155 Jon Ridge Suite 206
 Harperside, HI 41049');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 2520, Box 8718
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 717, 'PSC 2520, Box 8718
 APO AP 70855');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3367 Richard Mountain Apt. 008
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 333, '3367 Richard Mountain Apt. 008
 New Markview, NM 78191');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '386 Ashley Ridge
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 983, '386 Ashley Ridge
 West Terryborough, WV 96877');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 4358, Box 8352
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 916, 'PSC 4358, Box 8352
 APO AA 48426');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '113 Weiss Haven Suite 253
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 640, '113 Weiss Haven Suite 253
 East Shelby, GA 93238');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '8236 Cruz Park
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 102, '8236 Cruz Park
 Youngtown, MA 53994');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '5568 Arthur Cliff Apt. 031
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 844, '5568 Arthur Cliff Apt. 031
 East Johnville, ND 33199');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7737 Hernandez Cape Suite 541
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 165, '7737 Hernandez Cape Suite 541
 Thomaschester, UT 22664');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4398 James Fields Suite 011
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 661, '4398 James Fields Suite 011
 Jessicaview, OR 82092');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '060 Cochran Vista
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 814, '060 Cochran Vista
 Smithhaven, WV 12840');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '449 Estrada Rest Suite 960
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 604, '449 Estrada Rest Suite 960
 South Daniel, NJ 08562');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9269 Jennifer Meadow Apt. 615
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 559, '9269 Jennifer Meadow Apt. 615
 Gibbsport, MD 92163');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '981 Justin Curve
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 136, '981 Justin Curve
 Taylorfort, SC 40478');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '234 Rosales Mountains
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 146, '234 Rosales Mountains
 South Michaelborough, CA 36568');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '146 Tiffany Mission Suite 808
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 571, '146 Tiffany Mission Suite 808
 Lake Reginaberg, MI 96064');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '8763 Fields Keys
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 163, '8763 Fields Keys
 Port William, VA 38187');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '8379 Ayers Falls
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 402, '8379 Ayers Falls
 West Laurastad, MH 64082');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '244 Allen Motorway Apt. 935
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 926, '244 Allen Motorway Apt. 935
 South Christopherport, KY 64623');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '37412 Fitzgerald Ridges
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 116, '37412 Fitzgerald Ridges
 Annshire, KS 87682');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '0333 Angela Freeway
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 648, '0333 Angela Freeway
 Briannaland, WY 44959');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 5646 Box 0419
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 52, 'Unit 5646 Box 0419
 DPO AP 02156');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9681 Anderson Extension
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 596, '9681 Anderson Extension
 Bellmouth, CA 88336');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '692 Wright Turnpike
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 406, '692 Wright Turnpike
 East Jenniferbury, CA 07944');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '0325 Villanueva Mission
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 405, '0325 Villanueva Mission
 Madisonport, MH 64788');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '05931 Thompson Branch Suite 816
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 22, '05931 Thompson Branch Suite 816
 South Candaceberg, MA 92041');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '365 Andrew Divide
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 460, '365 Andrew Divide
 Port Brianahaven, AS 02514');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USNV Lewis
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 116, 'USNV Lewis
 FPO AP 46562');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '848 Hill Shore
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 565, '848 Hill Shore
 Kellychester, WA 46674');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '6730 Monroe Grove Apt. 706
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 183, '6730 Monroe Grove Apt. 706
 Harrisburgh, CA 83592');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '870 Lewis Keys Apt. 953
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 75, '870 Lewis Keys Apt. 953
 Reynoldston, PA 94610');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '87755 Douglas Fords
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 785, '87755 Douglas Fords
 Collinstown, NC 28205');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '68806 Lopez Walk
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 843, '68806 Lopez Walk
 West Sharon, IN 34780');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '47138 Jones Center Apt. 823
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 127, '47138 Jones Center Apt. 823
 Josephburgh, VT 40255');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USCGC Taylor
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 250, 'USCGC Taylor
 FPO AE 72486');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '409 Jeffrey Passage Apt. 563
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 430, '409 Jeffrey Passage Apt. 563
 Ericville, CO 70990');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9628 White Radial
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 487, '9628 White Radial
 New Richardbury, MA 25264');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '89913 Sherry Glens
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 596, '89913 Sherry Glens
 North Angel, KS 66018');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4100 Annette Locks Apt. 352
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 317, '4100 Annette Locks Apt. 352
 Quinnberg, SC 53400');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '11026 Bradley Gateway
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 149, '11026 Bradley Gateway
 Amandabury, TX 88941');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USS Robbins
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 471, 'USS Robbins
 FPO AP 15651');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '080 Martin Common
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 289, '080 Martin Common
 Lake Laurenburgh, IA 51861');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '057 Fisher Extensions
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 239, '057 Fisher Extensions
 New Michelleburgh, MP 58418');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '02771 Long Point
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 327, '02771 Long Point
 Lake Levishire, NE 82865');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USCGC Hughes
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 764, 'USCGC Hughes
 FPO AE 38631');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '08895 Fischer Crescent
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 985, '08895 Fischer Crescent
 Jonesfort, VT 86633');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '636 Kenneth Cove Apt. 788
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 657, '636 Kenneth Cove Apt. 788
 Pruittshire, KS 06489');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 7025 Box 5880
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 344, 'Unit 7025 Box 5880
 DPO AE 43882');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '400 Laura Oval Apt. 184
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 82, '400 Laura Oval Apt. 184
 Chenbury, WI 83712');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '89559 Martinez Island
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 834, '89559 Martinez Island
 Josephview, DC 14096');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '2254 Collins Brooks
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 740, '2254 Collins Brooks
 North Madison, AL 19837');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '346 Hurley Freeway Apt. 624
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 702, '346 Hurley Freeway Apt. 624
 Port Tracyberg, TN 62820');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '00668 Carey Keys
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 876, '00668 Carey Keys
 South Amanda, UT 84709');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '716 Newman Wells
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 237, '716 Newman Wells
 Carpenterborough, TX 92613');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '529 Diane Causeway Apt. 102
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 233, '529 Diane Causeway Apt. 102
 East Ronaldhaven, OK 67799');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '08981 Jonathan Springs Apt. 057
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 461, '08981 Jonathan Springs Apt. 057
 East Andrea, WY 82728');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USCGC Watson
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 926, 'USCGC Watson
 FPO AA 75548');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '070 Dorothy Common Apt. 984
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 483, '070 Dorothy Common Apt. 984
 Port Shari, WA 68126');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '144 Davis Way Suite 191
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 924, '144 Davis Way Suite 191
 Wintersfort, SD 29628');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3272 Lee Stream Suite 094
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 52, '3272 Lee Stream Suite 094
 Juliechester, KS 93051');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '6211 Howell Greens Suite 894
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 13, '6211 Howell Greens Suite 894
 Lake Toddtown, GU 45486');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '0350 Mcdonald Row
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 378, '0350 Mcdonald Row
 West Dawn, WI 88047');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '0832 Reese Hills
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 446, '0832 Reese Hills
 Sheilabury, OR 34162');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '36141 Joshua Station
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 727, '36141 Joshua Station
 Mendozatown, WV 17596');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '6882 Stone Plains
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 244, '6882 Stone Plains
 Markberg, TX 45546');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '96038 Scott Mountain Suite 385
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 477, '96038 Scott Mountain Suite 385
 Lambton, AZ 80074');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '430 Fernandez Forks
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 756, '430 Fernandez Forks
 West Heidi, OR 57540');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '512 Kelly Springs Suite 521
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 85, '512 Kelly Springs Suite 521
 Sabrinaview, WV 00807');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4245 Thomas Turnpike Apt. 561
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 65, '4245 Thomas Turnpike Apt. 561
 Victoriafurt, AR 63168');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '750 Davis Ville Apt. 361
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 979, '750 Davis Ville Apt. 361
 North Curtisland, AZ 67123');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '206 Russell Mountain Apt. 531
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 966, '206 Russell Mountain Apt. 531
 Hawkinsville, MD 79987');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '874 Tommy Extensions Suite 380
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 349, '874 Tommy Extensions Suite 380
 Nelsonfurt, MS 61739');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '79493 Rodriguez Course Apt. 670
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 754, '79493 Rodriguez Course Apt. 670
 Salazarville, OR 11098');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '8103 Richards Greens
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 100, '8103 Richards Greens
 East Stephenland, MH 81250');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '695 Justin Bypass
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 341, '695 Justin Bypass
 South Annbury, AS 59436');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USCGC Davenport
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 488, 'USCGC Davenport
 FPO AE 64299');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '28181 Potter Square Apt. 629
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 931, '28181 Potter Square Apt. 629
 Lake Paul, IA 46387');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '23941 Wheeler Causeway
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 791, '23941 Wheeler Causeway
 Humphreyview, VT 78405');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '61981 William Shores Suite 131
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 204, '61981 William Shores Suite 131
 Evansfurt, ME 94949');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 2263, Box 8974
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 272, 'PSC 2263, Box 8974
 APO AP 53391');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '1002 Mason Motorway
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 510, '1002 Mason Motorway
 South Veronicaport, AK 98463');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USS Le
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 652, 'USS Le
 FPO AP 87137');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '0636 Francisco Heights Suite 723
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 882, '0636 Francisco Heights Suite 723
 Hufffort, GA 05523');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '381 Marsh Terrace Apt. 092
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 123, '381 Marsh Terrace Apt. 092
 East Yvonne, WY 65583');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '5887 Steven Crossing
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 880, '5887 Steven Crossing
 New Crystalhaven, RI 94686');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '459 Brianna Point Apt. 566
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 777, '459 Brianna Point Apt. 566
 Natashastad, SD 63474');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '2453 Elizabeth Garden
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 737, '2453 Elizabeth Garden
 Danielville, NJ 88913');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '409 Earl Heights Apt. 865
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 946, '409 Earl Heights Apt. 865
 East Nancyland, OR 10685');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7997 Michael Isle
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 992, '7997 Michael Isle
 Port Mariaberg, KS 28001');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3639 Alejandro Landing
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 614, '3639 Alejandro Landing
 West Derrick, MN 43287');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '255 Romero Tunnel
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 676, '255 Romero Tunnel
 Jefferybury, IN 76424');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '8974 Smith Ports Suite 926
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 690, '8974 Smith Ports Suite 926
 Castilloport, MP 30211');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '780 Horne Mills
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 697, '780 Horne Mills
 Masseyburgh, PR 01901');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '13651 Marissa Land Suite 457
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 688, '13651 Marissa Land Suite 457
 Wilcoxton, ND 32071');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '122 Antonio Vista
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 856, '122 Antonio Vista
 Jenkinsfurt, WA 93888');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4463 Alejandra Pine
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 696, '4463 Alejandra Pine
 Patriciabury, OH 56561');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 5578, Box 3445
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 341, 'PSC 5578, Box 3445
 APO AA 76326');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '209 Christopher Loop Suite 265
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 616, '209 Christopher Loop Suite 265
 East Jenniferfort, IA 45080');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '56928 Stephen Walk
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 369, '56928 Stephen Walk
 Davidshire, IN 72262');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3571 Kevin Club
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 641, '3571 Kevin Club
 East Justin, FL 93613');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '56973 Waters Track
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 26, '56973 Waters Track
 Wardtown, IA 66534');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '0659 Abigail Coves
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 179, '0659 Abigail Coves
 East Mary, OK 55602');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '752 Green Shoals
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 62, '752 Green Shoals
 West Jennifer, TN 49892');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '473 Long Dam Apt. 178
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 743, '473 Long Dam Apt. 178
 East Eduardoside, OK 42494');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '024 Christopher Loaf Apt. 164
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 136, '024 Christopher Loaf Apt. 164
 Lake Sarahstad, WA 37563');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7937 Charles Mission
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 698, '7937 Charles Mission
 North Sarah, AR 97692');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '1748 Lewis Extensions Apt. 649
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 612, '1748 Lewis Extensions Apt. 649
 Michaelhaven, LA 80735');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '2293 Katherine Radial
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 365, '2293 Katherine Radial
 Ramosmouth, WA 85537');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '77029 Cruz Rest
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 968, '77029 Cruz Rest
 West Donnahaven, NH 27193');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '2034 Thompson Streets Suite 679
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 682, '2034 Thompson Streets Suite 679
 Marychester, NH 94033');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '42670 Jacob Rue Apt. 603
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 47, '42670 Jacob Rue Apt. 603
 East Deborahstad, AS 92377');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '19838 Melissa Valleys
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 45, '19838 Melissa Valleys
 Lake Shelby, MP 12914');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '837 Andrew Fall
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 533, '837 Andrew Fall
 West Samuel, NY 84053');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '6989 Dean Crescent
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 604, '6989 Dean Crescent
 South Davidborough, PR 41883');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '185 Matthew Springs
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 951, '185 Matthew Springs
 Davidbury, GA 90396');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '2032 Becky Oval Suite 954
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 728, '2032 Becky Oval Suite 954
 Lake Robertville, OH 89851');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '00391 Julie Bridge Apt. 285
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 140, '00391 Julie Bridge Apt. 285
 Jaredburgh, SD 53780');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '5864 Kevin Stravenue
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 608, '5864 Kevin Stravenue
 Lake Brittanyfurt, TX 10385');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '2323 Garcia Parkways
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 648, '2323 Garcia Parkways
 Caldwellview, PW 26549');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4673 Chelsey Pines
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 833, '4673 Chelsey Pines
 Kristenborough, MT 97826');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '765 Amy Rapids Suite 602
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 716, '765 Amy Rapids Suite 602
 Palmermouth, IL 31889');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '71653 Short Shores
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 135, '71653 Short Shores
 Lake Jenniferport, GU 97852');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9858 Tamara Burg Apt. 115
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 950, '9858 Tamara Burg Apt. 115
 Port Ronald, SC 06410');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3975 James Wall
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 206, '3975 James Wall
 South Robert, DC 82948');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '585 Mary Gateway
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 375, '585 Mary Gateway
 Karenshire, MA 41029');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '8565 Carroll Square Apt. 382
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 48, '8565 Carroll Square Apt. 382
 Andersonmouth, NJ 76711');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '54896 Watkins Ford
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 134, '54896 Watkins Ford
 North Amanda, PW 35266');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '48843 Smith Turnpike Apt. 822
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 922, '48843 Smith Turnpike Apt. 822
 East Gerald, GU 49489');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '52845 Torres Garden Apt. 333
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 727, '52845 Torres Garden Apt. 333
 West Bryan, UT 22298');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3795 Michael Shore
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 151, '3795 Michael Shore
 West Christy, OK 20371');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '31741 Danny Divide
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 261, '31741 Danny Divide
 Lewiston, NH 80895');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '499 Andrea Skyway
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 706, '499 Andrea Skyway
 Port Robert, FM 81408');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '193 Johnson Estates
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 747, '193 Johnson Estates
 Lake Rodney, SD 40895');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '8464 Miller Islands
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 993, '8464 Miller Islands
 Nathanmouth, AK 26309');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '02881 Alexander Terrace
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 203, '02881 Alexander Terrace
 Ashleybury, RI 80485');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '180 Brown Courts
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 838, '180 Brown Courts
 Guyport, AZ 78068');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '21795 Sarah Lodge
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 376, '21795 Sarah Lodge
 New Jonathan, VT 30178');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '83611 Ann Crescent Apt. 781
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 184, '83611 Ann Crescent Apt. 781
 South Amanda, WI 27047');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9682 Simpson Village
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 557, '9682 Simpson Village
 West Christopherside, PW 97204');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '60839 Richmond Fords
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 435, '60839 Richmond Fords
 North Jasmineview, MH 54233');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '874 Kristen Route
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 119, '874 Kristen Route
 Randyport, MH 19813');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '56057 Christine Route
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 469, '56057 Christine Route
 Petersside, ND 01480');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '93063 Katie Manors Apt. 033
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 972, '93063 Katie Manors Apt. 033
 South Ginaport, CA 11540');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '8414 Joseph Ford Apt. 778
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 437, '8414 Joseph Ford Apt. 778
 North Louisview, GA 96576');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '334 Stevenson Turnpike
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 923, '334 Stevenson Turnpike
 Kristineview, DE 57756');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '96404 Brown Crossing
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 853, '96404 Brown Crossing
 Davisview, FL 95957');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '31169 Warren Crest
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 671, '31169 Warren Crest
 South Robert, MI 97235');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9122 Lisa Valley
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 902, '9122 Lisa Valley
 Jasonshire, SC 81522');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '1803 Sanchez Tunnel
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 863, '1803 Sanchez Tunnel
 Lewistown, FM 44206');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '842 Watson Divide Suite 286
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 448, '842 Watson Divide Suite 286
 Mitchellville, NH 86030');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7644 Lynn Highway
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 949, '7644 Lynn Highway
 Olivertown, PW 28507');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '79652 Maureen Hills
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 527, '79652 Maureen Hills
 Wallhaven, NE 78700');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '37788 Young Cape
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 274, '37788 Young Cape
 Joneshaven, MH 81937');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USNS Rich
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 733, 'USNS Rich
 FPO AP 34617');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9526 Cheryl Plains
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 817, '9526 Cheryl Plains
 Karenport, NM 33377');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4405 Paula Crossroad
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 807, '4405 Paula Crossroad
 Lewisville, PW 39951');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '718 Jones Curve Apt. 299
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 617, '718 Jones Curve Apt. 299
 Joeton, NM 98552');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '41861 Kelly Key
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 446, '41861 Kelly Key
 Williamshire, NC 09487');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '66663 Scott Prairie
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 840, '66663 Scott Prairie
 Deniseland, MD 40226');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '029 Le Gateway Suite 615
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 181, '029 Le Gateway Suite 615
 East Christineville, PW 71989');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '0163 Wilson Forge Suite 163
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 463, '0163 Wilson Forge Suite 163
 Farmerland, MT 24047');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '484 Brenda Ville
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 742, '484 Brenda Ville
 New Robert, FL 70312');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '644 Nicholas Squares
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 670, '644 Nicholas Squares
 East Traceybury, MH 55995');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '8933 Turner Skyway
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 542, '8933 Turner Skyway
 Edwardside, MP 62225');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3117 Eileen Ford
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 924, '3117 Eileen Ford
 East Tiffany, OR 40627');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9570 Ernest Prairie
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 555, '9570 Ernest Prairie
 Richardland, UT 63694');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '8212 Becker Creek Suite 711
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 607, '8212 Becker Creek Suite 711
 Joannebury, IL 52971');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9720 Matthew Expressway Suite 954
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 848, '9720 Matthew Expressway Suite 954
 East Ashleeburgh, SD 97021');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4786 Hopkins Trail
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 825, '4786 Hopkins Trail
 Gravesshire, AK 15981');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '914 Turner Isle Apt. 807
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 306, '914 Turner Isle Apt. 807
 Dustinbury, AR 47352');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4506 Morris Views
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 741, '4506 Morris Views
 Watsonburgh, MS 86415');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '5307 Jones Course Suite 114
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 80, '5307 Jones Course Suite 114
 North Lauren, TN 65092');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '8518 Flores Glen
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 192, '8518 Flores Glen
 South Alyssaside, TN 42394');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '608 Wilkins Parkway Apt. 625
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 549, '608 Wilkins Parkway Apt. 625
 Petersonshire, WI 43085');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 0452 Box 5349
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 981, 'Unit 0452 Box 5349
 DPO AP 49157');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9366 Shepherd Turnpike
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 437, '9366 Shepherd Turnpike
 North Laurietown, NH 11050');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9448 Villanueva Mount Apt. 162
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 863, '9448 Villanueva Mount Apt. 162
 Victoriaport, OR 97847');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '64655 Williams Place
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 613, '64655 Williams Place
 North Nancy, LA 28867');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '6769 Miranda Prairie Apt. 855
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 774, '6769 Miranda Prairie Apt. 855
 Port James, OR 05825');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '135 William Corner Suite 823
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 523, '135 William Corner Suite 823
 Andrewsshire, OR 36789');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '118 Hardin Brook
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 922, '118 Hardin Brook
 Martinezton, VA 77121');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '068 Humphrey Ramp Suite 352
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 52, '068 Humphrey Ramp Suite 352
 Lake Elizabeth, NJ 18485');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '668 Goodman Cove Apt. 606
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 520, '668 Goodman Cove Apt. 606
 South Hannah, MS 10407');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '6750 Thomas Islands
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 501, '6750 Thomas Islands
 Annetteview, MD 35315');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '15883 Kylie Pike
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 370, '15883 Kylie Pike
 Matthewton, WV 63509');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '41540 Stephanie Garden
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 5, '41540 Stephanie Garden
 Benjaminfurt, GU 59250');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '5203 Rice Rapids Apt. 877
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 471, '5203 Rice Rapids Apt. 877
 Palmerchester, AK 14363');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '171 Peter Loop
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 469, '171 Peter Loop
 North Lisaland, MP 77273');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '15552 Andrew Junctions
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 626, '15552 Andrew Junctions
 Chrisberg, LA 74573');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '31550 Sherry Dale
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 372, '31550 Sherry Dale
 East Matthew, NH 97139');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '1456 Marshall Place
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 917, '1456 Marshall Place
 Elizabethmouth, AR 93236');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '2685 Chelsea Lights Suite 153
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 341, '2685 Chelsea Lights Suite 153
 North Chadmouth, AS 38831');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '121 Michael Rest Apt. 215
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 41, '121 Michael Rest Apt. 215
 Woodsstad, ID 26683');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '20480 Janet Shores
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 739, '20480 Janet Shores
 Thompsonmouth, MH 15222');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USCGC Hayden
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 559, 'USCGC Hayden
 FPO AA 30453');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '653 Alexander Shores
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 786, '653 Alexander Shores
 Nolanburgh, AK 12206');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '818 Brown Overpass
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 773, '818 Brown Overpass
 Meyerchester, VI 99248');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3263 Deborah Extensions
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 236, '3263 Deborah Extensions
 West Thomasborough, OK 26720');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '454 Michael Trafficway Apt. 594
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 673, '454 Michael Trafficway Apt. 594
 Joefort, CT 26327');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '5132 Michael Mission Apt. 168
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 337, '5132 Michael Mission Apt. 168
 Colleenbury, VI 01420');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '83553 Allen Light Suite 602
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 445, '83553 Allen Light Suite 602
 New Ralphland, RI 88071');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '69045 Thompson Creek
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 780, '69045 Thompson Creek
 West Aaron, DC 89658');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '25241 Gibson Mill Suite 556
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 32, '25241 Gibson Mill Suite 556
 Tylerhaven, CT 04842');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 6676 Box 7882
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 526, 'Unit 6676 Box 7882
 DPO AP 33582');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '622 Ramos Estate Apt. 628
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 684, '622 Ramos Estate Apt. 628
 North James, AZ 03819');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '71956 Daniels Garden Suite 178
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 307, '71956 Daniels Garden Suite 178
 Hensontown, MT 30466');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3484 Lisa Landing Apt. 236
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 955, '3484 Lisa Landing Apt. 236
 Michaelshire, OR 68396');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3116 Mosley Knoll Apt. 924
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 570, '3116 Mosley Knoll Apt. 924
 Mezaside, AZ 37582');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '43264 Myers Grove Suite 725
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 916, '43264 Myers Grove Suite 725
 Reedside, LA 12889');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '03961 Austin Freeway
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 838, '03961 Austin Freeway
 Ashleytown, GU 26072');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '27996 Wells Mall
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 820, '27996 Wells Mall
 Johnsonside, LA 98288');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '6315 Williams Drive Suite 193
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 209, '6315 Williams Drive Suite 193
 Ruizhaven, IA 91515');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USCGC Lara
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 398, 'USCGC Lara
 FPO AA 22113');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 6496 Box 4442
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 804, 'Unit 6496 Box 4442
 DPO AE 27980');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '03322 Joshua Pine
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 845, '03322 Joshua Pine
 West Michaelmouth, UT 66280');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '81904 Jimenez Key
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 277, '81904 Jimenez Key
 New Reginald, CO 46660');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '1943 Smith Vista
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 419, '1943 Smith Vista
 Austinstad, RI 27623');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '275 Jeremy Row Apt. 408
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 989, '275 Jeremy Row Apt. 408
 Rachelton, ND 05617');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 3760 Box 3746
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 644, 'Unit 3760 Box 3746
 DPO AP 88620');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '6911 Ashley Ramp
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 777, '6911 Ashley Ramp
 West Eric, FM 87320');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '0646 Walsh Inlet
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 199, '0646 Walsh Inlet
 West Steven, NV 40158');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3897 Chloe Divide Suite 320
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 104, '3897 Chloe Divide Suite 320
 Colemanville, CT 40475');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9316 Timothy Common Apt. 562
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 125, '9316 Timothy Common Apt. 562
 East Russellfurt, MP 50555');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '123 Peck Lane
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 59, '123 Peck Lane
 East Hailey, MT 97055');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '226 Mack River Apt. 411
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 53, '226 Mack River Apt. 411
 Kristinview, OH 51718');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '44797 Moran Locks
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 789, '44797 Moran Locks
 East Monica, AK 09439');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '78847 Neal Mews Suite 565
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 980, '78847 Neal Mews Suite 565
 Sarahbury, RI 18496');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '270 Michelle Fields
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 385, '270 Michelle Fields
 Maysberg, RI 20056');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '337 Fry Lake
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 647, '337 Fry Lake
 Phillipsfort, IA 11049');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '38565 Megan Glens
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 275, '38565 Megan Glens
 South Kristy, VA 64872');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '799 Alyssa Fields
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 377, '799 Alyssa Fields
 Edwinmouth, VA 46292');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '8679 Nelson Squares
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 985, '8679 Nelson Squares
 East Alicia, NJ 96482');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '06138 Wall Way
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 279, '06138 Wall Way
 Claytonton, NM 18693');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '91225 Jamie Heights Suite 830
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 938, '91225 Jamie Heights Suite 830
 East Jeremystad, WV 71486');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '2221 Nguyen Rue
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 385, '2221 Nguyen Rue
 Garytown, MH 67199');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '214 Craig Ports Suite 556
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 379, '214 Craig Ports Suite 556
 South Carrie, ID 45206');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '656 Robert Drive
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 840, '656 Robert Drive
 Lake Albert, OK 94057');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '99387 Aguilar Landing
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 584, '99387 Aguilar Landing
 Markville, NH 83252');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '29793 Daniel Summit Apt. 914
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 62, '29793 Daniel Summit Apt. 914
 Port Candace, OK 14388');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '76308 Joseph Curve
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 810, '76308 Joseph Curve
 Mitchellton, OK 98150');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '814 Williams Village
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 496, '814 Williams Village
 New Jill, NE 12009');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '26535 Hayes Skyway
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 605, '26535 Hayes Skyway
 Brendabury, VT 88093');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '17208 Cameron Viaduct
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 631, '17208 Cameron Viaduct
 North Cindytown, TN 52559');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USNV Thomas
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 744, 'USNV Thomas
 FPO AP 88735');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '8688 Ellis Lake
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 137, '8688 Ellis Lake
 Medinabury, ID 34740');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '32409 West Alley
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 939, '32409 West Alley
 East Stephanie, WI 75338');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '61401 Rhodes Drive Apt. 825
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 392, '61401 Rhodes Drive Apt. 825
 West Randall, NM 58670');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '97238 Philip Mews
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 648, '97238 Philip Mews
 Carlafort, AZ 56601');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '489 Cook View Suite 068
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 672, '489 Cook View Suite 068
 Stevensmouth, LA 43492');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 4118 Box 8966
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 902, 'Unit 4118 Box 8966
 DPO AP 03423');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USNS Cohen
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 860, 'USNS Cohen
 FPO AP 45260');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '20379 Lopez Creek
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 262, '20379 Lopez Creek
 North Robertport, ND 17186');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '590 Kari Landing Apt. 684
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 551, '590 Kari Landing Apt. 684
 Fowlerburgh, KS 07018');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '30962 Elizabeth Isle
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 888, '30962 Elizabeth Isle
 Heathertown, GA 99882');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '1992 Lisa Rue Suite 308
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 244, '1992 Lisa Rue Suite 308
 Mccartybury, MT 64419');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 6447 Box 1487
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 944, 'Unit 6447 Box 1487
 DPO AE 59953');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '288 Lucas Vista Suite 876
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 649, '288 Lucas Vista Suite 876
 West George, OR 09867');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '35278 Anna Vista Suite 348
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 760, '35278 Anna Vista Suite 348
 Ashleymouth, MN 08038');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '84787 Gill Path Apt. 055
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 895, '84787 Gill Path Apt. 055
 Port Reginaldberg, DE 43798');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '71189 Jackson Wall Suite 307
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 85, '71189 Jackson Wall Suite 307
 Port Brittneyberg, AZ 66122');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '056 Kirsten Loop
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 787, '056 Kirsten Loop
 Kirkhaven, NY 68779');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '285 Robert Viaduct Suite 302
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 504, '285 Robert Viaduct Suite 302
 Davidberg, FL 68850');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9285 Ann Burgs Apt. 429
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 535, '9285 Ann Burgs Apt. 429
 New Paula, MO 04620');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '05103 Park Common
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 233, '05103 Park Common
 North Jason, NY 16732');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '5802 Perez Mountain Apt. 938
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 686, '5802 Perez Mountain Apt. 938
 Caitlinmouth, ME 91687');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '2002 Baker Lock
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 862, '2002 Baker Lock
 Shermanstad, PR 10301');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 9427, Box 8654
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 866, 'PSC 9427, Box 8654
 APO AA 24726');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '23321 Smith Landing
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 683, '23321 Smith Landing
 Kellytown, OK 65104');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '252 Gomez Square
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 45, '252 Gomez Square
 Jasonstad, WA 82510');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7240 Sara Hills
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 416, '7240 Sara Hills
 Changberg, OH 83834');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '0055 Jacobs Crossing Apt. 036
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 133, '0055 Jacobs Crossing Apt. 036
 Robertchester, SC 76973');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '723 Keith Vista Apt. 312
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 141, '723 Keith Vista Apt. 312
 Hartview, RI 87515');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4991 Bryce Mount Suite 471
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 565, '4991 Bryce Mount Suite 471
 Port Donna, NC 44032');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '438 Lindsay Walks
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 915, '438 Lindsay Walks
 Melanieberg, NE 25773');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '441 Young Mall Suite 460
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 995, '441 Young Mall Suite 460
 East Scott, IN 69419');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '5951 Karen Gardens
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 355, '5951 Karen Gardens
 New Victorville, DE 06997');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '58688 Hobbs Passage Apt. 702
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 801, '58688 Hobbs Passage Apt. 702
 Williemouth, IL 21281');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '417 Parker View Suite 189
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 104, '417 Parker View Suite 189
 Kathrynland, RI 78616');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '333 Kristin Junctions Suite 084
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 6, '333 Kristin Junctions Suite 084
 South Melissa, AS 40655');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '6078 Whitney Run
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 84, '6078 Whitney Run
 West Lauren, CT 26026');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USNS Edwards
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 606, 'USNS Edwards
 FPO AE 85626');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '421 Todd Dam Apt. 972
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 255, '421 Todd Dam Apt. 972
 Port Thomasfurt, MP 49799');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '6372 Victor Drive
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 736, '6372 Victor Drive
 East Janet, NJ 88265');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '587 Benjamin Squares
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 748, '587 Benjamin Squares
 Mataville, KS 51658');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '8106 Cory Run
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 242, '8106 Cory Run
 North Amy, PR 33794');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '400 Brown Center
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 16, '400 Brown Center
 Barrontown, ME 11482');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3011 Hill Fork Suite 593
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 699, '3011 Hill Fork Suite 593
 South Jacob, AL 79777');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USNS Flores
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 221, 'USNS Flores
 FPO AE 25135');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '383 Samantha Bridge
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 780, '383 Samantha Bridge
 New Samanthaville, MT 33518');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '1969 Adams Summit Apt. 612
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 902, '1969 Adams Summit Apt. 612
 East Kaylaberg, IA 25203');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '86754 Anthony Garden Suite 581
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 989, '86754 Anthony Garden Suite 581
 New Lisastad, ME 37611');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '22225 Joseph Burg
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 149, '22225 Joseph Burg
 Stephaniechester, GU 80954');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 5629, Box 3915
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 579, 'PSC 5629, Box 3915
 APO AE 95186');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7963 Johnson Drive
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 71, '7963 Johnson Drive
 West Kariville, PR 43944');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3398 Sexton Hollow
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 638, '3398 Sexton Hollow
 Barbaraville, MS 76966');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '65441 Nicholas Meadow Suite 246
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 906, '65441 Nicholas Meadow Suite 246
 Chrisbury, DC 23871');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '11117 Franklin View Apt. 368
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 578, '11117 Franklin View Apt. 368
 West Robert, AZ 21348');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7475 Quinn Mountains Apt. 737
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 729, '7475 Quinn Mountains Apt. 737
 New Yvette, MD 38522');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '466 Linda Cape Apt. 177
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 769, '466 Linda Cape Apt. 177
 North Cassandrastad, CT 88389');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '882 Flores Square Apt. 205
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 586, '882 Flores Square Apt. 205
 West Tiffany, FM 69191');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '50633 Adrian Trafficway
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 160, '50633 Adrian Trafficway
 Kristenfort, GA 66463');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '627 Jackson Plain Suite 233
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 956, '627 Jackson Plain Suite 233
 Alexiston, NC 41418');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 8560 Box 6111
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 57, 'Unit 8560 Box 6111
 DPO AE 28213');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '8586 Gibbs Circle Apt. 762
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 946, '8586 Gibbs Circle Apt. 762
 Justinland, FL 45056');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9588 Daniel Drive Suite 472
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 348, '9588 Daniel Drive Suite 472
 Port Michael, FL 65429');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '564 Ashley Estate Apt. 853
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 822, '564 Ashley Estate Apt. 853
 Port Hannahton, NM 64677');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '62580 Katherine Orchard
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 847, '62580 Katherine Orchard
 West Rebecca, IN 51789');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '94057 Johnson Locks
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 536, '94057 Johnson Locks
 Evanborough, LA 68485');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '06160 Todd Cape Apt. 936
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 800, '06160 Todd Cape Apt. 936
 Chrishaven, NE 78066');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '325 Tyler Trafficway
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 698, '325 Tyler Trafficway
 Evansburgh, FM 64160');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '988 Melissa Landing Apt. 873
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 521, '988 Melissa Landing Apt. 873
 North Susan, ME 18304');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USS Sanchez
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 84, 'USS Sanchez
 FPO AE 72624');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '52849 Mason Center
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 497, '52849 Mason Center
 Hernandezview, GU 65818');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '2516 Arroyo Meadow Apt. 803
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 200, '2516 Arroyo Meadow Apt. 803
 West Jessicaberg, AS 95743');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '64230 Nicholas Point
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 645, '64230 Nicholas Point
 Lindseyborough, DC 13452');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '793 Nicholas Drives
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 19, '793 Nicholas Drives
 West Antoniotown, AZ 64075');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 9132, Box 3134
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 66, 'PSC 9132, Box 3134
 APO AA 29478');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '94335 Gerald Ports Apt. 223
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 755, '94335 Gerald Ports Apt. 223
 New Crystal, ND 67936');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '94459 William Plains Apt. 655
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 369, '94459 William Plains Apt. 655
 New Davidtown, MA 59170');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 0731, Box 6245
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 99, 'PSC 0731, Box 6245
 APO AP 51642');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '010 Amanda Bridge
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 193, '010 Amanda Bridge
 Clarkstad, NC 04978');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '73632 Mendez Tunnel
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 538, '73632 Mendez Tunnel
 West Robynmouth, GA 34533');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '132 Joseph Lane Apt. 787
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 447, '132 Joseph Lane Apt. 787
 South Miguel, MI 44480');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '92584 Robert Plaza
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 957, '92584 Robert Plaza
 Lake Ronaldchester, ID 05446');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USNS Guerra
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 958, 'USNS Guerra
 FPO AA 38749');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '024 Robles Lights Apt. 540
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 903, '024 Robles Lights Apt. 540
 Harrisfurt, WI 91945');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USNS Long
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 408, 'USNS Long
 FPO AE 04450');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '43938 William Valley Apt. 336
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 751, '43938 William Valley Apt. 336
 Amandaborough, WV 13312');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '61452 Hannah Pine Suite 145
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 222, '61452 Hannah Pine Suite 145
 Rodriguezview, VT 46127');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4975 Karen Villages Suite 442
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 402, '4975 Karen Villages Suite 442
 South Ryanmouth, PR 11446');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '31441 Martin Squares
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 207, '31441 Martin Squares
 Sandraland, PW 61322');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '51325 Jessica Point Suite 612
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 716, '51325 Jessica Point Suite 612
 Lake Lisamouth, NE 74233');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '645 Dylan Mission Suite 367
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 696, '645 Dylan Mission Suite 367
 Lyonsland, AR 22066');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '424 Kimberly Mills
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 212, '424 Kimberly Mills
 Sheltonfurt, OR 32557');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '60955 Mary Isle Apt. 875
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 924, '60955 Mary Isle Apt. 875
 Walterstown, PR 47171');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '39541 Kristin Junctions Suite 244
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 984, '39541 Kristin Junctions Suite 244
 North Michaeltown, NJ 71264');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '018 Johnson Fields Suite 200
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 278, '018 Johnson Fields Suite 200
 South Andreaborough, WI 64409');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 6511, Box 4970
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 464, 'PSC 6511, Box 4970
 APO AE 60291');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '602 Williams Route Suite 991
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 322, '602 Williams Route Suite 991
 Port Stevenburgh, IA 99663');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USNS Murray
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 358, 'USNS Murray
 FPO AP 17599');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '11325 Keith Lane
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 83, '11325 Keith Lane
 Port Jacobberg, TX 37654');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '53875 David Expressway Suite 149
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 377, '53875 David Expressway Suite 149
 Ramostown, OK 14240');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USNS Barnes
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 467, 'USNS Barnes
 FPO AE 71877');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '36849 Baker Manor
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 306, '36849 Baker Manor
 East Sarah, GU 31635');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USNS Montgomery
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 432, 'USNS Montgomery
 FPO AP 27851');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '98722 Ibarra Stream Suite 008
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 977, '98722 Ibarra Stream Suite 008
 New Edwardhaven, MP 30730');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '996 Jones Falls Suite 344
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 580, '996 Jones Falls Suite 344
 Hernandezville, TN 76008');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '1293 Amanda Ports Apt. 145
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 957, '1293 Amanda Ports Apt. 145
 Burkeberg, IL 83044');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USNS Rice
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 338, 'USNS Rice
 FPO AP 65442');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '928 Stephanie Corners
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 955, '928 Stephanie Corners
 Vangberg, VA 04209');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '07474 Mariah Radial
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 398, '07474 Mariah Radial
 Sarachester, RI 84049');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9957 Dean Mountains Apt. 749
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 291, '9957 Dean Mountains Apt. 749
 Anneview, PA 02901');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '11585 Brooks Divide
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 797, '11585 Brooks Divide
 New Douglasmouth, NE 51155');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '8153 Charles Vista Suite 729
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 131, '8153 Charles Vista Suite 729
 Morenoborough, FL 11456');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '859 Jordan Shoals
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 695, '859 Jordan Shoals
 Lake Matthew, OH 31135');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '500 Angela Forest Suite 157
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 86, '500 Angela Forest Suite 157
 North Ruben, VI 59762');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '415 Julie Track Apt. 403
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 992, '415 Julie Track Apt. 403
 Foxfort, MI 20157');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '0563 Johnson Port Suite 072
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 575, '0563 Johnson Port Suite 072
 East Victoriaside, AZ 21056');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '677 Kristine Pike
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 383, '677 Kristine Pike
 Port Audreyborough, FL 51670');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '618 Martinez Corner
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 681, '618 Martinez Corner
 West Troyville, TX 38842');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '773 Christina Lane
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 941, '773 Christina Lane
 West Tiffany, RI 79516');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '051 Cherry Forks
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 460, '051 Cherry Forks
 South Shannontown, SC 37637');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4950 Scott Plains
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 915, '4950 Scott Plains
 North Kyle, OR 04539');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '529 Taylor Union
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 858, '529 Taylor Union
 East Jasminebury, VI 52839');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '86208 Martin Loaf Suite 933
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 442, '86208 Martin Loaf Suite 933
 New Saraville, NC 44653');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '221 Valerie Islands
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 991, '221 Valerie Islands
 West Sara, MD 87027');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '87660 Black Terrace
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 238, '87660 Black Terrace
 Smithport, HI 99231');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 4643, Box 9924
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 472, 'PSC 4643, Box 9924
 APO AE 83605');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '937 Todd Glen Apt. 564
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 201, '937 Todd Glen Apt. 564
 East Alanshire, IN 27147');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '40481 Walters Knoll Suite 069
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 795, '40481 Walters Knoll Suite 069
 West Jacob, NH 91395');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '1305 Ryan Drive Apt. 992
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 293, '1305 Ryan Drive Apt. 992
 Davidville, MA 13271');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '6472 Avila Freeway
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 251, '6472 Avila Freeway
 Gutierrezville, AL 85063');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '349 Romero Hollow Suite 432
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 798, '349 Romero Hollow Suite 432
 Brownfurt, WV 22003');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '402 Benjamin Pine Apt. 124
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 282, '402 Benjamin Pine Apt. 124
 Willieland, GA 12635');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '555 White Lock Suite 556
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 761, '555 White Lock Suite 556
 Catherineview, SD 69864');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '20560 Alexandria Lane Apt. 716
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 482, '20560 Alexandria Lane Apt. 716
 South Paulburgh, NE 52924');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '605 Taylor Manors
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 41, '605 Taylor Manors
 East Michaelbury, MH 46551');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '61437 Leslie Canyon Apt. 152
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 824, '61437 Leslie Canyon Apt. 152
 Turnermouth, PA 22801');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '262 Alan Roads
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 974, '262 Alan Roads
 Piercefurt, HI 94280');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4561 Hayley Crescent
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 705, '4561 Hayley Crescent
 North Oliviaburgh, MT 99425');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '402 Mike Pass
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 707, '402 Mike Pass
 Port Nicolefurt, ME 78532');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '2182 William Parkways
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 636, '2182 William Parkways
 East Justin, MS 45159');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4804 Richard Hill
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 383, '4804 Richard Hill
 East William, MT 05970');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '100 Flores Springs
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 56, '100 Flores Springs
 Michaelville, MH 95994');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 5781 Box 0970
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 231, 'Unit 5781 Box 0970
 DPO AP 30116');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '502 Stacey Estates Apt. 837
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 167, '502 Stacey Estates Apt. 837
 Susanhaven, CO 26202');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '08808 Gordon Locks Apt. 970
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 961, '08808 Gordon Locks Apt. 970
 East Craigside, MD 94157');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9413 George Vista
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 728, '9413 George Vista
 West Lucasburgh, VI 22953');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7221 Beck Street
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 416, '7221 Beck Street
 Stacyview, RI 03173');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '6766 Lucas Club Suite 074
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 477, '6766 Lucas Club Suite 074
 East Stacyborough, PA 60339');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '6328 Rodgers Plain
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 595, '6328 Rodgers Plain
 Lake Jose, PW 92937');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3497 Nguyen Bridge Suite 458
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 598, '3497 Nguyen Bridge Suite 458
 New Catherine, WA 62652');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '712 Leslie Road Apt. 299
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 877, '712 Leslie Road Apt. 299
 Jenniferburgh, HI 21838');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '14007 Kenneth Stream
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 611, '14007 Kenneth Stream
 New Hollyville, KY 33168');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '87924 Shelton Hills Suite 735
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 612, '87924 Shelton Hills Suite 735
 East Carlos, RI 32991');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '922 Kristina Prairie
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 28, '922 Kristina Prairie
 Jasonville, IA 79709');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '57552 Adam Land Suite 353
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 955, '57552 Adam Land Suite 353
 New Brandyhaven, WY 97462');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '934 Edwards Squares
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 210, '934 Edwards Squares
 Martinstad, CO 59268');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '190 Mason Throughway Suite 869
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 543, '190 Mason Throughway Suite 869
 East William, PW 29661');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '047 Jacqueline Coves Suite 243
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 933, '047 Jacqueline Coves Suite 243
 East Stevenmouth, HI 37584');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '381 Lawrence Port Suite 850
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 231, '381 Lawrence Port Suite 850
 North Christopher, AS 34184');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '644 Cheryl Junctions
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 938, '644 Cheryl Junctions
 Ravenview, WV 80268');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9304 West Roads
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 152, '9304 West Roads
 North Sarah, WI 80559');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '00218 Lisa Stream Suite 591
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 88, '00218 Lisa Stream Suite 591
 Lake Dominic, NC 18489');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '54497 Turner Fork
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 794, '54497 Turner Fork
 South James, LA 42611');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '55356 Spencer Dale Apt. 816
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 540, '55356 Spencer Dale Apt. 816
 Millerhaven, NV 88378');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '2330 Megan Branch
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 26, '2330 Megan Branch
 Samanthaville, FL 67493');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9880 Rebecca Villages
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 255, '9880 Rebecca Villages
 Lake Evelyn, VI 02255');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '47956 Campbell Rest
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 674, '47956 Campbell Rest
 Mooremouth, WY 23619');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '04469 Martin Corners
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 783, '04469 Martin Corners
 South Thomas, PR 63173');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9513 Morgan Shore
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 690, '9513 Morgan Shore
 Ambershire, PW 92743');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '90073 Lamb Motorway Suite 928
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 741, '90073 Lamb Motorway Suite 928
 Lake Mark, PW 61986');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 3754, Box 5671
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 788, 'PSC 3754, Box 5671
 APO AA 68662');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3602 Nicole Burg
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 593, '3602 Nicole Burg
 Samanthaside, LA 47878');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '59531 Mary Knolls
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 331, '59531 Mary Knolls
 Jenniferview, MS 77652');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '81339 Rodriguez Row
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 796, '81339 Rodriguez Row
 Port Luis, AL 58014');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '8568 Cooper Corners
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 459, '8568 Cooper Corners
 South Amymouth, PW 86484');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '0676 Burch Drive
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 829, '0676 Burch Drive
 Nelsonmouth, VT 06842');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '949 Gregory Spurs
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 959, '949 Gregory Spurs
 West Danielside, ME 61146');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9365 Black Viaduct Apt. 267
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 427, '9365 Black Viaduct Apt. 267
 Rebeccamouth, PR 87785');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '158 Preston Well
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 734, '158 Preston Well
 North John, AL 70525');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '5018 Barber Ramp Suite 860
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 516, '5018 Barber Ramp Suite 860
 North Kristiburgh, SD 19760');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 2927 Box 4959
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 135, 'Unit 2927 Box 4959
 DPO AE 17272');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '150 Steven Coves Apt. 976
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 18, '150 Steven Coves Apt. 976
 East Travisborough, MH 59986');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '0079 Deleon Park Suite 206
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 394, '0079 Deleon Park Suite 206
 Philliptown, NJ 13261');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '1548 Kevin Station Apt. 175
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 280, '1548 Kevin Station Apt. 175
 Gardnermouth, MN 59327');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '411 Caitlin Track Suite 098
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 272, '411 Caitlin Track Suite 098
 Elliottport, HI 24916');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '71252 Jordan Rest
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 311, '71252 Jordan Rest
 Strongtown, LA 09378');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '56322 Short Walks Apt. 654
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 549, '56322 Short Walks Apt. 654
 Charlesville, MN 97171');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9982 Christine Road
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 645, '9982 Christine Road
 Marshallbury, GU 62762');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '596 William Fort Suite 966
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 227, '596 William Fort Suite 966
 Port Jason, OK 37411');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '68104 Jones Estates
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 454, '68104 Jones Estates
 East Monica, TN 01656');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '241 Adam Passage
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 286, '241 Adam Passage
 Meaganborough, IA 14388');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '28622 Young Stravenue Apt. 129
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 34, '28622 Young Stravenue Apt. 129
 Marystad, TN 45314');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '638 Sandra Passage
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 293, '638 Sandra Passage
 Newmanville, LA 10979');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 6547 Box 6750
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 242, 'Unit 6547 Box 6750
 DPO AP 24083');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7834 George Islands
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 215, '7834 George Islands
 Patelburgh, UT 74617');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7862 Heather Park Apt. 745
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 762, '7862 Heather Park Apt. 745
 Hannahmouth, ME 12623');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '59083 Smith Mall Suite 900
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 641, '59083 Smith Mall Suite 900
 North Kevinborough, SC 37919');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7752 Wells Forges Suite 548
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 192, '7752 Wells Forges Suite 548
 Johnsonstad, NJ 55148');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '943 Steven Garden
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 634, '943 Steven Garden
 Shortfort, GA 20333');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '01107 Wendy Forges
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 888, '01107 Wendy Forges
 West Rickyville, CT 86468');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '2616 Thomas Branch Suite 088
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 908, '2616 Thomas Branch Suite 088
 Bowenstad, NJ 51096');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '847 Brian Ford
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 677, '847 Brian Ford
 West Ianhaven, TX 00736');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '714 Soto Coves Suite 526
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 81, '714 Soto Coves Suite 526
 New Samantha, DE 61065');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '253 Whitney Estates Suite 218
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 198, '253 Whitney Estates Suite 218
 Williamsfurt, MO 96597');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '08291 Samantha Run
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 437, '08291 Samantha Run
 Walkerbury, KS 89373');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '914 Brandon Road Suite 913
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 115, '914 Brandon Road Suite 913
 Derekstad, UT 73226');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 0165, Box 4714
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 683, 'PSC 0165, Box 4714
 APO AA 92673');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '0401 Samantha Throughway Suite 023
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 208, '0401 Samantha Throughway Suite 023
 East Autumntown, UT 11175');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '04224 Stephanie Keys Suite 068
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 323, '04224 Stephanie Keys Suite 068
 Ortegafurt, IA 57261');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '96949 Taylor Shore Apt. 214
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 807, '96949 Taylor Shore Apt. 214
 North Ericburgh, FM 01398');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '279 Rhonda Lodge Apt. 596
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 475, '279 Rhonda Lodge Apt. 596
 Gillespiechester, PW 56148');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '244 Gregory Rapids Suite 042
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 165, '244 Gregory Rapids Suite 042
 New Melinda, TX 07809');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '8672 Hunter Stravenue Suite 355
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 706, '8672 Hunter Stravenue Suite 355
 Lake Chelsea, MD 74861');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '91646 Peggy Pike
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 996, '91646 Peggy Pike
 Staceymouth, WI 73735');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3667 Kristin Light Suite 677
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 795, '3667 Kristin Light Suite 677
 New Sarahshire, CA 56406');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '10974 Diana Street
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 728, '10974 Diana Street
 New Patriciaport, OR 98717');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '1862 Mejia Courts
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 599, '1862 Mejia Courts
 Rebekahborough, LA 96436');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '89990 Ashley Loop Apt. 045
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 77, '89990 Ashley Loop Apt. 045
 Alishashire, VI 98977');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '41961 Travis Common Suite 110
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 384, '41961 Travis Common Suite 110
 South Maxside, VA 57474');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7070 Lopez Rest Apt. 190
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 559, '7070 Lopez Rest Apt. 190
 North Brandonton, NY 14691');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 9276, Box 3034
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 321, 'PSC 9276, Box 3034
 APO AA 04281');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '2253 Jesse Roads
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 860, '2253 Jesse Roads
 South Christopher, KS 05876');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '26276 Laura Spurs
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 656, '26276 Laura Spurs
 Marquezfurt, NM 93398');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 1551, Box 2642
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 402, 'PSC 1551, Box 2642
 APO AA 59064');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '0123 French Place
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 45, '0123 French Place
 Robinsonville, NY 64030');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '306 Philip Drive Suite 682
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 231, '306 Philip Drive Suite 682
 Maryfurt, NE 19742');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '377 Reynolds Spurs
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 999, '377 Reynolds Spurs
 Port Haley, VA 34187');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '461 Mark Cliffs Suite 735
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 313, '461 Mark Cliffs Suite 735
 Lake John, MP 09281');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4676 Natasha Turnpike Apt. 620
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 332, '4676 Natasha Turnpike Apt. 620
 Nancyton, CA 83108');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '089 Jacob Underpass
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 21, '089 Jacob Underpass
 New Danielleview, ID 23745');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4227 Marcus Mews Apt. 771
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 793, '4227 Marcus Mews Apt. 771
 Hallport, MN 81327');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '197 Anderson Ports Apt. 592
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 883, '197 Anderson Ports Apt. 592
 Michaelmouth, NE 66003');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '15532 Brandon Causeway Apt. 984
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 222, '15532 Brandon Causeway Apt. 984
 Michaelstad, CA 32103');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '54507 Ballard Manor
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 99, '54507 Ballard Manor
 West Linda, VT 37879');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7220 Trevino Lodge Apt. 680
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 656, '7220 Trevino Lodge Apt. 680
 Hunthaven, FM 78338');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '436 Scott Fort Suite 556
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 49, '436 Scott Fort Suite 556
 Chaseview, WY 24737');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 1001, Box 0298
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 150, 'PSC 1001, Box 0298
 APO AP 37753');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '45286 Shawna Lodge
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 293, '45286 Shawna Lodge
 Kempmouth, CA 04822');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3840 Boyd Avenue
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 470, '3840 Boyd Avenue
 Santanaland, SC 90088');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '6913 Jefferson Forges
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 318, '6913 Jefferson Forges
 Johnborough, MP 10538');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4240 Laura Station
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 446, '4240 Laura Station
 Justinborough, MS 00701');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '0574 Rodriguez Keys
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 473, '0574 Rodriguez Keys
 Port Michael, CO 15803');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4460 Haynes Alley
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 419, '4460 Haynes Alley
 Perkinsborough, TN 01489');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '66982 James Cliff
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 944, '66982 James Cliff
 Morristown, OH 83444');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '49782 Michael Valleys Suite 741
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 644, '49782 Michael Valleys Suite 741
 South Kristenstad, WA 33196');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '08051 Kayla Roads
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 898, '08051 Kayla Roads
 East Adam, FL 24130');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 7805, Box 3226
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 569, 'PSC 7805, Box 3226
 APO AA 95416');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '654 Dalton Rue
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 937, '654 Dalton Rue
 Jasonstad, MN 97401');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4184 Oscar Forks
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 402, '4184 Oscar Forks
 East Ashley, AZ 46815');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '67112 Green Ridge Suite 807
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 862, '67112 Green Ridge Suite 807
 Cindyburgh, WY 06739');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 4077 Box 0159
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 208, 'Unit 4077 Box 0159
 DPO AP 82618');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '28842 Sparks Street
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 452, '28842 Sparks Street
 East Kyle, KS 69565');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3188 Mark Mission
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 323, '3188 Mark Mission
 West Jasonton, CA 90122');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '981 Mary Ports
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 235, '981 Mary Ports
 Jamesport, FM 49675');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '57231 Parrish Isle
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 779, '57231 Parrish Isle
 North Ashley, MA 03258');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7302 Miguel Stream
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 550, '7302 Miguel Stream
 Padillaberg, MN 92754');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '92841 Phillips Place Apt. 591
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 419, '92841 Phillips Place Apt. 591
 Josephton, VI 66869');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '46303 Christopher Mount Suite 570
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 744, '46303 Christopher Mount Suite 570
 Vanessachester, TN 64233');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3224 Lee Brook Apt. 963
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 774, '3224 Lee Brook Apt. 963
 East Nancy, AL 15029');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '508 Madison Motorway
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 851, '508 Madison Motorway
 North Zacharychester, MD 58222');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '5471 Campos Parkways Suite 757
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 570, '5471 Campos Parkways Suite 757
 Josephside, DE 64010');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 5242, Box 8012
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 208, 'PSC 5242, Box 8012
 APO AE 35693');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USS Pope
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 529, 'USS Pope
 FPO AE 36731');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 3364 Box 4423
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 571, 'Unit 3364 Box 4423
 DPO AP 03263');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '341 Smith Corner Suite 723
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 347, '341 Smith Corner Suite 723
 Lake Maryborough, OR 82900');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '462 Michael Courts Suite 352
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 633, '462 Michael Courts Suite 352
 Lake Brittanybury, ID 18623');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '27571 Mary Lake Apt. 440
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 205, '27571 Mary Lake Apt. 440
 Michaelshire, VI 91102');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '76028 Hammond Brooks Apt. 695
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 86, '76028 Hammond Brooks Apt. 695
 Thomastown, OR 58358');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '33361 Julia Meadows
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 827, '33361 Julia Meadows
 Port Kara, NY 29146');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '8928 Mackenzie Village
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 488, '8928 Mackenzie Village
 Port Ryan, CT 51086');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '16829 Garrett Locks Suite 319
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 626, '16829 Garrett Locks Suite 319
 North Angelamouth, MT 35531');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '027 Christina Port
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 994, '027 Christina Port
 Randallmouth, AL 13735');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3089 Larson Loop Suite 156
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 495, '3089 Larson Loop Suite 156
 Davidhaven, NV 73264');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '889 Daniel Drive
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 188, '889 Daniel Drive
 North Donna, NC 37698');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '5145 Allen Locks
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 440, '5145 Allen Locks
 Brooksberg, SD 22542');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '84876 Marisa Junctions
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 302, '84876 Marisa Junctions
 East Seth, PR 92214');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '330 Miranda Wells
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 704, '330 Miranda Wells
 Wintersfort, MO 01286');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '469 Bradley Throughway Apt. 324
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 443, '469 Bradley Throughway Apt. 324
 Hannahview, SD 68996');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '691 Flowers Extensions
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 237, '691 Flowers Extensions
 Lake Christine, GA 83710');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 7497 Box 3848
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 486, 'Unit 7497 Box 3848
 DPO AA 59020');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4362 Dorsey Points
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 539, '4362 Dorsey Points
 Sandersfort, NM 97471');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '1621 Robinson Place Suite 341
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 495, '1621 Robinson Place Suite 341
 Fischertown, SD 19724');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '30619 Jonathan Harbor
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 63, '30619 Jonathan Harbor
 Michaelside, OH 80806');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '312 Young Overpass Suite 692
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 522, '312 Young Overpass Suite 692
 New Albertchester, WI 86684');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '089 Johnson Crossroad Apt. 666
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 548, '089 Johnson Crossroad Apt. 666
 Lake Michellestad, NJ 13277');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '108 Wanda Village Suite 517
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 72, '108 Wanda Village Suite 517
 East Carol, ME 93671');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '304 Dillon Meadow
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 669, '304 Dillon Meadow
 Leville, VI 97309');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 9999, Box 4337
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 998, 'PSC 9999, Box 4337
 APO AP 52458');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '6221 James Shoal Suite 630
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 55, '6221 James Shoal Suite 630
 Lake Taylor, SD 12842');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '32263 Moore Island
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 214, '32263 Moore Island
 Lawrenceburgh, MD 73087');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USCGC Boyd
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 364, 'USCGC Boyd
 FPO AA 45560');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '1791 Flores Terrace
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 926, '1791 Flores Terrace
 New Nancyside, ME 75608');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '98477 Jonathan Isle
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 779, '98477 Jonathan Isle
 Holmeston, MS 64613');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '801 Douglas Neck
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 228, '801 Douglas Neck
 West Jennifer, KY 89309');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 7527 Box 2082
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 649, 'Unit 7527 Box 2082
 DPO AP 01730');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7718 Chloe Views Apt. 407
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 258, '7718 Chloe Views Apt. 407
 Jeromechester, AR 88277');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '28596 Powers Ferry Apt. 532
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 955, '28596 Powers Ferry Apt. 532
 Cherylmouth, KS 62019');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '67518 Steven Flat
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 876, '67518 Steven Flat
 Douglasstad, ME 27403');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3582 Marissa Neck
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 413, '3582 Marissa Neck
 East Donald, ME 12142');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 5012, Box 5179
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 319, 'PSC 5012, Box 5179
 APO AA 48590');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '803 Michelle Brook Apt. 758
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 522, '803 Michelle Brook Apt. 758
 Oscarshire, WI 50244');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3760 Brett Inlet
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 944, '3760 Brett Inlet
 Port Yolanda, FL 37518');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '685 Melissa Pike
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 97, '685 Melissa Pike
 New Patricia, KY 27961');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '73530 Cook Plain Apt. 179
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 976, '73530 Cook Plain Apt. 179
 Fostermouth, ID 27772');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9501 Amanda Keys Apt. 015
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 121, '9501 Amanda Keys Apt. 015
 Port Raymondfurt, VT 61645');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '65233 Audrey Parkways Apt. 177
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 134, '65233 Audrey Parkways Apt. 177
 New Sergiofurt, HI 20653');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '545 Lopez Hills Apt. 945
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 742, '545 Lopez Hills Apt. 945
 Haroldshire, TN 09609');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '27798 Douglas Estate Apt. 796
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 750, '27798 Douglas Estate Apt. 796
 Walkershire, HI 68606');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '2047 Wood Forges
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 905, '2047 Wood Forges
 Jonesmouth, RI 43294');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USS Jackson
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 774, 'USS Jackson
 FPO AE 64044');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '59710 Ramsey Hills Apt. 761
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 380, '59710 Ramsey Hills Apt. 761
 North Timothytown, MH 47063');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '737 John Ferry
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 488, '737 John Ferry
 North Adam, MI 33127');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '71752 Liu Green Apt. 584
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 737, '71752 Liu Green Apt. 584
 Matthewstad, NH 38061');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USS Nguyen
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 175, 'USS Nguyen
 FPO AP 24117');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '5486 Emma Common
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 889, '5486 Emma Common
 Kimberlyside, KS 96013');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '76759 Karen Trafficway
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 160, '76759 Karen Trafficway
 Nelsonbury, SD 58456');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '903 Angelica River
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 723, '903 Angelica River
 Nicholasbury, NM 45188');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '158 Lisa Divide Suite 848
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 236, '158 Lisa Divide Suite 848
 Riosport, RI 43167');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '54944 Griffin Port
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 903, '54944 Griffin Port
 Bensonberg, DC 28602');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '2986 Jorge Plains
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 236, '2986 Jorge Plains
 West Samanthaton, AR 58033');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '246 Smith Plains
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 277, '246 Smith Plains
 Brownmouth, OH 90728');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '34616 James River
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 793, '34616 James River
 South Kevinville, VA 99107');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '566 Strickland Brooks Apt. 440
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 647, '566 Strickland Brooks Apt. 440
 Alexanderfurt, WY 66643');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '000 Wheeler Road
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 59, '000 Wheeler Road
 Laurenshire, MN 75262');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '87974 Malik Freeway
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 971, '87974 Malik Freeway
 New Nathan, AS 45827');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '74145 Chang Extensions
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 655, '74145 Chang Extensions
 Port David, DE 28699');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '916 Daniel Mews
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 301, '916 Daniel Mews
 Brucetown, AZ 56622');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '65811 Davis Point
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 697, '65811 Davis Point
 New David, AR 67351');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '178 Williams Turnpike Suite 024
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 914, '178 Williams Turnpike Suite 024
 Valentineside, TN 01632');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '13380 Sosa Cliffs
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 850, '13380 Sosa Cliffs
 Port Jeremyberg, KY 94200');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 6088, Box 5090
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 204, 'PSC 6088, Box 5090
 APO AA 42792');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7905 Chad Lake Apt. 205
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 987, '7905 Chad Lake Apt. 205
 Leechester, MO 61903');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '43156 Howard Fork
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 393, '43156 Howard Fork
 Lake Eric, MP 70797');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 8870 Box 8562
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 926, 'Unit 8870 Box 8562
 DPO AP 96068');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '454 Morris Trace Apt. 619
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 595, '454 Morris Trace Apt. 619
 Petersonborough, UT 25907');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '751 Marshall Field Apt. 153
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 925, '751 Marshall Field Apt. 153
 Connorside, MO 52410');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '700 Wilkerson Parkways Suite 144
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 46, '700 Wilkerson Parkways Suite 144
 Antoniohaven, IA 75174');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '8454 Snyder Fork
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 225, '8454 Snyder Fork
 Wangmouth, MT 56622');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '41627 Hensley Rest
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 700, '41627 Hensley Rest
 Stevenfurt, VA 06949');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 4608, Box 5698
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 424, 'PSC 4608, Box 5698
 APO AE 02630');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '123 Rodney Grove Suite 867
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 559, '123 Rodney Grove Suite 867
 Jordanport, PW 88154');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '554 Nguyen Key
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 929, '554 Nguyen Key
 Lake Christopher, IN 72064');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '511 Monica Way Apt. 779
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 298, '511 Monica Way Apt. 779
 Rebeccaberg, NV 86350');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '394 David Parks Apt. 278
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 568, '394 David Parks Apt. 278
 Saundersville, MP 37551');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '71108 John Spurs Suite 140
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 822, '71108 John Spurs Suite 140
 Thomasburgh, AR 93442');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '45915 Green Mission Apt. 458
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 631, '45915 Green Mission Apt. 458
 Lake Victoriashire, MD 54504');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '96444 Diana Manor
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 849, '96444 Diana Manor
 Donovantown, PW 25970');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7606 Hicks Row Apt. 392
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 788, '7606 Hicks Row Apt. 392
 Whiteside, VA 05344');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '00496 Middleton Islands Apt. 072
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 624, '00496 Middleton Islands Apt. 072
 Smithland, FM 63974');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '11674 Parker Plains Suite 550
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 444, '11674 Parker Plains Suite 550
 Port Charles, PA 73425');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '60207 Shelley Tunnel Apt. 044
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 764, '60207 Shelley Tunnel Apt. 044
 Haleyfurt, SC 75013');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '04118 Barajas Ranch Apt. 182
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 32, '04118 Barajas Ranch Apt. 182
 Amandafurt, FL 30011');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '251 Brown Bridge Apt. 028
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 263, '251 Brown Bridge Apt. 028
 Port Kellyview, IN 21321');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '5517 Black Glens
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 574, '5517 Black Glens
 West Joel, FL 13041');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '39800 Nancy Gateway
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 785, '39800 Nancy Gateway
 Rebeccabury, NV 31606');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '69525 Nicolas Canyon
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 173, '69525 Nicolas Canyon
 Powerstown, WY 45068');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '259 Virginia Prairie
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 835, '259 Virginia Prairie
 Port Kendra, DC 09959');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '61289 Ronald Pike
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 197, '61289 Ronald Pike
 Hernandezside, IN 37912');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '264 Maureen Lake Apt. 634
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 517, '264 Maureen Lake Apt. 634
 Emilyton, HI 13691');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USNV Alexander
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 571, 'USNV Alexander
 FPO AE 74398');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '44749 Scott Wells
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 401, '44749 Scott Wells
 Sharonborough, AL 16102');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '477 Susan Dam
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 235, '477 Susan Dam
 Heatherside, CT 43811');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '6250 Christina Gateway
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 90, '6250 Christina Gateway
 Wattsbury, IA 83474');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '5145 Castro Bridge
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 911, '5145 Castro Bridge
 East Lauraside, FM 97147');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '53775 Fitzgerald Meadow
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 533, '53775 Fitzgerald Meadow
 East Cherylhaven, MH 38249');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '5804 Chapman Row
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 766, '5804 Chapman Row
 East Joseph, VA 71724');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '12037 Logan Oval
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 18, '12037 Logan Oval
 Kimberlyland, AS 03371');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4966 Ross Passage Suite 122
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 632, '4966 Ross Passage Suite 122
 North Antonio, OH 89889');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 1902 Box 8167
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 255, 'Unit 1902 Box 8167
 DPO AA 92913');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '2160 Alicia Village
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 772, '2160 Alicia Village
 West Derek, PW 53312');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 0455 Box 4105
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 477, 'Unit 0455 Box 4105
 DPO AA 91435');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '28014 Audrey Stravenue Suite 035
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 136, '28014 Audrey Stravenue Suite 035
 Kellershire, CT 68655');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '47855 Desiree Plaza Suite 320
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 944, '47855 Desiree Plaza Suite 320
 Whitneybury, WV 10753');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '883 Jason Summit
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 884, '883 Jason Summit
 Palmerberg, MP 94877');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '604 Crosby Trail Suite 668
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 324, '604 Crosby Trail Suite 668
 Mistyland, NC 82372');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USNV Nolan
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 402, 'USNV Nolan
 FPO AE 80475');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 6133 Box 8493
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 713, 'Unit 6133 Box 8493
 DPO AP 08273');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '12796 Ann Summit Apt. 288
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 772, '12796 Ann Summit Apt. 288
 Bryanton, ID 28825');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '8275 Mercado Well
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 715, '8275 Mercado Well
 Beardborough, MT 87020');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '371 Steven Camp
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 787, '371 Steven Camp
 South Markburgh, IA 66730');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '797 Guzman View
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 28, '797 Guzman View
 Saraborough, CA 69396');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '02654 Johnson Valley Apt. 067
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 85, '02654 Johnson Valley Apt. 067
 East Davidland, ID 88172');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '18176 Joshua Wells Suite 595
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 969, '18176 Joshua Wells Suite 595
 Hornton, AK 99490');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '02026 Gomez Villages
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 954, '02026 Gomez Villages
 New Jerry, HI 41468');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USS Rose
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 420, 'USS Rose
 FPO AE 52374');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '164 Monroe Pike Apt. 496
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 87, '164 Monroe Pike Apt. 496
 Christinamouth, VT 10095');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '45950 Donaldson Harbors Apt. 853
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 471, '45950 Donaldson Harbors Apt. 853
 New Angelashire, FL 66794');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '6327 Kenneth Forge Suite 767
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 111, '6327 Kenneth Forge Suite 767
 Port Angela, UT 50795');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 7594, Box 8623
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 661, 'PSC 7594, Box 8623
 APO AP 73663');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 6843 Box 1799
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 5, 'Unit 6843 Box 1799
 DPO AP 48760');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '55849 Barnett Village Apt. 325
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 98, '55849 Barnett Village Apt. 325
 South Joseph, ND 24440');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '578 Reid Crescent
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 312, '578 Reid Crescent
 Carrview, ID 95960');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '92635 Rodriguez Stravenue
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 17, '92635 Rodriguez Stravenue
 Smithview, MO 69998');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '194 Bryan Ford Suite 147
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 958, '194 Bryan Ford Suite 147
 Boydfurt, MS 68059');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '46795 Huang Center Suite 689
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 349, '46795 Huang Center Suite 689
 Christineside, AS 24744');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '001 Watson Stravenue
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 805, '001 Watson Stravenue
 Port Richard, OR 85147');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '16354 Adams Lock Apt. 909
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 180, '16354 Adams Lock Apt. 909
 Dennisland, MO 65163');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7396 Jennifer Lakes
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 895, '7396 Jennifer Lakes
 East Lisa, VI 17086');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '105 Laura Fields Suite 259
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 423, '105 Laura Fields Suite 259
 Kristinchester, LA 74871');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 7801, Box 0903
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 320, 'PSC 7801, Box 0903
 APO AA 15621');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '22998 Levy Vista
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 874, '22998 Levy Vista
 Michelleton, NY 25750');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '12363 Krista Loop
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 228, '12363 Krista Loop
 Garciahaven, DC 06134');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9831 Brandy Ford Apt. 926
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 305, '9831 Brandy Ford Apt. 926
 West Stacey, VA 03998');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '14205 Marcus Throughway Suite 904
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 689, '14205 Marcus Throughway Suite 904
 North Barbara, AR 76206');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '29063 Katherine Island Apt. 548
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 351, '29063 Katherine Island Apt. 548
 Drakestad, NH 83140');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '45982 Robert Way Suite 553
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 331, '45982 Robert Way Suite 553
 Garciaberg, ME 92604');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '38945 Neal Spurs
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 102, '38945 Neal Spurs
 Markbury, TN 95496');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '48011 Jarvis Gateway Suite 017
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 740, '48011 Jarvis Gateway Suite 017
 Andrewtown, NV 83094');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '131 Scott Centers Apt. 414
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 549, '131 Scott Centers Apt. 414
 East Carla, MI 78162');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '640 Thompson Walk Apt. 404
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 558, '640 Thompson Walk Apt. 404
 Fosterfort, GU 88042');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '0798 Hobbs Ford
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 591, '0798 Hobbs Ford
 Mahoneyton, FM 59287');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '672 Walters Plaza Apt. 464
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 446, '672 Walters Plaza Apt. 464
 East Steven, CO 82053');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '2404 Jordan Branch
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 370, '2404 Jordan Branch
 Theresaberg, AS 14861');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '73950 Blair Expressway
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 672, '73950 Blair Expressway
 Michaelborough, NH 16587');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '16082 Heather Causeway Apt. 664
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 446, '16082 Heather Causeway Apt. 664
 Lake Laurieberg, WY 66649');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '277 Michael Orchard
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 222, '277 Michael Orchard
 Evansland, PR 69784');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '63503 Holland Roads Apt. 155
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 233, '63503 Holland Roads Apt. 155
 Davidsonshire, MO 32339');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '5756 Travis Circles
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 543, '5756 Travis Circles
 Hickmanstad, VA 24376');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '1894 Amber Gateway
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 20, '1894 Amber Gateway
 East Jose, TN 51410');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '407 Robert Station
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 467, '407 Robert Station
 Port Danielberg, FL 30244');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '660 Richard Land Apt. 252
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 676, '660 Richard Land Apt. 252
 Harrisbury, MI 02716');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '196 Anthony Track
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 524, '196 Anthony Track
 New David, TX 46216');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '065 Alexandra Club
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 733, '065 Alexandra Club
 Martinfurt, AK 84149');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '891 White Skyway
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 465, '891 White Skyway
 Port Logan, DE 75395');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '40047 Gary Camp
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 845, '40047 Gary Camp
 Crystalfort, AR 64557');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '083 Andrea Lakes
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 916, '083 Andrea Lakes
 South Karenmouth, MD 60795');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9210 Garcia Centers
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 559, '9210 Garcia Centers
 South Teresatown, WI 14279');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USS Thompson
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 135, 'USS Thompson
 FPO AA 07488');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7943 Salazar Villages
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 508, '7943 Salazar Villages
 North Evanfort, TX 59927');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '589 Anderson Courts Suite 722
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 249, '589 Anderson Courts Suite 722
 South Sarahfurt, SC 12538');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '2038 Aguirre Garden
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 762, '2038 Aguirre Garden
 South Ashleymouth, AZ 74275');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '154 Bowman Loop
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 104, '154 Bowman Loop
 Lewisport, MN 04027');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7881 Parrish Stream
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 896, '7881 Parrish Stream
 Leefort, VA 30821');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3791 Taylor Creek
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 588, '3791 Taylor Creek
 Ashleymouth, WI 78763');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USNS Beard
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 459, 'USNS Beard
 FPO AP 45541');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '0757 Burke Squares Apt. 181
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 292, '0757 Burke Squares Apt. 181
 Amandashire, WY 84679');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '102 Good Springs
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 817, '102 Good Springs
 Millerfurt, DE 93085');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4897 Williamson Spurs
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 531, '4897 Williamson Spurs
 Willisburgh, AK 50823');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '94802 Shane Drive
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 87, '94802 Shane Drive
 West Carolbury, ND 97702');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '2835 Matthew Stream Suite 008
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 57, '2835 Matthew Stream Suite 008
 Bryanttown, DE 75262');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '6403 Stanley Parkways
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 409, '6403 Stanley Parkways
 Campbellfurt, ME 73179');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '641 Kristina Ports
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 248, '641 Kristina Ports
 Port Jefferyside, OR 72835');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '63918 Leon Roads
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 962, '63918 Leon Roads
 New James, MS 73626');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '03898 Cynthia Light Apt. 704
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 673, '03898 Cynthia Light Apt. 704
 East Mercedeston, OK 60936');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 3687 Box 7694
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 32, 'Unit 3687 Box 7694
 DPO AE 71636');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3352 Lisa Drive
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 977, '3352 Lisa Drive
 Port Kristenhaven, WV 09725');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '966 Campos Locks Suite 023
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 654, '966 Campos Locks Suite 023
 Davidberg, MN 70716');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '57585 Laurie Parks Suite 619
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 281, '57585 Laurie Parks Suite 619
 Herrerashire, MP 10955');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '53441 Peterson Manor
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 25, '53441 Peterson Manor
 Michaelside, WA 20090');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 4507 Box 6077
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 905, 'Unit 4507 Box 6077
 DPO AP 59453');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'PSC 8289, Box 2534
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 725, 'PSC 8289, Box 2534
 APO AP 18224');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '70684 Taylor Crossing
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 938, '70684 Taylor Crossing
 Josephburgh, MP 89522');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '677 David Circles Apt. 034
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 590, '677 David Circles Apt. 034
 Lake Jerryside, FM 84327');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9463 Blanchard Alley Suite 247
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 51, '9463 Blanchard Alley Suite 247
 Kathleenport, KS 12024');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '90630 Torres Green Apt. 534
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 534, '90630 Torres Green Apt. 534
 New Erikbury, NV 91442');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '17593 Gibson Locks Apt. 653
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 602, '17593 Gibson Locks Apt. 653
 Lake Michael, CO 66812');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '1348 Donna Port
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 28, '1348 Donna Port
 Jamesland, MH 80955');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '765 Kristen Forge
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 436, '765 Kristen Forge
 Port Kimberlychester, CT 96133');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '108 Karen Cape
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 29, '108 Karen Cape
 West Joseph, OR 42436');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '130 Price Circles Suite 523
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 691, '130 Price Circles Suite 523
 East Antonioborough, KS 00999');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '204 Murphy Underpass Apt. 045
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 977, '204 Murphy Underpass Apt. 045
 Christinaburgh, IL 72312');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '87199 Katie Isle
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 8, '87199 Katie Isle
 Dennisstad, NM 75064');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '839 Kramer Manor
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 140, '839 Kramer Manor
 Port Rebecca, VI 99009');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '135 Nicole Station
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 848, '135 Nicole Station
 East Kelly, GA 80827');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '71285 Stephanie Stravenue Apt. 478
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 879, '71285 Stephanie Stravenue Apt. 478
 Newmantown, MA 22222');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '11928 Erik Plains
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 678, '11928 Erik Plains
 Lake Joel, SD 04424');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '29906 Bell Inlet Suite 990
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 232, '29906 Bell Inlet Suite 990
 Bernardville, KS 19824');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '751 Reilly Rue
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 474, '751 Reilly Rue
 Port Sean, RI 49359');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '286 Arnold Park
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 335, '286 Arnold Park
 Port Ericachester, WV 38524');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '88327 James Track Apt. 067
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 325, '88327 James Track Apt. 067
 Allisonton, WI 69783');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3367 Michael Plaza
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 187, '3367 Michael Plaza
 Nancyport, OH 29019');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '13085 Jordan Row
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 597, '13085 Jordan Row
 Sarahview, VT 32438');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '89842 Tina Meadows
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 540, '89842 Tina Meadows
 North Reneeborough, NM 12415');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '966 Courtney Springs Suite 906
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 686, '966 Courtney Springs Suite 906
 Littlefort, OR 39755');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '3214 Jennifer Spring Apt. 120
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 50, '3214 Jennifer Spring Apt. 120
 South Shaneville, IA 38024');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '9746 Heather Vista
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 771, '9746 Heather Vista
 West Lauraside, FL 00770');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '36305 Molly Tunnel Apt. 684
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 670, '36305 Molly Tunnel Apt. 684
 North Juanport, AS 07729');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4128 Schmitt Trail
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 639, '4128 Schmitt Trail
 South Timothy, NE 07663');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '2898 Kyle Villages Apt. 464
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 630, '2898 Kyle Villages Apt. 464
 Port Jamesport, TX 59335');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USCGC Taylor
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 226, 'USCGC Taylor
 FPO AE 29897');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '6000 Steven Mill
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 891, '6000 Steven Mill
 Hollyfort, CO 85512');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '96111 Richardson Station
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 347, '96111 Richardson Station
 East Ryanville, WV 67797');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '66508 Dawn Lakes
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 773, '66508 Dawn Lakes
 West Sarahport, UT 50481');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'USNS Shaffer
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 565, 'USNS Shaffer
 FPO AP 29787');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '50957 Sean Oval
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 131, '50957 Sean Oval
 East Allisonshire, IA 93661');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '19337 Duncan Ports
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 662, '19337 Duncan Ports
 Williamport, VT 44526');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '696 Nelson Summit Suite 647
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 951, '696 Nelson Summit Suite 647
 Allenshire, DC 36445');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '4339 Denise Glens Apt. 171
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 769, '4339 Denise Glens Apt. 171
 Lake Sheribury, IA 59783');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '82711 Donald Road
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 388, '82711 Donald Road
 New Christina, VA 17131');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '79956 Thompson Fork Apt. 049
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 444, '79956 Thompson Fork Apt. 049
 West Connor, MD 55194');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '59401 Tina Drives
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 583, '59401 Tina Drives
 Riveraport, MT 75654');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '410 Lisa Ridge Apt. 928
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 4, '410 Lisa Ridge Apt. 928
 West John, TN 24123');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '5550 Hughes Place
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 941, '5550 Hughes Place
 Haleyborough, ID 54339');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '074 Sharon Alley Suite 306
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 57, '074 Sharon Alley Suite 306
 Russellport, HI 64271');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '8918 Morton Island
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 8, '8918 Morton Island
 Lake Renee, MD 51455');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '513 John Crossroad Apt. 988
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 149, '513 John Crossroad Apt. 988
 Port Maria, KS 79979');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '1422 Steele Mountains Apt. 561
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 252, '1422 Steele Mountains Apt. 561
 Stevenhaven, NY 52749');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '176 Natalie Cliff
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 441, '176 Natalie Cliff
 Robertsbury, OK 80216');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '516 Garcia Grove
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 856, '516 Garcia Grove
 New Frederickton, HI 01700');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '580 Caitlin Parkway Suite 538
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 535, '580 Caitlin Parkway Suite 538
 Lake Michellestad, NY 79893');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '154 Brenda Freeway
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 997, '154 Brenda Freeway
 New Sharon, OK 47927');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '88403 Jordan Mill
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 336, '88403 Jordan Mill
 Vanessaland, DE 59611');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 3546 Box 6062
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 343, 'Unit 3546 Box 6062
 DPO AE 04983');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '569 Velasquez Viaduct
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 515, '569 Velasquez Viaduct
 East Davidstad, VT 74588');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, 'Unit 2208 Box 7299
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 20, 'Unit 2208 Box 7299
 DPO AA 93595');
-INSERT INTO order_details(id, delivery_address) VALUES (DEFAULT, '7685 Smith Circles
+INSERT INTO orders(id, customer, delivery_address) VALUES (DEFAULT, 957, '7685 Smith Circles
 Lake Shirley, DC 65901');
